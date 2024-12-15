@@ -1,0 +1,290 @@
+[
+    {
+        "id": 0,
+        "text": "WALMART",
+        "label": "shop_vendor",
+        "box": [
+            400,
+            200,
+            600,
+            250
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "882 S. STATE ROAD 135, GREENWOOD IN 46143",
+        "label": "location",
+        "box": [
+            324,
+            135,
+            500,
+            165
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "04/27/19 12:59:46",
+        "label": "datetime",
+        "box": [
+            380,
+            1400,
+            580,
+            1450
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "TATER TOTS 1 2.96 2.96",
+        "label": "item",
+        "box": [
+            320,
+            290,
+            580,
+            310
+        ],
+        "linking": []
+    },
+    {
+        "id": 4,
+        "text": "SNACK BARS 1 5.98 5.98",
+        "label": "item",
+        "box": [
+            320,
+            320,
+            580,
+            340
+        ],
+        "linking": []
+    },
+    {
+        "id": 5,
+        "text": "HRI CL CHS 1 5.98 5.98",
+        "label": "item",
+        "box": [
+            320,
+            350,
+            580,
+            370
+        ],
+        "linking": []
+    },
+    {
+        "id": 6,
+        "text": "HRI CL CHS 1 5.88 5.88",
+        "label": "item",
+        "box": [
+            320,
+            380,
+            580,
+            400
+        ],
+        "linking": []
+    },
+    {
+        "id": 7,
+        "text": "HRB GOU CHDDR 1 5.88 5.88",
+        "label": "item",
+        "box": [
+            320,
+            410,
+            580,
+            430
+        ],
+        "linking": []
+    },
+    {
+        "id": 8,
+        "text": "SC BK THINBAR 1 5.88 5.88",
+        "label": "item",
+        "box": [
+            320,
+            440,
+            580,
+            460
+        ],
+        "linking": []
+    },
+    {
+        "id": 9,
+        "text": "IBS CH DR P BUN 1 2.98 2.98",
+        "label": "item",
+        "box": [
+            320,
+            470,
+            580,
+            490
+        ],
+        "linking": []
+    },
+    {
+        "id": 10,
+        "text": "APPLE 3 BAG 1 2.96 2.96",
+        "label": "item",
+        "box": [
+            320,
+            500,
+            580,
+            520
+        ],
+        "linking": []
+    },
+    {
+        "id": 11,
+        "text": "PEANUT BUTTR 1 5.48 5.48",
+        "label": "item",
+        "box": [
+            320,
+            530,
+            580,
+            550
+        ],
+        "linking": []
+    },
+    {
+        "id": 12,
+        "text": "ROLLS 1 1.28 1.28",
+        "label": "item",
+        "box": [
+            320,
+            560,
+            580,
+            580
+        ],
+        "linking": []
+    },
+    {
+        "id": 13,
+        "text": "BTS DRY BLON 1 1.00 1.00",
+        "label": "item",
+        "box": [
+            320,
+            590,
+            580,
+            610
+        ],
+        "linking": []
+    },
+    {
+        "id": 14,
+        "text": "GALE 1 32.00 32.00",
+        "label": "item",
+        "box": [
+            320,
+            620,
+            580,
+            640
+        ],
+        "linking": []
+    },
+    {
+        "id": 15,
+        "text": "TR HS FRM 4 1 2.94 2.94",
+        "label": "item",
+        "box": [
+            320,
+            650,
+            580,
+            670
+        ],
+        "linking": []
+    },
+    {
+        "id": 16,
+        "text": "BAGELS 1 2.50 2.50",
+        "label": "item",
+        "box": [
+            320,
+            680,
+            580,
+            700
+        ],
+        "linking": []
+    },
+    {
+        "id": 17,
+        "text": "GV SLIDERS 1 2.98 2.98",
+        "label": "item",
+        "box": [
+            320,
+            710,
+            580,
+            730
+        ],
+        "linking": []
+    },
+    {
+        "id": 18,
+        "text": "ACCESSORY 1 1.00 1.00",
+        "label": "item",
+        "box": [
+            320,
+            740,
+            580,
+            760
+        ],
+        "linking": []
+    },
+    {
+        "id": 19,
+        "text": "CHEEZE IT 1 4.00 4.00",
+        "label": "item",
+        "box": [
+            320,
+            770,
+            580,
+            790
+        ],
+        "linking": []
+    },
+    {
+        "id": 20,
+        "text": "RITZ W5 4.54 1 2.78 2.78",
+        "label": "item",
+        "box": [
+            320,
+            800,
+            580,
+            820
+        ],
+        "linking": []
+    },
+    {
+        "id": 21,
+        "text": "RUFFLES 1 2.78 2.78",
+        "label": "item",
+        "box": [
+            320,
+            830,
+            580,
+            850
+        ],
+        "linking": []
+    },
+    {
+        "id": 22,
+        "text": "GV HNY GRMS 1 2.50 2.50",
+        "label": "item",
+        "box": [
+            320,
+            860,
+            580,
+            880
+        ],
+        "linking": []
+    },
+    {
+        "id": 23,
+        "text": "TOTAL 141.02",
+        "label": "total",
+        "box": [
+            420,
+            1150,
+            580,
+            1170
+        ],
+        "linking": []
+    }
+]
