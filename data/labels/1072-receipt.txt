@@ -1,0 +1,28 @@
+{
+    "location": "4469 SLAUSON AVE, Maywood, CA 90270",
+    "shop": "HAWATTAN BBQ",
+    "datetime": "6/1/2013 7:43:46 PM",
+    "items": [
+        {
+            "name": "1/2 AND 1/2 COMBO - FRIED SHRIMP, SHORT RIB",
+            "quantity": 1,
+            "unitprice": 8.45,
+            "amount": 8.45,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "1/2 AND 1/2 COMBO - BBQ BEEF, FRIED SHRIMP",
+            "quantity": 1,
+            "unitprice": 1.95,
+            "amount": 1.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "FOUNTAIN MEDIUM",
+            "quantity": 2,
+            "unitprice": 1.75,
+            "amount": 3.5,
+            "category": "beverages"
+        }
+    ]
+}

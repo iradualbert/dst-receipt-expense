@@ -1,0 +1,8 @@
+{
+    "shop": "alin soso",
+    "location": "Vos orice 8B",
+    "items": [],
+    "subtotal": 12.08,
+    "tax": 0.78,
+    "total": 12.86
+}

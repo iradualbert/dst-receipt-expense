@@ -1,0 +1,51 @@
+{
+    "location": "25 West San Fernando St., San Jose, CA 95113",
+    "shop": "Mexican Restaurant & Bar",
+    "phone": "(408) 283-9595",
+    "datetime": "Unknown",
+    "items": [
+        {
+            "name": "Unknown Item 1",
+            "quantity": 1,
+            "unitprice": 3.25,
+            "amount": 3.25,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 2",
+            "quantity": 1,
+            "unitprice": 14.95,
+            "amount": 14.95,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 3",
+            "quantity": 1,
+            "unitprice": 5.95,
+            "amount": 5.95,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 4",
+            "quantity": 1,
+            "unitprice": 9.95,
+            "amount": 9.95,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 5",
+            "quantity": 1,
+            "unitprice": 15.95,
+            "amount": 15.95,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 50.05,
+    "tax": 5.46,
+    "total": 55.51,
+    "gratuity": {
+        "percentage": 18.0,
+        "amount": 9.01
+    },
+    "balance_due": 64.52
+}

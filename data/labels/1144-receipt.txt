@@ -1,0 +1,17 @@
+{
+    "location": "81 Ludlow st, New York, NY 10002",
+    "shop": "CHLOES1",
+    "datetime": "08/03/18",
+    "items": [
+        {
+            "name": "HOUSE VODKA",
+            "quantity": 2,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "HOUSE TEQUILA",
+            "quantity": 1,
+            "category": "alcholic_beverages"
+        }
+    ]
+}

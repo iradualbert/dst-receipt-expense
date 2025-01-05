@@ -1,0 +1,29 @@
+{
+    "location": "1902 Jericho Tumpike, New Hyde Park NY 11040",
+    "shop": "Chef Wang",
+    "datetime": "02/02/19",
+    "items": [
+        {
+            "name": "Little Juicy Pork Buns",
+            "quantity": 1,
+            "unitprice": 5.25,
+            "amount": 5.25,
+            "category": "misc"
+        },
+        {
+            "name": "Beef w Bak Choy (L)",
+            "quantity": 1,
+            "unitprice": 9.95,
+            "amount": 9.95,
+            "category": "misc"
+        },
+        {
+            "name": "Hunan Beef (1)",
+            "quantity": 1,
+            "unitprice": 8.75,
+            "amount": 8.75,
+            "category": "misc"
+        }
+    ],
+    "total": 35.52
+}

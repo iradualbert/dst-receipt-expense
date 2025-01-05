@@ -1,0 +1,28 @@
+{
+    "location": "242 N Larchmont Blvd, Los Angeles, CA 90004",
+    "shop": "Cafe Parisien Larchmont LLC",
+    "phone": "(310) 815-8222",
+    "datetime": "01/24/19 09:40:29 AM",
+    "dining_option": "Dine In",
+    "server": "Kimberly L.",
+    "table": 36,
+    "items": [
+        {
+            "name": "Croissant aux Raisins",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Cappucino",
+            "quantity": 1,
+            "unitprice": 4.75,
+            "amount": 4.75,
+            "category": "beverages"
+        }
+    ],
+    "subtotal": 8.75,
+    "sales_tax": 0.83,
+    "total": 9.58
+}

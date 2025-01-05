@@ -1,0 +1,26 @@
+{
+    "location": "15700 Beower Blvd, Bellflower, CA 90706",
+    "shop": "Nathalie",
+    "items": [
+        {
+            "name": "Enchi Omelete SHREDDED BEEF",
+            "quantity": 2,
+            "category": "misc"
+        },
+        {
+            "name": "Open Food SHREDDED BEEF",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Open Food",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Hashbrowns Side",
+            "quantity": 1,
+            "category": "misc"
+        }
+    ]
+}

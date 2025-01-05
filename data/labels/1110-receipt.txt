@@ -1,0 +1,24 @@
+{
+    "location": "1236 S Wolfe Rd, Sunnyvale, CA 94086",
+    "shop": "Chelokababi",
+    "items": [
+        {
+            "name": "Koobideh",
+            "quantity": 7,
+            "unitprice": 16.5,
+            "amount": 115.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Nan-O-Sabzi",
+            "quantity": 1,
+            "unitprice": 8.95,
+            "amount": 8.95,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "subtotal": 146.85,
+    "gratuity": 22.4,
+    "sales_tax": 13.22,
+    "total": 182.47
+}

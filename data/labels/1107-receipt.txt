@@ -1,0 +1,66 @@
+{
+    "location": "4323 Hazel Avenue, Fair Oaks, CA 95628",
+    "shop": "MIKUNI JAPANESE",
+    "datetime": "06/17/17 08:15PM",
+    "items": [
+        {
+            "name": "Mojito Pitcher Original",
+            "quantity": 1,
+            "unitprice": 18.0,
+            "amount": 18.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Brussel Sprouts",
+            "quantity": 1,
+            "unitprice": 6.5,
+            "amount": 6.5,
+            "category": "produce"
+        },
+        {
+            "name": "Pepperfin",
+            "quantity": 1,
+            "unitprice": 14.5,
+            "amount": 14.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Spicy Drm 1 Red",
+            "quantity": 1,
+            "unitprice": 14.5,
+            "amount": 14.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Aerojet",
+            "quantity": 1,
+            "unitprice": 14.95,
+            "amount": 14.95,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Cou Toro",
+            "quantity": 2,
+            "unitprice": 9.5,
+            "amount": 19.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Daikon Hamachi",
+            "quantity": 1,
+            "unitprice": 14.5,
+            "amount": 14.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Garlic Salmon",
+            "quantity": 1,
+            "unitprice": 14.0,
+            "amount": 14.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 133.9,
+    "tax": 10.38,
+    "total": 144.28
+}

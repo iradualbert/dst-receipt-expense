@@ -1,0 +1,52 @@
+{
+    "location": "328 Washington Street, Hoboken",
+    "shop": "Trattoria Saporito",
+    "datetime": "7/1/2018 8:33:48 PM",
+    "server": "Gastone",
+    "items": [
+        {
+            "name": "Stuffed Artichoke",
+            "quantity": 1,
+            "unitprice": 18.0,
+            "amount": 18.0,
+            "category": "misc"
+        },
+        {
+            "name": "Bk Fett Al Porcini",
+            "quantity": 1,
+            "unitprice": 36.0,
+            "amount": 36.0,
+            "category": "misc"
+        },
+        {
+            "name": "Costolette Alla Pap",
+            "quantity": 1,
+            "unitprice": 42.0,
+            "amount": 42.0,
+            "category": "misc"
+        },
+        {
+            "name": "Broccoli Rabe W/ Ga",
+            "quantity": 1,
+            "unitprice": 10.5,
+            "amount": 10.5,
+            "category": "produce"
+        },
+        {
+            "name": "Espresso",
+            "quantity": 1,
+            "unitprice": 3.7,
+            "amount": 3.7,
+            "category": "beverages"
+        },
+        {
+            "name": "Dbl Espresso",
+            "quantity": 1,
+            "unitprice": 7.3,
+            "amount": 7.3,
+            "category": "beverages"
+        }
+    ],
+    "subtotal": 117.75,
+    "fro_total": 16.38
+}

@@ -1,0 +1,22 @@
+{
+    "location": "8012 Georgia Ave, Silver Spring, MD 20910",
+    "shop": "Crisfield Seafood Restaurant",
+    "datetime": "12/29/2017 20:38:16",
+    "items": [
+        {
+            "name": "Crisfield Special Platter",
+            "quantity": 1,
+            "unitprice": 27.0,
+            "amount": 27.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Pint Bisque",
+            "quantity": 1,
+            "unitprice": 11.5,
+            "amount": 11.5,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 42.74
+}

@@ -1,0 +1,46 @@
+{
+    "shop": "Shake Shack",
+    "items": [
+        {
+            "name": "ShackBurger",
+            "quantity": 1,
+            "unitprice": 6.49,
+            "amount": 6.49,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Cheese Fries",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "REG Soda",
+            "quantity": 2,
+            "unitprice": 2.75,
+            "amount": 5.5,
+            "category": "beverages"
+        },
+        {
+            "name": "REG Rootbeer",
+            "quantity": 1,
+            "unitprice": 2.5,
+            "amount": 2.5,
+            "category": "beverages"
+        },
+        {
+            "name": "REG Iced Tea",
+            "quantity": 1,
+            "unitprice": 2.5,
+            "amount": 2.5,
+            "category": "beverages"
+        }
+    ],
+    "subtotal": 23.99,
+    "tax": 1.48,
+    "total": 25.47,
+    "payment_method": "Visa",
+    "card_number": "XXXXXXXXXXXX9197",
+    "authorization": "130960"
+}

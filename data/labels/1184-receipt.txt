@@ -1,0 +1,71 @@
+{
+    "location": "TS MAIN DINING",
+    "shop": "TREE ERERA RRR EEEREREEAE",
+    "datetime": "03/22/13 8:07p",
+    "items": [
+        {
+            "name": "BEEFEATER-MARTINI",
+            "quantity": 1,
+            "unitprice": 11.5,
+            "amount": 11.5,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "ROSEMARY CAIPIRINHA",
+            "quantity": 1,
+            "unitprice": 13.0,
+            "amount": 13.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "CRABCAKES",
+            "quantity": 1,
+            "unitprice": 17.0,
+            "amount": 17.0,
+            "category": "misc"
+        },
+        {
+            "name": "BLACK PEPPER BACON",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "misc"
+        },
+        {
+            "name": "Millenium 2#",
+            "quantity": 1,
+            "unitprice": 52.0,
+            "amount": 52.0,
+            "category": "misc"
+        },
+        {
+            "name": "NY SIRLOIN",
+            "quantity": 1,
+            "unitprice": 46.0,
+            "amount": 46.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "BRUSSEL SPROUTS",
+            "quantity": 1,
+            "unitprice": 13.0,
+            "amount": 13.0,
+            "category": "produce"
+        },
+        {
+            "name": "ESPRESSO",
+            "quantity": 1,
+            "unitprice": 4.5,
+            "amount": 4.5,
+            "category": "beverages"
+        },
+        {
+            "name": "LAUREN\u2019S HAZELNUT TORTE",
+            "quantity": 1,
+            "unitprice": 5.0,
+            "amount": 5.0,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "total": 193.35
+}

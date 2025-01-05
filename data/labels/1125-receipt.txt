@@ -1,0 +1,29 @@
+{
+    "location": "1683 ROUTES CLIFTON PARK, NY 12065",
+    "shop": "CHATPATA RESTAURANT INC",
+    "datetime": "19-Mar-2019 17:28:12",
+    "items": [
+        {
+            "name": "Chicken Korma",
+            "quantity": 1,
+            "unitprice": 11.95,
+            "amount": 11.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Naan (Plain Naan)",
+            "quantity": 1,
+            "unitprice": 1.95,
+            "amount": 1.95,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Kheer",
+            "quantity": 1,
+            "unitprice": 3.95,
+            "amount": 3.95,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "total": 19.1
+}

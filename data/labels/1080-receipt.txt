@@ -1,0 +1,45 @@
+{
+    "location": "35201 Newark Blvd. #W Newark CA 94560",
+    "shop": "Newark Buffet",
+    "datetime": "06/29/2019 05:25 PM",
+    "items": [
+        {
+            "name": "Weekend Dinner Buffet",
+            "quantity": 2,
+            "unitprice": 19.39,
+            "amount": 38.78,
+            "category": "misc"
+        },
+        {
+            "name": "Weekend Dinner Kids (3-5Y)",
+            "quantity": 1,
+            "unitprice": 7.99,
+            "amount": 7.99,
+            "category": "misc"
+        },
+        {
+            "name": "Weekend Dinner Kids (6-10Y)",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "misc"
+        },
+        {
+            "name": "Soda Drink",
+            "quantity": 4,
+            "unitprice": 1.99,
+            "amount": 7.96,
+            "category": "beverages"
+        },
+        {
+            "name": "Weekend Senior Dinner",
+            "quantity": 1,
+            "unitprice": 18.09,
+            "amount": 18.09,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 84.02,
+    "tax": 8.2,
+    "total": 92.22
+}

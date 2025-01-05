@@ -1,0 +1,31 @@
+{
+    "location": "615 Franklin Ave, Hartford, CT 06114",
+    "shop": "The Place 2 Be",
+    "datetime": "17-Feb-2018 9:41:47",
+    "items": [
+        {
+            "name": "American Coffee",
+            "quantity": 2,
+            "unitprice": 1.75,
+            "amount": 3.5,
+            "category": "beverages: non-alcholic"
+        },
+        {
+            "name": "Nutella Coconut Pancakes",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Cheddar Grits",
+            "quantity": 1,
+            "unitprice": 36.0,
+            "amount": 36.0,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "subtotal": 21.5,
+    "tax": 1.37,
+    "total": 22.87
+}

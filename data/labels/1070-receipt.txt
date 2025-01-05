@@ -1,0 +1,15 @@
+{
+    "location": "886 N. Garfield Ave, Montebello, CA 90640",
+    "shop": "M's Hot Wings & Things",
+    "datetime": "6/28/2019 2:16:34 PM",
+    "items": [
+        {
+            "name": "Ribeye Steak Lunch",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 10.0
+}

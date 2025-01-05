@@ -1,0 +1,72 @@
+{
+    "location": "28616 Hewitt Ave, Everett, WA 96201",
+    "shop": "Katana Sushi",
+    "datetime": "05/11/16 6:47 PM",
+    "items": [
+        {
+            "name": "Hamachi Collar",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Mega Poke Bowl",
+            "quantity": 1,
+            "unitprice": 17.0,
+            "amount": 17.0,
+            "category": "misc"
+        },
+        {
+            "name": "Hamachi Sashimi",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Maguro Sashimi",
+            "quantity": 1,
+            "unitprice": 11.0,
+            "amount": 11.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Salmon Sashimi",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Sockeye Salmon Sashimi",
+            "quantity": 3,
+            "unitprice": 12.0,
+            "amount": 36.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Hamachi Japapeno",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Salmon Collar",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Escolar Sashimi",
+            "quantity": 1,
+            "unitprice": 11.0,
+            "amount": 11.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 131.0,
+    "total": 143.71
+}

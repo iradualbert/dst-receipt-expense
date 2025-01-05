@@ -1,0 +1,78 @@
+{
+    "location": "1955 BROADWAY, SANTA MONICA, CA 90404",
+    "shop": "BIG Jo's",
+    "datetime": "01/25/18 11:47 AM",
+    "items": [
+        {
+            "name": "HB",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "French Fries",
+            "quantity": 2,
+            "unitprice": 2.5,
+            "amount": 5.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Turkey Burger",
+            "quantity": 1,
+            "unitprice": 8.85,
+            "amount": 8.85,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Combo",
+            "quantity": 1,
+            "unitprice": 8.35,
+            "amount": 8.35,
+            "category": "misc"
+        },
+        {
+            "name": "Grilled Onion",
+            "quantity": 1,
+            "unitprice": 0.75,
+            "amount": 0.75,
+            "category": "produce"
+        },
+        {
+            "name": "CB",
+            "quantity": 2,
+            "unitprice": 7.85,
+            "amount": 15.7,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Combo",
+            "quantity": 1,
+            "unitprice": 5.0,
+            "amount": 5.0,
+            "category": "misc"
+        },
+        {
+            "name": "Grilled Onion",
+            "quantity": 1,
+            "unitprice": 0.75,
+            "amount": 0.75,
+            "category": "produce"
+        },
+        {
+            "name": "Chill Fries",
+            "quantity": 1,
+            "unitprice": 4.35,
+            "amount": 4.35,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "subtotal": 51.25,
+    "sales_tax": 5.25,
+    "total": 56.5,
+    "payment": {
+        "method": "cash",
+        "amount": 60.0,
+        "change": 3.5
+    }
+}

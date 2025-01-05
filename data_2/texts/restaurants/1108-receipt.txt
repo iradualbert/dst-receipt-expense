@@ -1,0 +1,20 @@
+0 Monge 280
+4661 stanford Ranch Rd
+Rocklin, CA 95677
+916-632-0028
+
+Receipt: songo-042441
+Date: Jan 28, 2010 5:48:07 PH
+Served by: Manager
+
+Tea Price qty Value
+
+x
+
+(ch tax 7.254:
+Total
+
+cash
+‘rendered:
+‘change
+

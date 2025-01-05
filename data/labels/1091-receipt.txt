@@ -1,0 +1,45 @@
+{
+    "location": "930 WAYNE AVE. #100, SILVER SPRING, MD 20910",
+    "shop": "Restaurant",
+    "datetime": "5/11/2018 20:03",
+    "items": [
+        {
+            "name": "Philadelphia Tail",
+            "quantity": 1,
+            "unitprice": 4.25,
+            "amount": 4.25,
+            "category": "misc"
+        },
+        {
+            "name": "Shrimp Tempura Roll",
+            "quantity": 1,
+            "unitprice": 4.85,
+            "amount": 4.85,
+            "category": "misc"
+        },
+        {
+            "name": "Rich / Famous Roll",
+            "quantity": 1,
+            "unitprice": 4.25,
+            "amount": 4.25,
+            "category": "misc"
+        },
+        {
+            "name": "Spicy Salmon Roll",
+            "quantity": 1,
+            "unitprice": 8.95,
+            "amount": 8.95,
+            "category": "misc"
+        },
+        {
+            "name": "Veg / Tofu Pad Thai Spicy",
+            "quantity": 1,
+            "unitprice": 27.15,
+            "amount": 27.15,
+            "category": "misc"
+        }
+    ],
+    "total_before_tax": 27.15,
+    "tax": 1.63,
+    "total": 28.78
+}

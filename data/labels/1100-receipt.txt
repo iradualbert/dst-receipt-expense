@@ -1,0 +1,99 @@
+{
+    "location": "16725 Stony Plain Rd, Edmonton AB T5P 4L9",
+    "shop": "McDonald's",
+    "datetime": "03/10/2018 07:39:12",
+    "items": [
+        {
+            "name": "Delivery",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "10 McNuggets EVM",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Barbeque Sauce",
+            "quantity": 2,
+            "unitprice": null,
+            "amount": null,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "L Coke",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "M French Fries",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "HM GrChs S-Fry",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Snoopy",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "HM Apple Juice",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "6 Cookies",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Choc Chip Cookie",
+            "quantity": 6,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Baked Apple Pie",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "L French Fries",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "L Iced Tea",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        }
+    ],
+    "total": null
+}

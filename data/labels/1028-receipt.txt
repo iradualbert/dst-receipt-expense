@@ -1,0 +1,37 @@
+{
+    "location": "1155 Washington Blvd, Suitter, Calif 90815",
+    "shop": "DOUGLAS BURGERS",
+    "datetime": "02/20/18",
+    "items": [
+        {
+            "name": "american cheese burger",
+            "quantity": 1,
+            "unitprice": 9.0,
+            "amount": 9.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "zucchini",
+            "quantity": 1,
+            "unitprice": 2.49,
+            "amount": 2.49,
+            "category": "produce"
+        },
+        {
+            "name": "raspberry ice tea",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "sesame bun",
+            "quantity": 1,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "add avocado",
+            "quantity": 1,
+            "category": "produce"
+        }
+    ],
+    "total": null
+}

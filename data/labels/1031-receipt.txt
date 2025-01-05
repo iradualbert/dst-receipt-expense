@@ -1,0 +1,43 @@
+{
+    "location": "1220 Hermosa Beach, Hermosa Beach, CA 90254",
+    "shop": "Laurel Tavern",
+    "datetime": "OW/12/19 1:23 PM",
+    "items": [
+        {
+            "name": "BIL BEER",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "alcoholic_beverages"
+        },
+        {
+            "name": "BRUSSELS SPROUTS",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "CANTONESE TENDERS",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "GRILLED CHEESE",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "dairy"
+        },
+        {
+            "name": "ADD GARLIC FRIES",
+            "quantity": 1,
+            "unitprice": 0.5,
+            "amount": 0.5,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "total": 5.85
+}

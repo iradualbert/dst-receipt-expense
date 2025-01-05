@@ -1,0 +1,36 @@
+{
+    "location": "951 Avenida Pico, San Clemente, CA 92673",
+    "shop": "Walmart",
+    "datetime": "10/04/2023 11:30:42",
+    "items": [
+        {
+            "name": "GV Oatmeal",
+            "quantity": 1,
+            "unitprice": 1.76,
+            "amount": 1.76,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "TUM",
+            "quantity": 1,
+            "unitprice": 6.74,
+            "amount": 6.74,
+            "category": "health_and_personal_care"
+        },
+        {
+            "name": "M Athletics",
+            "quantity": 1,
+            "unitprice": 24.97,
+            "amount": 24.97,
+            "category": "misc"
+        },
+        {
+            "name": "Dexas 15x20",
+            "quantity": 1,
+            "unitprice": 12.97,
+            "amount": 12.97,
+            "category": "misc"
+        }
+    ],
+    "total": 49.9
+}

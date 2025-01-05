@@ -1,0 +1,29 @@
+{
+    "location": "UNKNOWN",
+    "shop": "UNKNOWN",
+    "datetime": "06/09/19 4:26 PM",
+    "items": [
+        {
+            "name": "Steak Tip Skewers",
+            "quantity": 1,
+            "unitprice": "UNKNOWN",
+            "amount": "UNKNOWN",
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Piatto Gorgonzola",
+            "quantity": 1,
+            "unitprice": "UNKNOWN",
+            "amount": 3.0,
+            "category": "dairy"
+        },
+        {
+            "name": "Root Beer",
+            "quantity": 1,
+            "unitprice": "UNKNOWN",
+            "amount": "UNKNOWN",
+            "category": "beverages"
+        }
+    ],
+    "total": "UNKNOWN"
+}

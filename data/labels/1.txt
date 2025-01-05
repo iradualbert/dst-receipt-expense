@@ -1,0 +1,120 @@
+{
+    "location": "2001 Greenville Ave, Dallas TX 75206",
+    "shop": "TRADER JOE'S",
+    "datetime": "06/28/14 12:34PM",
+    "items": [
+        {
+            "name": "R-CARROTS SHREDDED 10 OZ",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "R-CUCUMBERS PERSIAN 1 LB",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "TOMATOES CRUSHED NO SALT",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "TOMATOES WHOLE NO SALT W/BASIL",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "ORGANIC OLD FASHIONED OATMEAL",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "MINI-PEARL TOMATOES",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "PKG SHREDDED MOZZARELLA LITE T",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "dairy"
+        },
+        {
+            "name": "EGGS 1002 ORGANIC BROWN",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "dairy"
+        },
+        {
+            "name": "BEANS GARBANZO",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "SPROUTED CA STYLE",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "A-AVOCADOS HASS BAG ACT",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "A-APPLE BAG JAZZ 2 LB",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "A-PEPPER BELL EACH XL RED",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "BANANAS ORGANIC",
+            "quantity": 2,
+            "unitprice": 0.49,
+            "amount": 0.98,
+            "category": "produce"
+        },
+        {
+            "name": "CREAMY SALTED PEANUT BUTTER",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "WHL WHT PITA BREAD",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "total": 38.68
+}

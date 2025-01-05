@@ -1,0 +1,38 @@
+{
+    "location": "6910 E SUNRISE DR",
+    "shop": "El Charro Cafe Ventana",
+    "datetime": "06/24/2018 8:00 PM",
+    "items": [
+        {
+            "name": "Coors Light",
+            "quantity": 1,
+            "unitprice": 5.0,
+            "amount": 5.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Ice Tea",
+            "quantity": 1,
+            "unitprice": 3.5,
+            "amount": 3.5,
+            "category": "beverages"
+        },
+        {
+            "name": "Shrimp Fajita",
+            "quantity": 1,
+            "unitprice": 18.95,
+            "amount": 18.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Stuffed Chicken",
+            "quantity": 1,
+            "unitprice": 17.95,
+            "amount": 17.95,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 45.15,
+    "tax": 2.18,
+    "total": 47.3
+}

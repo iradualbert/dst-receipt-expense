@@ -1,0 +1,124 @@
+{
+    "location": "7450 CYPRESS GARDENS BLD",
+    "shop": "Walmart",
+    "datetime": "10/31/21 10:08:22",
+    "items": [
+        {
+            "name": "Unknown Item 1",
+            "quantity": 1,
+            "unitprice": 9.98,
+            "amount": 9.98,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 2",
+            "quantity": 1,
+            "unitprice": 2.84,
+            "amount": 2.84,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 3",
+            "quantity": 1,
+            "unitprice": 6.97,
+            "amount": 6.97,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 4",
+            "quantity": 1,
+            "unitprice": 4.94,
+            "amount": 4.94,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 5",
+            "quantity": 1,
+            "unitprice": 7.82,
+            "amount": 7.82,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 6",
+            "quantity": 1,
+            "unitprice": 3.78,
+            "amount": 3.78,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 7",
+            "quantity": 1,
+            "unitprice": 4.76,
+            "amount": 4.76,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 8",
+            "quantity": 1,
+            "unitprice": 13.24,
+            "amount": 13.24,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 9",
+            "quantity": 1,
+            "unitprice": 1.78,
+            "amount": 1.78,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 10",
+            "quantity": 1,
+            "unitprice": 1.97,
+            "amount": 1.97,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 11 (BATTERY?)",
+            "quantity": 1,
+            "unitprice": 9.97,
+            "amount": 9.97,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 12",
+            "quantity": 1,
+            "unitprice": 10.97,
+            "amount": 10.97,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item 13",
+            "quantity": 1,
+            "unitprice": 2.97,
+            "amount": 2.97,
+            "category": "misc"
+        },
+        {
+            "name": "Sauce",
+            "quantity": 1,
+            "unitprice": 11.58,
+            "amount": 11.58,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Spreads",
+            "quantity": 1,
+            "unitprice": 3.46,
+            "amount": 3.46,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Unknown Item 16",
+            "quantity": 1,
+            "unitprice": 0.9,
+            "amount": 0.9,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 82.75,
+    "tax": 3.6,
+    "total": 86.35,
+    "payment_method": "Debit",
+    "change_due": 0.0
+}

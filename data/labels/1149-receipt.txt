@@ -1,0 +1,15 @@
+{
+    "location": "160 Eastern as, Canandaigua, NY 14124",
+    "shop": "penny\u2019s Restaurant #8129",
+    "datetime": "8/30/2015 11:00:11 PM",
+    "items": [
+        {
+            "name": "Milk Shake",
+            "quantity": 1,
+            "unitprice": 3.99,
+            "amount": 3.99,
+            "category": "beverages"
+        }
+    ],
+    "total": 5.29
+}

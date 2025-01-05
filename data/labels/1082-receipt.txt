@@ -1,0 +1,15 @@
+{
+    "location": "11814 186TH STREET, ARTESIA, CA 90701",
+    "shop": "SURATI FARSAN MART",
+    "datetime": "08/19/2023 19:34 PM",
+    "items": [
+        {
+            "name": "Chole Samosa",
+            "quantity": 1,
+            "unitprice": 5.99,
+            "amount": 5.99,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "total": 6.56
+}

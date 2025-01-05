@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "text": "Walmart",
+        "label": "shop_vendor",
+        "box": [
+            200,
+            50,
+            300,
+            100
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "3201 Manawa Centre Dr, Council Bluffs, IA 51501",
+        "label": "location",
+        "box": [
+            50,
+            100,
+            550,
+            150
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "12/08/15 12:39:24",
+        "label": "datetime",
+        "box": [
+            50,
+            700,
+            450,
+            750
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "ST#01966 OP#002033 TE#20 TR#05145 6.94",
+        "label": "item",
+        "box": [
+            50,
+            400,
+            750,
+            450
+        ],
+        "linking": []
+    },
+    {
+        "id": 4,
+        "text": "7.43",
+        "label": "total",
+        "box": [
+            600,
+            550,
+            750,
+            600
+        ],
+        "linking": []
+    }
+]

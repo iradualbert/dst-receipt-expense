@@ -1,0 +1,7 @@
+{
+    "shop": "Heer Hope",
+    "location": "Unknown",
+    "datetime": "Unknown",
+    "items": [],
+    "total": 0.0
+}

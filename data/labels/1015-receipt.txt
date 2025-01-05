@@ -1,0 +1,59 @@
+{
+    "location": "7285 Roswell Road, Sandy Springs, Georgia 30328",
+    "shop": "TRADING COMPANY",
+    "datetime": "10/10/2017 6:23 pm",
+    "items": [
+        {
+            "name": "Shrimp Entree",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": 21.09,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Mac n Cheese",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "dairy"
+        },
+        {
+            "name": "French Fries",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": 2.5,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Sprite",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "Lobster Roll",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Chz Chips",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "discounts": [
+        {
+            "name": "BBQ & Blue Discount",
+            "amount": -6.0
+        }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": null,
+    "due": null
+}

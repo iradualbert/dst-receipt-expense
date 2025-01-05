@@ -1,0 +1,59 @@
+{
+    "location": "3035 W. KENNEDY BLVD, TAMPA, FL",
+    "shop": "MIGUEL'S MEXICAN",
+    "datetime": "12/26/12 04:41PM",
+    "items": [
+        {
+            "name": "WATER",
+            "quantity": 3,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "beverages"
+        },
+        {
+            "name": "GRAB SUIZA",
+            "quantity": 1,
+            "unitprice": 18.25,
+            "amount": 18.25,
+            "category": "misc"
+        },
+        {
+            "name": "SHRIMP VERACRUZ",
+            "quantity": 1,
+            "unitprice": 14.95,
+            "amount": 14.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "ENCHILADA",
+            "quantity": 1,
+            "unitprice": 4.95,
+            "amount": 4.95,
+            "category": "misc"
+        },
+        {
+            "name": "FAJITA BF",
+            "quantity": 1,
+            "unitprice": 13.95,
+            "amount": 13.95,
+            "category": "misc"
+        },
+        {
+            "name": "TAKE OUT",
+            "quantity": 1,
+            "unitprice": 0.25,
+            "amount": 0.25,
+            "category": "misc"
+        },
+        {
+            "name": "MIGUEL'S MARGARIT",
+            "quantity": 4,
+            "unitprice": 3.38,
+            "amount": 13.52,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "subtotal": 60.87,
+    "tax": 4.27,
+    "total": 65.14
+}

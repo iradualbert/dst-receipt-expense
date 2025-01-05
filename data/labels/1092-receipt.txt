@@ -1,0 +1,12 @@
+{
+    "location": "",
+    "shop": "",
+    "datetime": "",
+    "items": [],
+    "total": 43.3,
+    "recommended_tips": {
+        "15_percent": 5.98,
+        "18_percent": 7.17,
+        "20_percent": 7.97
+    }
+}

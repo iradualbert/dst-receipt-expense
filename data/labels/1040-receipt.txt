@@ -1,0 +1,47 @@
+{
+    "location": "W 147 AVE UNIT 36, MIAMI FL 33196",
+    "shop": "SUKHOTHAI SUSHI * ASIAN FUSION",
+    "datetime": "19-Apr-2019 2:02:26P",
+    "items": [
+        {
+            "name": "Chicken Fried Rice And Egg Lunch",
+            "quantity": 1,
+            "unitprice": 7.99,
+            "amount": 7.99,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "California Tropic And Miso Lunch",
+            "quantity": 1,
+            "unitprice": 7.99,
+            "amount": 7.99,
+            "category": "misc"
+        },
+        {
+            "name": "Add Two Tostones",
+            "quantity": 1,
+            "unitprice": 1.0,
+            "amount": 1.0,
+            "category": "misc"
+        },
+        {
+            "name": "Sprite",
+            "quantity": 1,
+            "unitprice": 2.5,
+            "amount": 2.5,
+            "category": "beverages"
+        },
+        {
+            "name": "Perrier Sparkling Water",
+            "quantity": 1,
+            "unitprice": 3.5,
+            "amount": 3.5,
+            "category": "beverages"
+        }
+    ],
+    "subtotal": 22.98,
+    "tax": 1.61,
+    "service_fees": 3.45,
+    "total": 28.04,
+    "payment_method": "CREDIT CARD"
+}

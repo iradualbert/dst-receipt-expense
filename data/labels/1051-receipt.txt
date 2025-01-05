@@ -1,0 +1,12 @@
+{
+    "location": "45 MAIN STREET, HACKENSACK, NJ 07601",
+    "shop": "GENERAL POOR\u2019S TAVERN",
+    "datetime": "04/10/16 12:30pm",
+    "items": [
+        {
+            "name": "BONELESS WINGS SPEC",
+            "quantity": 40,
+            "category": "chicken_and_meat"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "location": "2011 Hewitt Ave, Everett WA 98201",
+    "shop": "Thai Gusto Restaurant",
+    "tel": "425-252-3525",
+    "datetime": "6/16/2017 12:36 PM",
+    "server": "PRACH (7.1)",
+    "items": [
+        {
+            "name": "Chang",
+            "quantity": 1,
+            "unitprice": 3.5,
+            "amount": 3.5,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Garlic Delight with Chicken and Small Brown Rice",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Red Curry with Chicken and Small Brown Rice",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "sales_tax": 0.0,
+    "grand_total": 13.5,
+    "tip_guide": {
+        "15%": 4.52,
+        "18%": 5.43,
+        "20%": 6.03
+    }
+}

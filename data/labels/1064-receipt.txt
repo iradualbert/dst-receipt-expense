@@ -1,0 +1,29 @@
+{
+    "location": "ESCONDIDO",
+    "shop": "IN-N-OUT BURGER",
+    "datetime": "2013-06-10 03:02:00 PM",
+    "items": [
+        {
+            "name": "KH Peom",
+            "quantity": 1,
+            "unitprice": 3.3,
+            "amount": 3.3,
+            "category": "misc"
+        },
+        {
+            "name": "FF Animal",
+            "quantity": 1,
+            "unitprice": 1.5,
+            "amount": 1.5,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Coke",
+            "quantity": 1,
+            "unitprice": 1.7,
+            "amount": 1.7,
+            "category": "beverages"
+        }
+    ],
+    "total": 18.0
+}

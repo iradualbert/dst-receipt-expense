@@ -1,0 +1,62 @@
+{
+    "shop": "WHOLE FOODS",
+    "location": "SHARON RD.",
+    "items": [
+        {
+            "name": "PL TORTILLA'S",
+            "quantity": 1,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "CAGE FREE ALL WHITE",
+            "quantity": 1,
+            "category": "dairy"
+        },
+        {
+            "name": "BLACK BEANS",
+            "quantity": 1,
+            "category": "produce"
+        },
+        {
+            "name": "Frozen Mangoes",
+            "quantity": 2,
+            "category": "produce"
+        },
+        {
+            "name": "Whole Strawberries",
+            "quantity": 2,
+            "category": "produce"
+        },
+        {
+            "name": "OG LF COTTAGE CHEESE",
+            "quantity": 1,
+            "category": "dairy"
+        },
+        {
+            "name": "MAHI MAHI FILLETS",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "UT PLUMS BLACK CV",
+            "quantity": 1,
+            "category": "produce"
+        },
+        {
+            "name": "NHP SLICED OVEN ROAST",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "NHP SLICED HICKORY",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "UT GALA APPLES OG",
+            "quantity": 3.26,
+            "category": "produce"
+        }
+    ],
+    "total": 45.44
+}

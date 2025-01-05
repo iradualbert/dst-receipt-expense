@@ -1,0 +1,25 @@
+{
+    "shop": "WALMART",
+    "location": "CHESTERFIELD, MO",
+    "datetime": "10/20/07 13:48:43",
+    "items": [
+        {
+            "name": "FOOTHBRUSH",
+            "quantity": 1,
+            "unitprice": 6.63,
+            "amount": 6.63,
+            "category": "health_and_personal_care"
+        },
+        {
+            "name": "WOMEN SLIPPER",
+            "quantity": 1,
+            "unitprice": 7.14,
+            "amount": 7.14,
+            "category": "misc"
+        }
+    ],
+    "tax": 0.9,
+    "total": 18.75,
+    "payment_method": "MCARD",
+    "change_due": 0.0
+}

@@ -1,0 +1,29 @@
+{
+    "shop": "McDonald's",
+    "location": "1617 N ESST LOS ANGELES",
+    "datetime": "03/08 03:08 PM",
+    "items": [
+        {
+            "name": "Dbl Qtr Cheese",
+            "quantity": 1,
+            "unitprice": 6.64,
+            "amount": 6.64,
+            "category": "misc",
+            "special_request": [
+                "ADD Leaf Lettuce",
+                "ADD Mac Sauce"
+            ]
+        }
+    ],
+    "subtotal": 6.64,
+    "tax": 0.63,
+    "total": 7.27,
+    "payment_type": "card",
+    "transaction_amount": 7.27,
+    "misc": {
+        "order_number": 97,
+        "cashless_tender": "1G",
+        "chip_read": true,
+        "authorization_code": "31:34"
+    }
+}

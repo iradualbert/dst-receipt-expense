@@ -1,0 +1,43 @@
+{
+    "location": null,
+    "shop": "Walmart",
+    "datetime": "05/04/17 19:54:16",
+    "items": [
+        {
+            "name": "equate liner",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "health_and_personal_care"
+        },
+        {
+            "name": "wfus eng pom",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "dawn orig",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "boyd pkg tape",
+            "quantity": 2,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "lint roller",
+            "quantity": 2,
+            "unitprice": null,
+            "amount": null,
+            "category": "health_and_personal_care"
+        }
+    ],
+    "total": 26.6
+}

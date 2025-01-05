@@ -1,0 +1,7 @@
+{
+    "location": "East Hampton, NY",
+    "shop": "Golden Pear Cafe",
+    "datetime": "08/06/15 11:01AM",
+    "items": [],
+    "total": null
+}

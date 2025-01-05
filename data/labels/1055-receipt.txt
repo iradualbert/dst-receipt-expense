@@ -1,0 +1,93 @@
+{
+    "location": "519 FULTON AVE, HEMPSTEAD NY",
+    "shop": "WINGS & THINGS",
+    "items": [
+        {
+            "name": "2PC R&B MEAL",
+            "quantity": 1,
+            "unitprice": 5.99,
+            "amount": 5.99,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "ICED TEA",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "CORNBREAD",
+            "quantity": 1,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "#3 SWING MEAL",
+            "quantity": 1,
+            "unitprice": 6.99,
+            "amount": 6.99,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "SIERRA NEVADA",
+            "quantity": 1,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "SUB FIXN",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "MAC&CHZ",
+            "quantity": 1,
+            "category": "dairy"
+        },
+        {
+            "name": "#3 SWING MEAL",
+            "quantity": 1,
+            "unitprice": 6.99,
+            "amount": 6.99,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "ICED TEA",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "SUB FIXN",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "SP RICE",
+            "quantity": 1,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "#3 SWING MEAL",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "ICED TEA",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "SUB FIXN",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "MAC&CHZ",
+            "quantity": 1,
+            "category": "dairy"
+        },
+        {
+            "name": "COLL GRN",
+            "quantity": 1,
+            "category": "produce"
+        }
+    ],
+    "total": null
+}

@@ -1,0 +1,22 @@
+{
+    "location": "14428 Ramona Blvd. #70, Baldwin Park, CA 91706",
+    "shop": "Golden Panda Buffet",
+    "datetime": "6/02/2018 04:18:31 PM",
+    "items": [
+        {
+            "name": "Adult Dinner",
+            "quantity": 2,
+            "unitprice": 11.99,
+            "amount": 23.98,
+            "category": "misc"
+        },
+        {
+            "name": "Soda",
+            "quantity": 2,
+            "unitprice": 1.69,
+            "amount": 3.38,
+            "category": "beverages"
+        }
+    ],
+    "total": 29.96
+}

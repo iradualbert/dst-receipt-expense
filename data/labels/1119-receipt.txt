@@ -1,0 +1,36 @@
+{
+    "location": "Panda Express #64, Brooklyn, WY",
+    "shop": "Panda Express",
+    "datetime": "12/22/2017 4:58:01 PM",
+    "items": [
+        {
+            "name": "Plate with Chow Mein and Broccoli Beef",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "Beijing Beef",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "Chicken Egg Roll",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Pepsi 20 oz",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        }
+    ],
+    "total": null
+}

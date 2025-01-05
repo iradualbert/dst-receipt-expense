@@ -1,0 +1,22 @@
+{
+    "location": "River Village",
+    "shop": "Unknown",
+    "datetime": "12/19 8:02 AM",
+    "items": [
+        {
+            "name": "Apple French Toast",
+            "quantity": 1,
+            "unitprice": 7.99,
+            "amount": 7.99,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Coffee",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "beverages"
+        }
+    ],
+    "total": 7.99
+}

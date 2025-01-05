@@ -1,0 +1,33 @@
+{
+    "location": "#237E, Sisivath Quay, Phnon Pent, Cambodia",
+    "shop": "Indian Restaurant",
+    "datetime": "24-Nov-16 9:12 PM",
+    "items": [
+        {
+            "name": "House Wine White Glass",
+            "quantity": 1,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Vegetable Shorba",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Garlic Naan",
+            "quantity": 1,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Kari Pakora",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Angkor Beer with Meal",
+            "quantity": 2,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": null
+}

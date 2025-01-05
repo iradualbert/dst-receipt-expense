@@ -1,0 +1,25 @@
+{
+    "location": "18911 Lake Chabot Road, Castro Valley, CA 94546",
+    "shop": "Z Pokeatery",
+    "datetime": "12/29/18 14:01",
+    "items": [
+        {
+            "name": "Poke Box Regular",
+            "quantity": 1,
+            "unitprice": 13.5,
+            "amount": 13.5,
+            "category": "misc"
+        },
+        {
+            "name": "Avocado",
+            "quantity": 1,
+            "unitprice": 1.0,
+            "amount": 1.0,
+            "category": "produce"
+        }
+    ],
+    "subtotal": 13.5,
+    "tax": 1.25,
+    "tip": 1.48,
+    "total": 16.23
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "text": "WALMART",
+        "label": "shop_vendor",
+        "box": [
+            325,
+            36,
+            574,
+            92
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "BANANAS 0.41 lb x 1 lb /0.49 0.20",
+        "label": "item",
+        "box": [
+            139,
+            528,
+            1013,
+            550
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "FRAP 001200010451 F 5.48",
+        "label": "item",
+        "box": [
+            141,
+            565,
+            1013,
+            585
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "5.11",
+        "label": "total",
+        "box": [
+            875,
+            725,
+            1000,
+            750
+        ],
+        "linking": []
+    },
+    {
+        "id": 4,
+        "text": "08/20/10 13:12:01",
+        "label": "datetime",
+        "box": [
+            305,
+            950,
+            653,
+            1005
+        ],
+        "linking": []
+    },
+    {
+        "id": 5,
+        "text": "0000004011KF",
+        "label": "location",
+        "box": [
+            298,
+            293,
+            490,
+            340
+        ],
+        "linking": []
+    }
+]

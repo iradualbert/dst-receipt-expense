@@ -1,0 +1,22 @@
+{
+    "location": "237 Washington, Hoboken, NJ 07030",
+    "shop": "Arthurs",
+    "datetime": "10/01/17 01:44",
+    "items": [
+        {
+            "name": "Arthur\u2019s Burger *ChsBleu",
+            "quantity": 1,
+            "unitprice": 13.95,
+            "amount": 13.95,
+            "category": "misc"
+        },
+        {
+            "name": "Burger #*avocado",
+            "quantity": 1,
+            "unitprice": 15.95,
+            "amount": 15.95,
+            "category": "misc"
+        }
+    ],
+    "total": 84.78
+}

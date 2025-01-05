@@ -1,0 +1,7 @@
+{
+    "location": "3680 Hempstead Turnpike, Levittown",
+    "shop": "KFC",
+    "datetime": "2016-07-08 21:16",
+    "items": [],
+    "total": null
+}

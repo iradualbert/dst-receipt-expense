@@ -1,0 +1,7 @@
+{
+    "location": "location_not_provided",
+    "shop": "shop_not_provided",
+    "datetime": "datetime_not_provided",
+    "items": [],
+    "total": 0.0
+}

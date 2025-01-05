@@ -1,0 +1,32 @@
+{
+    "shop": "OFMRES",
+    "checkout_number": "7128.1",
+    "payment_method": "Credit Card",
+    "datetime": "12/19/2018 6:06:02",
+    "items": [
+        {
+            "name": "Chicken (Murgh) Sal",
+            "quantity": 1,
+            "unitprice": 20.0,
+            "amount": 20.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Palak (Cheese)",
+            "quantity": 1,
+            "unitprice": 18.0,
+            "amount": 18.0,
+            "category": "dairy"
+        },
+        {
+            "name": "Veg Bengan Bharatay",
+            "quantity": 1,
+            "unitprice": 17.0,
+            "amount": 17.0,
+            "category": "produce"
+        }
+    ],
+    "subtotal": 55.0,
+    "tax": 3.3,
+    "total_before_tip": 58.3
+}

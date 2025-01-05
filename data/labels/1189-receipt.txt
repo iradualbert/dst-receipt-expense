@@ -1,0 +1,7 @@
+{
+    "location": "95 KEN BLVD, TAVPA FL",
+    "shop": "MIGUELS",
+    "phone": "(613) 876 - 2567",
+    "items": [],
+    "total": null
+}

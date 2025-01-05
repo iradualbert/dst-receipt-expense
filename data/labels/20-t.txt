@@ -1,0 +1,64 @@
+{
+    "location": "GOKKAYA CD.CEKMEKOY IST",
+    "shop": "MIGROS",
+    "datetime": "14/12/2024 15:28",
+    "items": [
+        {
+            "name": "MIGROS PLASTIK POSET",
+            "quantity": 20,
+            "unitprice": 0.25,
+            "amount": 5.0,
+            "category": "misc"
+        },
+        {
+            "name": "AMSTERDAM BIRA 50CL",
+            "quantity": 20,
+            "unitprice": 115.0,
+            "amount": 2300.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "ETI BURCAK SUTLU",
+            "quantity": 1,
+            "unitprice": 32.0,
+            "amount": 296.05,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "BANVIT IZGARA TAVA",
+            "quantity": 1,
+            "unitprice": 296.05,
+            "amount": 296.05,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "PINAR SUT 1 L",
+            "quantity": 1,
+            "unitprice": 45.0,
+            "amount": 10.79,
+            "category": "dairy"
+        },
+        {
+            "name": "SOGAN KURU DOKME",
+            "quantity": 1,
+            "unitprice": 10.79,
+            "amount": 10.79,
+            "category": "produce"
+        },
+        {
+            "name": "BIBER KIRMIZI",
+            "quantity": 1,
+            "unitprice": 33.11,
+            "amount": 33.11,
+            "category": "produce"
+        },
+        {
+            "name": "DOMATES SALKIM PKT",
+            "quantity": 1,
+            "unitprice": 30.08,
+            "amount": 30.08,
+            "category": "produce"
+        }
+    ],
+    "total": 562.28
+}

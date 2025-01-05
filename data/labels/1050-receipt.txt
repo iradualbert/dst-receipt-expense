@@ -1,0 +1,43 @@
+{
+    "location": "HOLLYWOOD CAFE & AM Dining",
+    "shop": "HOLLYWOOD CAFE",
+    "datetime": "not provided",
+    "items": [
+        {
+            "name": "SODA",
+            "quantity": 1,
+            "unitprice": 10.43,
+            "amount": 10.43,
+            "category": "beverages"
+        },
+        {
+            "name": "CHEESE STEAK",
+            "quantity": 1,
+            "unitprice": 16.49,
+            "amount": 16.49,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "AMERICAN CHS",
+            "quantity": 1,
+            "unitprice": 1.0,
+            "amount": 1.0,
+            "category": "dairy"
+        },
+        {
+            "name": "FRD ONION",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "Chix Cheesesteak",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 27.12
+}

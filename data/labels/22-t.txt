@@ -1,0 +1,113 @@
+{
+    "location": "7075-NISANTEPE MAH. ORMAN 1g, ALEMOAG/CEKMEKOY/ISTANBUL, A NO#18",
+    "shop": "SOK MARKET",
+    "datetime": "19/10/24 12:20",
+    "items": [
+        {
+            "name": "ELMA STARKING",
+            "quantity": 0.52,
+            "unitprice": 44.95,
+            "amount": 23.37,
+            "category": "produce"
+        },
+        {
+            "name": "ALISVERIS POSETI",
+            "quantity": 1,
+            "unitprice": 0.25,
+            "amount": 0.25,
+            "category": "misc"
+        },
+        {
+            "name": "ANADOLU MUTFAGI BASM",
+            "quantity": 1,
+            "unitprice": 51.75,
+            "amount": 51.75,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "ETI LIFALIF YULAF",
+            "quantity": 1,
+            "unitprice": 47.95,
+            "amount": 47.95,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "BADI BUT IZGARA TAVA",
+            "quantity": 0.457,
+            "unitprice": 210.0,
+            "amount": 95.97,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "DEREN BARDAK POSET",
+            "quantity": 1,
+            "unitprice": 18.75,
+            "amount": 18.75,
+            "category": "misc"
+        },
+        {
+            "name": "ELMA STARKING",
+            "quantity": 0.91,
+            "unitprice": 44.95,
+            "amount": 40.9,
+            "category": "produce"
+        },
+        {
+            "name": "ELMA GRANNY",
+            "quantity": 0.49,
+            "unitprice": 49.95,
+            "amount": 24.48,
+            "category": "produce"
+        },
+        {
+            "name": "MAVDANOZ",
+            "quantity": 1,
+            "unitprice": 14.95,
+            "amount": 14.95,
+            "category": "produce"
+        },
+        {
+            "name": "HAVUC",
+            "quantity": 0.485,
+            "unitprice": 29.95,
+            "amount": 14.53,
+            "category": "produce"
+        },
+        {
+            "name": "KRUVASAN CIKOLATALI",
+            "quantity": 1,
+            "unitprice": 19.9,
+            "amount": 19.9,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "BADI BONFILE / FILET",
+            "quantity": 0.655,
+            "unitprice": 210.0,
+            "amount": 137.55,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "ISPANAKLI RULO BOREK",
+            "quantity": 1,
+            "unitprice": 13.0,
+            "amount": 13.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "DOMATES",
+            "quantity": 0.95,
+            "unitprice": 42.75,
+            "amount": 40.61,
+            "category": "produce"
+        },
+        {
+            "name": "MIS UHT KREMA",
+            "quantity": 1,
+            "unitprice": 4.1,
+            "amount": 4.1,
+            "category": "dairy"
+        }
+    ],
+    "total": 598.21
+}

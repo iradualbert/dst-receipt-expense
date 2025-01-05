@@ -1,0 +1,57 @@
+{
+    "location": "AISANTEPE MH. MAVERA SK. No 194\u00b0 20K 21- bi, NERMEKOY, ISTANBUL",
+    "shop": "MIGROS",
+    "datetime": "30/10/21 14:45",
+    "items": [
+        {
+            "name": "DANA BUT SOTELIK ET",
+            "quantity": 0.366,
+            "unitprice": 619.95,
+            "amount": 226.9,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "IMREN PILIC BUT IZG.",
+            "quantity": 0.532,
+            "unitprice": 210.0,
+            "amount": 111.72,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "KESKINOGLU 15\u00b0LE L",
+            "quantity": 1,
+            "unitprice": 72.5,
+            "amount": 72.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "PINAR SUT 81 YAGLI",
+            "quantity": 1,
+            "unitprice": 34.5,
+            "amount": 34.5,
+            "category": "dairy"
+        },
+        {
+            "name": "ARMUT SAN. MARIA",
+            "quantity": 0.83,
+            "unitprice": 56.9,
+            "amount": 47.23,
+            "category": "produce"
+        },
+        {
+            "name": "ELMA STARKING",
+            "quantity": 0.745,
+            "unitprice": 44.95,
+            "amount": 33.49,
+            "category": "produce"
+        },
+        {
+            "name": "MUZ YERLI",
+            "quantity": 0.5,
+            "unitprice": 59.95,
+            "amount": 29.98,
+            "category": "produce"
+        }
+    ],
+    "total": 556.32
+}

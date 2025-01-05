@@ -1,0 +1,14 @@
+{
+    "shop": "Drive Thru",
+    "datetime": null,
+    "items": [
+        {
+            "name": "8 Crsh Fe",
+            "quantity": 1,
+            "unitprice": 5.98,
+            "amount": 5.98,
+            "category": "beverages: non - alcholic"
+        }
+    ],
+    "total": 161.0
+}

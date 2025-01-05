@@ -1,0 +1,13 @@
+{
+    "shop": "Delmonico\u2019s",
+    "items": [
+        {
+            "name": "Unknown Item #70056",
+            "quantity": 1,
+            "unitprice": 3.44,
+            "amount": 3.44,
+            "category": "misc"
+        }
+    ],
+    "total": 46.39
+}

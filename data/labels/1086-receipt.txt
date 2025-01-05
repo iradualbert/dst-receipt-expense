@@ -1,0 +1,72 @@
+{
+    "location": "Unspecific location",
+    "shop": "Unnamed Restaurant",
+    "datetime": "4/20/2018 8:29 PM",
+    "items": [
+        {
+            "name": "Shrimp Scampi",
+            "quantity": 1,
+            "unitprice": 27.0,
+            "amount": 27.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Chicken Milanese",
+            "quantity": 2,
+            "unitprice": 23.0,
+            "amount": 46.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Veal Milanese",
+            "quantity": 1,
+            "unitprice": 27.0,
+            "amount": 27.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Grey Goose",
+            "quantity": 3,
+            "unitprice": 10.0,
+            "amount": 30.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Pineapple Juice",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Belvedere",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Becks Non Alcoholic",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Corona",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Comp Item",
+            "quantity": 1,
+            "unitprice": -12.0,
+            "amount": -12.0,
+            "category": "misc"
+        }
+    ],
+    "total": 157.51,
+    "amount_due": 157.51
+}

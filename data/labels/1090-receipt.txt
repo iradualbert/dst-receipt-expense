@@ -1,0 +1,98 @@
+{
+    "shop": "Five Guys",
+    "datetime": "12/31/2017",
+    "items": [
+        {
+            "name": "Little Hamburger",
+            "quantity": 1,
+            "unitprice": 6.19,
+            "amount": 6.19,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Lettuce",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "Pickles",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "Tomatoes",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "Grilled Onions",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "Grilled Mushrooms",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "Mustard",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Ketchup",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Jalapeno Peppers",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "Large Fry",
+            "quantity": 1,
+            "unitprice": 5.79,
+            "amount": 5.79,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Large Soda",
+            "quantity": 1,
+            "unitprice": 2.98,
+            "amount": 2.98,
+            "category": "beverages"
+        },
+        {
+            "name": "Cheeseburger",
+            "quantity": 1,
+            "unitprice": 7.6,
+            "amount": 7.6,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Regular Soda",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "beverages"
+        }
+    ],
+    "payment_method": "MasterCard"
+}

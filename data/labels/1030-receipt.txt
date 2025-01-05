@@ -1,0 +1,51 @@
+{
+    "location": "Jericho",
+    "shop": "White Tap",
+    "datetime": "12/8/2017 4:00 PM",
+    "items": [
+        {
+            "name": "coffee",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "beverages"
+        },
+        {
+            "name": "house wine",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "cocktail spray",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "escargot bourguignon",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        },
+        {
+            "name": "veal zingara",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "duckling al arancio",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 98,
+    "tax": 0
+}

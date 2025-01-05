@@ -1,0 +1,29 @@
+{
+    "location": "4 Copeland F gton",
+    "shop": "Pappadeaux Seafood Kitchen",
+    "datetime": "11/18 12:45",
+    "items": [
+        {
+            "name": "Lump Crab & Spinach Dip",
+            "quantity": 1,
+            "unitprice": 15.99,
+            "amount": 15.99,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Cajun Combo",
+            "quantity": 1,
+            "unitprice": 18.95,
+            "amount": 18.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Lunch Shrimp & Andouille",
+            "quantity": 1,
+            "unitprice": 13.91,
+            "amount": 13.91,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 52.76
+}

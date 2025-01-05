@@ -1,0 +1,43 @@
+{
+    "location": "1717 DUTCH BRDY ELMONT, NY 11003",
+    "shop": "WINGS & THINGS",
+    "datetime": "03/19/17 20:14",
+    "items": [
+        {
+            "name": "TMAC&CHZ - SMALL",
+            "quantity": 1,
+            "unitprice": 1.19,
+            "amount": 1.19,
+            "category": "misc"
+        },
+        {
+            "name": "COLL GRN - SMALL",
+            "quantity": 1,
+            "unitprice": 1.19,
+            "amount": 1.19,
+            "category": "produce"
+        },
+        {
+            "name": "CORN BREAD",
+            "quantity": 1,
+            "unitprice": 0.62,
+            "amount": 0.62,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "TS WINGS",
+            "quantity": 1,
+            "unitprice": 5.75,
+            "amount": 5.75,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "SPCY FRY",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        }
+    ],
+    "total": 9.5
+}

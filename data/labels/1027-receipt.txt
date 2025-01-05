@@ -1,0 +1,47 @@
+{
+    "location": "92-161 Haipahe Place, Kapolei, HI 96707",
+    "shop": "Longboards",
+    "datetime": "01/11/2019 12:46 PM",
+    "items": [
+        {
+            "name": "Green Salad",
+            "quantity": 1,
+            "unitprice": 8.0,
+            "amount": 8.0,
+            "category": "produce"
+        },
+        {
+            "name": "Wagyu Cheeseburger",
+            "quantity": 1,
+            "unitprice": 19.0,
+            "amount": 19.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Garlic Fries",
+            "quantity": 1,
+            "unitprice": 2.0,
+            "amount": 2.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Drink of the Day",
+            "quantity": 1,
+            "unitprice": 9.75,
+            "amount": 9.75,
+            "category": "beverages"
+        },
+        {
+            "name": "Tea",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "beverages"
+        }
+    ],
+    "subtotal": 42.75,
+    "discount": -3.3,
+    "tax": 1.86,
+    "total": 41.31,
+    "gratuity": 3.0
+}

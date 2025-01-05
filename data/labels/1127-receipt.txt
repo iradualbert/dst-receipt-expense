@@ -1,0 +1,38 @@
+{
+    "shop": "PIZZA HUT",
+    "transaction_type": "DINE_IN",
+    "ticket_number": "00100",
+    "item_count": 3,
+    "server": "MAURICE",
+    "table_number": "56",
+    "guest_count": 2,
+    "datetime": "10/25/2018 8:30 PM",
+    "items": [
+        {
+            "name": "Five-U",
+            "quantity": 1,
+            "unitprice": 12.49,
+            "amount": 12.49,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Five-Ll Bone OUT Garlic Parm",
+            "quantity": 1,
+            "unitprice": 7.69,
+            "amount": 7.69,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Pitcher Dos Equis",
+            "quantity": 1,
+            "unitprice": 13.5,
+            "amount": 13.5,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "coupon_discount": 10.18,
+    "subtotal": 23.5,
+    "service_fee": 0.94,
+    "sales_tax": 2.32,
+    "total": 26.76
+}

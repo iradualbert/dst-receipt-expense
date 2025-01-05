@@ -1,0 +1,31 @@
+{
+    "location": "241 Hat Blyd",
+    "shop": "Portugal Restaurant",
+    "datetime": "09/10/17 15:28",
+    "items": [
+        {
+            "name": "unknown item 1",
+            "quantity": 1,
+            "unitprice": 20.95,
+            "amount": 20.95,
+            "category": "misc"
+        },
+        {
+            "name": "unknown item 2",
+            "quantity": 1,
+            "unitprice": 28.95,
+            "amount": 28.95,
+            "category": "misc"
+        },
+        {
+            "name": "unknown item 3",
+            "quantity": 1,
+            "unitprice": 16.0,
+            "amount": 16.0,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 65.9,
+    "tax": 5.68,
+    "total": 71.58
+}

@@ -1,0 +1,27 @@
+{
+    "location": "383 GELLERT BLVD., DALY CITY, CA 94015",
+    "shop": "MOONSTAR RESTAURANT",
+    "items": [
+        {
+            "name": "FRI-SUN DINNER",
+            "quantity": 5,
+            "unitprice": 29.88,
+            "amount": 149.4,
+            "category": "misc"
+        },
+        {
+            "name": "50% OFF BIRTHDAY",
+            "quantity": 1,
+            "unitprice": -0.5,
+            "amount": -14.94,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 134.46,
+    "tax": 9,
+    "total_tip_options": {
+        "15%": 20.17,
+        "18%": 24.2,
+        "20%": 26.89
+    }
+}

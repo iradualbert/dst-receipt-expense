@@ -1,0 +1,57 @@
+{
+    "location": "NISANTEPE. MH. MAVERA SK. NO: 19A=20A-21A CEKMEKOY/TSTANBUL",
+    "shop": "MIGROS TICARET A.-S.",
+    "datetime": "06/12/2024 11:52",
+    "items": [
+        {
+            "name": "SAKA SU 0,5 L",
+            "quantity": 2,
+            "unitprice": 9.75,
+            "amount": 19.5,
+            "category": "beverages"
+        },
+        {
+            "name": "ULKER DORE KREM.BISK",
+            "quantity": 1,
+            "unitprice": 18.5,
+            "amount": 18.5,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "RICHLAND GRANOLA YU",
+            "quantity": 1,
+            "unitprice": 84.95,
+            "amount": 84.95,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "EKMEK EKSI_MAYALI",
+            "quantity": 1,
+            "unitprice": 24.0,
+            "amount": 24.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "SEK QUARK YABAN MERS",
+            "quantity": 1,
+            "unitprice": 29.95,
+            "amount": 29.95,
+            "category": "dairy"
+        },
+        {
+            "name": "DOGADAN ZEN.LIM.CAY",
+            "quantity": 1,
+            "unitprice": 59.5,
+            "amount": 59.5,
+            "category": "beverages"
+        },
+        {
+            "name": "SEK QUARK ANANAS 140",
+            "quantity": 1,
+            "unitprice": 29.95,
+            "amount": 29.95,
+            "category": "dairy"
+        }
+    ],
+    "total": 266.35
+}

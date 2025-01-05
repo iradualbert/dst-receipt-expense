@@ -1,0 +1,24 @@
+PIZZA HUT
+DINE_IN
+
+Ticket #00100
+
+Item Count: 3
+ENTERED BY TABLE #GUEST
+MAURICE 56 2
+030835 10/25/2018 8:30 PM
+Ol 1 $FivelU 12.49 A
+Hand toss
+C
+Pepperoni
+02 1 ~~ $FiveLl 7.69
+Bone OUT
+Gar}eParm ‘
+03 1 Pitcher 13.50
+DosEquis
+COUPON (FE) 10.18
+Subtota| 23,50
+Service Fee 0.94
+SALES TAX 2.32
+
+Balance Que 26.76

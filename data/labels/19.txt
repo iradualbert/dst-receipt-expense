@@ -1,0 +1,29 @@
+{
+    "location": "STATE ROAD",
+    "shop": "Walmart",
+    "datetime": "10/31/21",
+    "items": [
+        {
+            "name": "GRILL Cover",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "FIBER CHOICE",
+            "quantity": 1,
+            "unitprice": 12.94,
+            "amount": 12.94,
+            "category": "health_and_personal_care"
+        },
+        {
+            "name": "CELERY HEART",
+            "quantity": 1,
+            "unitprice": 2.48,
+            "amount": 2.48,
+            "category": "produce"
+        }
+    ],
+    "total": 35.05
+}

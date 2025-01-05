@@ -1,0 +1,59 @@
+{
+    "location": "2124 BONITA AVENUE, LA VERNE, CA 91750",
+    "shop": "FourthStreetMill",
+    "datetime": "09/29/18 17:38",
+    "items": [
+        {
+            "name": "Lamb Burger",
+            "quantity": 1,
+            "unitprice": 13.0,
+            "amount": 13.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Kids Grilled Cheese",
+            "quantity": 1,
+            "unitprice": 5.0,
+            "amount": 5.0,
+            "category": "dairy"
+        },
+        {
+            "name": "Kids Fries",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Sweet Potato Fries",
+            "quantity": 1,
+            "unitprice": 8.0,
+            "amount": 8.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Kids Cheeseburger",
+            "quantity": 1,
+            "unitprice": 7.0,
+            "amount": 7.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Beef Burger",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Sides - Bacon (2) Slices",
+            "quantity": 1,
+            "unitprice": 3.5,
+            "amount": 3.5,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 49.5,
+    "sales_tax": 4.7,
+    "total": 54.2
+}

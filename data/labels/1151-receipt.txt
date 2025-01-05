@@ -1,0 +1,18 @@
+{
+    "location": "215 Cypress Ave, Snohomish WA",
+    "shop": "Collector's Choice Restaurant",
+    "datetime": "04/10/19 12:00 PM",
+    "items": [
+        {
+            "name": "Twisted Rueben",
+            "quantity": 1,
+            "unitprice": 11.69,
+            "amount": 11.69,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 11.69,
+    "service_fee": -0.7,
+    "sales_tax": 1.14,
+    "total": 13.53
+}

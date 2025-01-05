@@ -1,0 +1,18 @@
+{
+    "location": "7988 N, Expressway, Brownsville, TX",
+    "shop": "Lin Buffet",
+    "datetime": "Feb 24, 2019 03:22PM",
+    "items": [
+        {
+            "name": "Weekend Buffet",
+            "quantity": 4,
+            "category": "misc"
+        },
+        {
+            "name": "Drink",
+            "quantity": 2,
+            "category": "beverages"
+        }
+    ],
+    "total": 31.16
+}

@@ -1,0 +1,43 @@
+{
+    "location": "Unknown",
+    "shop": "Unknown",
+    "datetime": "02/19/21",
+    "items": [
+        {
+            "name": "Gor Fi Beary",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        },
+        {
+            "name": "eae FI Au Po",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        },
+        {
+            "name": "Onion Ring",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Harfeots Vert",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        },
+        {
+            "name": "hoe Trut Cake",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        }
+    ],
+    "total": 129.75
+}

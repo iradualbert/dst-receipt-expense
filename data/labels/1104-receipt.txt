@@ -1,0 +1,23 @@
+{
+    "location": "Don San Mexican Restaurant",
+    "order_number": "28731",
+    "dine_option": "Dine In",
+    "datetime": "11/16/2013 8:14:53 PM",
+    "items": [
+        {
+            "name": "Red Sangria Glass",
+            "quantity": 2,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Combo Fajitas with Flour Tortilla, Chicken, Shrimp, Steak",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Burrito Supreme with Beef",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        }
+    ]
+}

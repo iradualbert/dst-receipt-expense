@@ -1,0 +1,20 @@
+Micros Demo System
+Aelcone to Yogurt land
+12502 North Kendall Drive
+igmi, FL 33186
+(305) 279-3478
+Date: Sep07'18 09:28PM
+Card Typ; VISA
+Acct #: XXXXXXXXXXXXIBHZ
+Card Entry: SWIPED
+Trans Type: PURCHASE :
+Trans Key; I11008007193348 —
+Auth toda: 071410 4
+Checl:: 1082
+Servar: 1041 melanie
+
+Tota 17.SQum
+
+KN SIGNATURE REQUIRED
+FOR PURCHASES UNDER $20.00%*
+

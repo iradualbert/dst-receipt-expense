@@ -1,0 +1,40 @@
+{
+    "location": "211 E wa Rd, Lombard, IL 60148",
+    "shop": "Pita Pita - Lombard",
+    "datetime": "5/4/2017 4:10 PM",
+    "items": [
+        {
+            "name": "Mixed Meat Lunch",
+            "quantity": 20,
+            "unitprice": 180.0,
+            "amount": 180.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Reg 12pc Falafel",
+            "quantity": 1,
+            "unitprice": 6.5,
+            "amount": 6.5,
+            "category": "misc"
+        },
+        {
+            "name": "Reg 12pc Falafel",
+            "quantity": 1,
+            "unitprice": 6.5,
+            "amount": 6.5,
+            "category": "misc"
+        },
+        {
+            "name": "Miscellaneous",
+            "quantity": 1,
+            "unitprice": 20.0,
+            "amount": 20.0,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 213.0,
+    "tax": 15.92,
+    "total": 228.92,
+    "payment_method": "Visa",
+    "card_last_four_digits": "8414"
+}

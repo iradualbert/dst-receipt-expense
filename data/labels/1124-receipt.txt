@@ -1,0 +1,87 @@
+{
+    "location": "5525 New Albany Road West, New Albany, OH 43054",
+    "shop": "Firefly American Bistro",
+    "datetime": "12/28/18 19:54",
+    "items": [
+        {
+            "name": "Malbec Leyte",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Blood Orange Marg",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Wedding Soup",
+            "quantity": 1,
+            "unitprice": 2.95,
+            "amount": 2.95,
+            "category": "misc"
+        },
+        {
+            "name": "Spaghetti Marinara",
+            "quantity": 1,
+            "unitprice": 17.95,
+            "amount": 17.95,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Add One Meatball",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Add Two Meatballs",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Fettuccine Alfredo",
+            "quantity": 1,
+            "unitprice": 23.95,
+            "amount": 23.95,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Add Steak",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Small Wedge Salad (Dinner)",
+            "quantity": 1,
+            "unitprice": 4.95,
+            "amount": 4.95,
+            "category": "produce"
+        },
+        {
+            "name": "Creme Brulee",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Baileys",
+            "quantity": 1,
+            "unitprice": 7.0,
+            "amount": 7.0,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "subtotal": 77.8,
+    "tax": 5.84,
+    "total": 83.64
+}

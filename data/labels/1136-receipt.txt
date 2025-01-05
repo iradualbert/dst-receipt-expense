@@ -1,0 +1,17 @@
+{
+    "location": "14817 S. Western Ave, Gardena, CA 90249",
+    "shop": "The Shawarma Factory",
+    "datetime": "04/10/19 12:34 PM",
+    "items": [
+        {
+            "name": "Flame Broiled Chicken",
+            "quantity": 1,
+            "unitprice": 11.99,
+            "amount": 11.99,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 11.99,
+    "sales_tax": 1.14,
+    "total": 13.13
+}

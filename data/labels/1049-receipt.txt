@@ -1,0 +1,60 @@
+{
+    "location": "91-5431 Kapolei Parkway, Suite 426, Kapolei, HI 96707",
+    "shop": "KICKIN KAJUN KAPOLEI",
+    "datetime": "7/18/19, 5:47 PM",
+    "items": [
+        {
+            "name": "Margarita",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Add Tequila",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Strawberry Daiquiri",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Add Vodea",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Snow Combo",
+            "quantity": 1,
+            "unitprice": 54.0,
+            "amount": 54.0,
+            "category": "misc"
+        },
+        {
+            "name": "Kickin Sauce",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "misc"
+        },
+        {
+            "name": "Mild",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 74.0,
+    "total_tax": 3.49,
+    "total": 77.49,
+    "receipt_total": 38.75
+}

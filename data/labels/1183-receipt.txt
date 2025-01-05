@@ -1,0 +1,18 @@
+{
+    "shop": "Jalisci",
+    "location": null,
+    "datetime": null,
+    "items": [
+        {
+            "name": "Prin",
+            "quantity": 1,
+            "unitprice": 8.99,
+            "amount": 8.99,
+            "category": "misc"
+        }
+    ],
+    "sales_tax": 0.74,
+    "processing_fee": 0.21,
+    "total": 10.0,
+    "balance_due": 10.0
+}

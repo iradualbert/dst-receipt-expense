@@ -1,0 +1,12 @@
+{
+    "location": "11732 ARTESIA BLVD, ARTESIA, CA",
+    "shop": "ALBETOS MEXICAN FOOD",
+    "items": [
+        {
+            "name": "ASADA TACO",
+            "quantity": 3,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": null
+}

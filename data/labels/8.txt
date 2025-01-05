@@ -1,0 +1,73 @@
+{
+    "location": "16375 N. Washington St., Thornton, CO 80023",
+    "shop": "Thornton #629",
+    "items": [
+        {
+            "name": "BS Breast",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "KS Diced Tomato",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "produce"
+        },
+        {
+            "name": "Jack Org Salsa",
+            "quantity": 3,
+            "unitprice": 4.29,
+            "amount": 12.87,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "18ct Eggs",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "dairy"
+        },
+        {
+            "name": "Grape Tomato",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "produce"
+        },
+        {
+            "name": "Eco Half Pan",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "Grnd Turkey",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "CHPD Onion",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "produce"
+        },
+        {
+            "name": "Mont Jack 2#",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "dairy"
+        }
+    ],
+    "total_tax": 3.52,
+    "total_number_of_items_sold": 11,
+    "datetime": null,
+    "total": null
+}

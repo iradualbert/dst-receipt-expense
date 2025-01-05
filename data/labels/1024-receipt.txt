@@ -1,0 +1,22 @@
+{
+    "location": "14727.5 Rinaldi St, San Fernando, CA 91340",
+    "shop": "New Asia Buffet",
+    "datetime": "Invalid Date",
+    "items": [
+        {
+            "name": "Weekend Dinner",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": 31.12,
+            "category": "misc"
+        },
+        {
+            "name": "Coke",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        }
+    ],
+    "total": 33.92
+}

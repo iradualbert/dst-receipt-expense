@@ -1,0 +1,56 @@
+{
+    "location": "764 9TH AVE, NEW YORK, NY 10019",
+    "shop": "Bombay Grill House",
+    "datetime": "06/30/2018 22:36:38",
+    "items": [
+        {
+            "name": "Onion Bhajia",
+            "quantity": 1,
+            "unitprice": 5.95,
+            "amount": 5.95,
+            "category": "misc"
+        },
+        {
+            "name": "Lamb Vindaloo",
+            "quantity": 1,
+            "unitprice": 14.95,
+            "amount": 14.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Konkan Fish Curry",
+            "quantity": 1,
+            "unitprice": 16.95,
+            "amount": 16.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Shrimp Briyani",
+            "quantity": 1,
+            "unitprice": 16.95,
+            "amount": 16.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Garlic Naan",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Hess Cabernet",
+            "quantity": 1,
+            "unitprice": 50.0,
+            "amount": 50.0,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "subtotal": 108.8,
+    "tax": 9.66,
+    "total": 118.46,
+    "payment_method": "CREDIT CARD",
+    "card_type": "MASTERCARD",
+    "card_last_four": "0148",
+    "tip": 0.0
+}

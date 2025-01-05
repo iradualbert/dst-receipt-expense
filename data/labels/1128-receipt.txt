@@ -1,0 +1,45 @@
+{
+    "location": "16530 BELLFLOWER BLVD, BELLFLOWER, CA 90706",
+    "shop": "KALAVERAS",
+    "datetime": "30-Aug-2019 3:24:10",
+    "items": [
+        {
+            "name": "Classic Michelada",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Classic Michelada",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Don Julio Anejo",
+            "quantity": 1,
+            "unitprice": 15.0,
+            "amount": 15.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Classic Michelada",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Balam Madurado",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "subtotal": 63.0,
+    "tax": 5.99,
+    "total": 68.99
+}

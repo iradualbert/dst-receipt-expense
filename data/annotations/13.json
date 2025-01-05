@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "text": "WALMART",
+        "label": "shop_vendor",
+        "box": [
+            300,
+            100,
+            500,
+            140
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "08/11/17 19:22:40",
+        "label": "datetime",
+        "box": [
+            150,
+            600,
+            300,
+            620
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "2014 S Irby St, Florence, SC 29505",
+        "label": "location",
+        "box": [
+            280,
+            220,
+            580,
+            250
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "GIFT CARD 1 50.00 50.00",
+        "label": "item",
+        "box": [
+            100,
+            330,
+            680,
+            350
+        ],
+        "linking": []
+    },
+    {
+        "id": 4,
+        "text": "SHOP CARD ACTIVATION 1 50.00 50.00",
+        "label": "item",
+        "box": [
+            100,
+            380,
+            680,
+            400
+        ],
+        "linking": []
+    },
+    {
+        "id": 5,
+        "text": "TOTAL 50.00",
+        "label": "total",
+        "box": [
+            500,
+            480,
+            580,
+            500
+        ],
+        "linking": []
+    }
+]

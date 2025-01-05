@@ -1,0 +1,30 @@
+Gordon Ramsay Steak
+Paris Las Vegas
+
+say Steak
+
+Check: 2042967 Table: T-35
+
+conberto Guests: 2
+2
+
+Regular
+1 Pinas Cup 14,00
+2 The Orifter 28.00
+
+6 14.00
+1 Kobe Beef Slider 18.00
+
+1 New York 63.00
+J Aner Kobe Filet 79.00
+1 Lobster Tail 38.00
+1 Potato Puree 12.00
+1 Grlld Asparagus 13.00
+1 Peppercorn 6.00
+1 Pepsi 6.00
+1 Choc Pot De Crem 13.00
+
+Subtotal 230.00
+23.49
+
+313.49

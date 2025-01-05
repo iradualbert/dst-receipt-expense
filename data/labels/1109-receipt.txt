@@ -1,0 +1,41 @@
+{
+    "items": [
+        {
+            "name": "Fopcom Chicken",
+            "quantity": 1,
+            "unitprice": 6.75,
+            "amount": 6.75,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Eraisec Beef flee/Noodle",
+            "quantity": 1,
+            "unitprice": 9.24,
+            "amount": 9.24,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Cold Noodle With Chicken",
+            "quantity": 1,
+            "unitprice": 7.95,
+            "amount": 7.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Beef Noodles",
+            "quantity": 1,
+            "unitprice": 6.25,
+            "amount": 6.25,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 27.62,
+    "tax_rate": 0.09,
+    "tax": 2.28,
+    "total": 25.34,
+    "tip_guide": {
+        "15%": 3.8,
+        "18%": 4.56,
+        "20%": 5.07
+    }
+}

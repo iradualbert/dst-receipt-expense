@@ -1,0 +1,29 @@
+{
+    "location": "8510 GARFIELD AVE, SOUTH GATE, CA 90280",
+    "shop": "SOLDEN BOWL",
+    "datetime": "08-18-2019 11:19 AM",
+    "items": [
+        {
+            "name": "#1 CHKN PLATE",
+            "quantity": 1,
+            "unitprice": 8.39,
+            "amount": 8.39,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "AVOCADO",
+            "quantity": 1,
+            "unitprice": 1.95,
+            "amount": 1.95,
+            "category": "produce"
+        },
+        {
+            "name": "MD. DRINK",
+            "quantity": 1,
+            "unitprice": 2.29,
+            "amount": 2.29,
+            "category": "beverages"
+        }
+    ],
+    "total": 15.03
+}

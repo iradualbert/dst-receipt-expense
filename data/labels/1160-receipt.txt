@@ -1,0 +1,29 @@
+{
+    "location": "12247 Sheridan St, Cooper City, FL 33026",
+    "shop": "Angela's Pizza Restaurant",
+    "datetime": "7/10/2017 9:32:06 PM",
+    "items": [
+        {
+            "name": "Sprite",
+            "quantity": 1,
+            "unitprice": 2.55,
+            "amount": 2.55,
+            "category": "beverages"
+        },
+        {
+            "name": "Chicken Caesar Salad",
+            "quantity": 1,
+            "unitprice": 8.95,
+            "amount": 8.95,
+            "category": "produce"
+        },
+        {
+            "name": "Chefs Special",
+            "quantity": 1,
+            "unitprice": 19.95,
+            "amount": 19.95,
+            "category": "misc"
+        }
+    ],
+    "total": null
+}

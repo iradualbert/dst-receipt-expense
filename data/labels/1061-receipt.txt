@@ -1,0 +1,32 @@
+{
+    "location": "17588 Castleton St, City of Industry, CA 31748",
+    "shop": "Chili's Grill & Bar",
+    "datetime": "09/19/2018",
+    "order_type": "Dine In",
+    "items": [
+        {
+            "name": "TRIPLE DIPPER",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "CHICKEN WAFFLES",
+            "quantity": 4,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": null,
+    "balance_due": null,
+    "gratuity_guide": {
+        "15%": 3.95,
+        "18%": 4.75,
+        "20%": 5.27,
+        "22%": 5.8
+    }
+}

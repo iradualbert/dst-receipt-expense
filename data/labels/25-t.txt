@@ -1,0 +1,36 @@
+{
+    "location": "ATASEHIR, ISTANBUL",
+    "shop": "MIGROS",
+    "datetime": "10/24/23 20:14",
+    "items": [
+        {
+            "name": "ERIKLI SU 1.5 L",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "beverages"
+        },
+        {
+            "name": "ELMA GRANNY",
+            "quantity": 0.53,
+            "unitprice": 59.95,
+            "amount": 31.73,
+            "category": "produce"
+        },
+        {
+            "name": "MIGROS PLASTIK POSET",
+            "quantity": 1,
+            "unitprice": 0.2,
+            "amount": 0.2,
+            "category": "misc"
+        },
+        {
+            "name": "MUZ YERLI",
+            "quantity": 0,
+            "unitprice": 79.95,
+            "amount": 42.37,
+            "category": "produce"
+        }
+    ],
+    "total": 122.92
+}

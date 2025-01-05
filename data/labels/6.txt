@@ -1,0 +1,45 @@
+{
+    "location": "Tepe Mall Kemang, Kemang VI No. 6",
+    "shop": "MOMI & TOY\u2019S CREPERIE",
+    "datetime": "26/01/2016 16:19",
+    "items": [
+        {
+            "name": "Woman",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "misc"
+        },
+        {
+            "name": "Ham Cheese",
+            "quantity": 2,
+            "unitprice": 37000.0,
+            "amount": 74000.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Ice Java Tea",
+            "quantity": 1,
+            "unitprice": 16000.0,
+            "amount": 16000.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Mineral Water",
+            "quantity": 1,
+            "unitprice": 13000.0,
+            "amount": 13000.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Black & White",
+            "quantity": 1,
+            "unitprice": 72000.0,
+            "amount": 72000.0,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "total": 175000.0,
+    "cash": 200000.0,
+    "change": 25000.0
+}

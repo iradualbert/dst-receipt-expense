@@ -1,0 +1,27 @@
+{
+    "shop": "Taco Restaurant",
+    "items": [
+        {
+            "name": "Carnitas Taco",
+            "quantity": 1,
+            "unitprice": 12.4,
+            "amount": 12.4,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Sour Cream",
+            "quantity": 1,
+            "unitprice": 2.0,
+            "amount": 2.0,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Chihuahua Cheese",
+            "quantity": 1,
+            "unitprice": 2.0,
+            "amount": 2.0,
+            "category": "dairy"
+        }
+    ],
+    "total": 16.4
+}

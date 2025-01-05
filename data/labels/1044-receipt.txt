@@ -1,0 +1,36 @@
+{
+    "location": "123 Shopping Plaza, Citytown",
+    "shop": "GroceryMart",
+    "datetime": "10/12/23 15:45:00",
+    "items": [
+        {
+            "name": "bananas 1.5 lb",
+            "quantity": 1.5,
+            "unitprice": 0.5,
+            "amount": 0.75,
+            "category": "produce"
+        },
+        {
+            "name": "milk gallon",
+            "quantity": 1,
+            "unitprice": 3.5,
+            "amount": 3.5,
+            "category": "dairy"
+        },
+        {
+            "name": "bread loaf",
+            "quantity": 1,
+            "unitprice": 2.0,
+            "amount": 2.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "soap bar",
+            "quantity": 2,
+            "unitprice": 1.25,
+            "amount": 2.5,
+            "category": "health_and_personal_care"
+        }
+    ],
+    "total": 8.75
+}

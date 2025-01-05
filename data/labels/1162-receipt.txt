@@ -1,0 +1,98 @@
+{
+    "location": "Jan 08 Kettner Blvd, San Diego, CA 92101",
+    "datetime": "Unknown time on January 8th",
+    "items": [
+        {
+            "name": "BUCATINI",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "RAVIOLO",
+            "quantity": 1,
+            "unitprice": 18.9,
+            "amount": 18.9,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "BT TURNBULL NAPA",
+            "quantity": 1,
+            "unitprice": 90,
+            "amount": 90,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "HALIBUT",
+            "quantity": 1,
+            "unitprice": 36,
+            "amount": 36,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "YODEL",
+            "quantity": 1,
+            "unitprice": 12,
+            "amount": 12,
+            "category": "misc"
+        },
+        {
+            "name": "MILK & HONEY",
+            "quantity": 1,
+            "unitprice": 10,
+            "amount": 10,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "COFFEE SM",
+            "quantity": 1,
+            "unitprice": 6,
+            "amount": 6,
+            "category": "beverages"
+        },
+        {
+            "name": "GL ROUND POND SB",
+            "quantity": 1,
+            "unitprice": 13,
+            "amount": 13,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "OCTOPUS",
+            "quantity": 1,
+            "unitprice": 16,
+            "amount": 16,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "BEEF TARTARE",
+            "quantity": 1,
+            "unitprice": 42,
+            "amount": 42,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "FINLANDIA (WELL) MARTINI",
+            "quantity": 1,
+            "unitprice": 11,
+            "amount": 11,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "HALIBUT",
+            "quantity": 4,
+            "unitprice": 38,
+            "amount": 152,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "SNAPPER",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 333.72
+}

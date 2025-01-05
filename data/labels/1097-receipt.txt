@@ -1,0 +1,53 @@
+{
+    "location": "Drive Thru",
+    "datetime": "06/28/17 17:38",
+    "items": [
+        {
+            "name": "Burrito Cmb",
+            "quantity": 1,
+            "unitprice": 8.28,
+            "amount": 8.28,
+            "category": "misc"
+        },
+        {
+            "name": "Chk Ranchero Bur",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        },
+        {
+            "name": "Avo Slcs",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "Ind Chips",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "SM_DRINK Coke",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "beverages"
+        },
+        {
+            "name": "Bur-BRC",
+            "quantity": 2,
+            "unitprice": 1.89,
+            "amount": 3.78,
+            "category": "misc"
+        }
+    ],
+    "total": 12.06,
+    "tax": 1.06,
+    "cash": 139.25,
+    "payment": "iealeZ",
+    "change_due": 0.13
+}

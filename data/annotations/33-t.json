@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "text": "MIGROS TICARET A.S.",
+        "label": "shop_vendor",
+        "box": [
+            12,
+            60,
+            110,
+            80
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "TARIH: 19/10/2024 SAAT: 15:50",
+        "label": "datetime",
+        "box": [
+            12,
+            90,
+            180,
+            110
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "MIGROS PLASTIK POSET x0,25",
+        "label": "item",
+        "box": [
+            12,
+            120,
+            330,
+            135
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "AMSTERDAM BIRA 50CL x115,00",
+        "label": "item",
+        "box": [
+            12,
+            140,
+            330,
+            155
+        ],
+        "linking": []
+    },
+    {
+        "id": 4,
+        "text": "ULUDAG DOGAL M.SUYU x44,90",
+        "label": "item",
+        "box": [
+            12,
+            160,
+            330,
+            175
+        ],
+        "linking": []
+    },
+    {
+        "id": 5,
+        "text": "TOPLAM x550,05",
+        "label": "total",
+        "box": [
+            12,
+            200,
+            330,
+            220
+        ],
+        "linking": []
+    }
+]

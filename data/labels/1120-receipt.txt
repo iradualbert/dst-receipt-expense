@@ -1,0 +1,44 @@
+{
+    "location": "349 7 AVE. (CORNER OST), BROOKLYN, NY 11215",
+    "shop": "RED & HOT",
+    "datetime": "10/20/2018 12:37 PM",
+    "items": [
+        {
+            "name": "Vegetable Roll",
+            "quantity": 1,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Egg Roll",
+            "quantity": 1,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Sesame chicken",
+            "quantity": 2,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "WR",
+            "quantity": 1,
+            "amount": null,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "F/R",
+            "quantity": 1,
+            "amount": null,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Veg Spare Ribs BBS with W/R",
+            "quantity": 1,
+            "amount": null,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 23.46
+}

@@ -1,0 +1,33 @@
+{
+    "items": [
+        {
+            "name": "Unknown Item",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item",
+            "quantity": 1,
+            "unitprice": 51.0,
+            "amount": 51.0,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item",
+            "quantity": 1,
+            "unitprice": 2.75,
+            "amount": 2.75,
+            "category": "misc"
+        },
+        {
+            "name": "Unknown Item",
+            "quantity": 1,
+            "unitprice": 33.75,
+            "amount": 33.75,
+            "category": "misc"
+        }
+    ],
+    "total": 90.5
+}

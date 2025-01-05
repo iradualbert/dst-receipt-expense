@@ -1,0 +1,50 @@
+{
+    "location": "190 Jericho Tpke, Floral Park NY 11001",
+    "shop": "Unknown",
+    "datetime": "02/18/17 10:20 PM",
+    "items": [
+        {
+            "name": "Quesadilla",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Pot Roast",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Fish An Chips",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Side Salad",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "produce"
+        },
+        {
+            "name": "Dft Shock tor",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Dft Gui",
+            "quantity": 2,
+            "unitprice": null,
+            "amount": null,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": null
+}

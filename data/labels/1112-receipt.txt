@@ -1,0 +1,29 @@
+{
+    "location": "736 OCEAN DRIVE, MIAMI BEACH, FL 33139",
+    "shop": "COLUMBUS RESTAURANT",
+    "datetime": "01/27/2048 03:59PM",
+    "items": [
+        {
+            "name": "FBD BLUE MARGARITA",
+            "quantity": 2,
+            "unitprice": 55.0,
+            "amount": 110.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "CHEESE BURGER",
+            "quantity": 1,
+            "unitprice": 4.4,
+            "amount": 4.4,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "CHICKEN MARSALA",
+            "quantity": 4,
+            "unitprice": 8.1,
+            "amount": 32.4,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 184.47
+}

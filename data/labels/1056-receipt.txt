@@ -1,0 +1,70 @@
+{
+    "location": "98 GARFIELD PARKWAY, BETHANY BEACH, DE 19930",
+    "shop": "ZOCA RESTAURANT",
+    "phone": "(302) 616-2120",
+    "check": "5033",
+    "server": "Madi",
+    "table": "31",
+    "guests": 2,
+    "items": [
+        {
+            "name": "House Recipe",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Sandia Margarita",
+            "quantity": 2,
+            "unitprice": 13.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Totem Honey Bee",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Queso Fresco Guacamole",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Queso Fundido Mexi Street Corn Dip",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Salsa De Molcajet",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Taquitos Carne Asada",
+            "quantity": 2,
+            "unitprice": 15.0,
+            "category": "misc"
+        },
+        {
+            "name": "Taquitos Baja California Shrimp",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Mole Enchilada",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Quesadilla Chicken",
+            "quantity": 1,
+            "category": "misc"
+        }
+    ],
+    "complimentary": [
+        {
+            "name": "Queso Fundido Mexican Street Corn Dip",
+            "quantity": 1,
+            "amount": 12.0
+        }
+    ]
+}

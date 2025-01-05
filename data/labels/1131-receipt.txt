@@ -1,0 +1,36 @@
+{
+    "location": "MAYWOOD, CA 9027",
+    "shop": "BURGERS",
+    "datetime": "11/24/2017 12:13 PM",
+    "items": [
+        {
+            "name": "B CHZ B SPC",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "F FRIES - LRG",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "horchata",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "HZ BURGER SPEC",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        }
+    ],
+    "total": null
+}

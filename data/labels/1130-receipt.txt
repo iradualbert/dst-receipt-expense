@@ -1,0 +1,22 @@
+{
+    "location": "Unknown",
+    "shop": "BOA",
+    "datetime": "12/20 14:29",
+    "items": [
+        {
+            "name": "CRAB CAKE",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "SKIRT STK LUNCH",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": null
+}

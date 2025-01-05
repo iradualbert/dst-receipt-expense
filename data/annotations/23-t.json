@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "text": "MIGROS TICARET A.S.",
+        "label": "shop_vendor",
+        "box": [
+            25,
+            26,
+            227,
+            45
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "13/12/2024 10:28",
+        "label": "datetime",
+        "box": [
+            30,
+            183,
+            200,
+            215
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "MIGROS PLASTIK POSET 20 x0.5 10.0",
+        "label": "item",
+        "box": [
+            30,
+            234,
+            530,
+            254
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "MALINA ZERO ANAN 1 x30.0 30.0",
+        "label": "item",
+        "box": [
+            30,
+            268,
+            530,
+            288
+        ],
+        "linking": []
+    },
+    {
+        "id": 4,
+        "text": "BISCOLATA STRAX S 1 x20.5 20.5",
+        "label": "item",
+        "box": [
+            30,
+            302,
+            530,
+            322
+        ],
+        "linking": []
+    },
+    {
+        "id": 5,
+        "text": "BLACK BRUIN ENERJI 1 x8.0 8.0",
+        "label": "item",
+        "box": [
+            30,
+            336,
+            530,
+            356
+        ],
+        "linking": []
+    },
+    {
+        "id": 6,
+        "text": "DOGUS BLACK LABEL 1 x52.2 52.2",
+        "label": "item",
+        "box": [
+            30,
+            370,
+            530,
+            390
+        ],
+        "linking": []
+    },
+    {
+        "id": 7,
+        "text": "ISPANAK DPN. BORE 1 x17.8 17.8",
+        "label": "item",
+        "box": [
+            30,
+            404,
+            530,
+            424
+        ],
+        "linking": []
+    },
+    {
+        "id": 8,
+        "text": "MUZ YERLI KG 1.155 x16.79 19.39",
+        "label": "item",
+        "box": [
+            30,
+            438,
+            530,
+            458
+        ],
+        "linking": []
+    },
+    {
+        "id": 9,
+        "text": "TOPLAM 260.31",
+        "label": "total",
+        "box": [
+            430,
+            518,
+            570,
+            538
+        ],
+        "linking": []
+    }
+]

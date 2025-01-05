@@ -1,0 +1,31 @@
+{
+    "location": "5305 E PACIFIC COAST HWY, Long Beach, CA 90804",
+    "shop": "GREEN FIELD",
+    "datetime": "5/26/2016 12:53:10 PM",
+    "items": [
+        {
+            "name": "Coffee",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Lunch",
+            "quantity": 2,
+            "unitprice": 22.95,
+            "amount": 45.9,
+            "category": "misc"
+        },
+        {
+            "name": "Coke",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "beverages"
+        }
+    ],
+    "subtotal": 51.9,
+    "tax": 4.68,
+    "total": 56.58
+}

@@ -1,0 +1,42 @@
+{
+    "location": "71 Newark Avenue, Jersey City, NJ 07306",
+    "shop": "Deocan Spice",
+    "contact": "(201) 604-1772",
+    "datetime": "7/26/2019 10:56:49 PM",
+    "order": {
+        "server": "Com",
+        "station": "6",
+        "order_number": "0110"
+    },
+    "dine_type": "Dine In",
+    "table": "fs",
+    "guests": 6,
+    "items": [
+        {
+            "name": "Dal Fry",
+            "quantity": 1,
+            "unitprice": 10.99,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Paneer Butter Masala",
+            "quantity": 1,
+            "unitprice": 2.83,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Rice",
+            "quantity": 2,
+            "unitprice": 1.99,
+            "category": "grains_and_bakery",
+            "amount": 3.98
+        },
+        {
+            "name": "Special Biryani",
+            "quantity": 1,
+            "unitprice": 14.99,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "total": null
+}

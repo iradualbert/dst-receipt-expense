@@ -1,0 +1,33 @@
+{
+    "location": "French Cafe & Wine Bar",
+    "datetime": "06/02/15 13:56",
+    "items": [
+        {
+            "name": "sau blanc",
+            "quantity": 2,
+            "unitprice": 18.0,
+            "amount": 36.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "veggie sandwich",
+            "quantity": 1,
+            "unitprice": 11.0,
+            "amount": 11.0,
+            "category": "misc"
+        },
+        {
+            "name": "quiche loraine",
+            "quantity": 4,
+            "unitprice": 12.0,
+            "amount": 48.0,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 41.0,
+    "open_discount": 11.0,
+    "tax": 1.8,
+    "subtotal_after_discount": 31.8,
+    "gratuity": 7.38,
+    "total": 39.18
+}

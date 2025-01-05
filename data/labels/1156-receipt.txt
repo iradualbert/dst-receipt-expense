@@ -1,0 +1,41 @@
+{
+    "shop": "IKEA MILTON",
+    "items": [
+        {
+            "name": "Nea",
+            "quantity": 1,
+            "unitprice": 3.8,
+            "amount": 3.8,
+            "category": "misc"
+        },
+        {
+            "name": "Fish & Chips Adult",
+            "quantity": 1,
+            "unitprice": 4.95,
+            "amount": 4.95,
+            "category": "misc"
+        },
+        {
+            "name": "Pain - White",
+            "quantity": 1,
+            "unitprice": 0.5,
+            "amount": 0.5,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Wine rose",
+            "quantity": 1,
+            "unitprice": 2.8,
+            "amount": 2.8,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Wine red",
+            "quantity": 1,
+            "unitprice": 3.8,
+            "amount": 3.8,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": 12.37
+}

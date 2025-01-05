@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "name": "Rye 10yr",
+            "quantity": 2,
+            "unitprice": 20.0,
+            "amount": 40.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Sirloin",
+            "quantity": 1,
+            "unitprice": 34.0,
+            "amount": 34.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 179.94,
+    "balance_due": 179.94,
+    "tip_suggestion": {
+        "5_percent": 8.35,
+        "10_percent": 16.7,
+        "15_percent": 25.49
+    }
+}

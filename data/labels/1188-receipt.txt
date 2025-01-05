@@ -1,0 +1,37 @@
+{
+    "location": "North Hil ea.sutel, AZ 85205",
+    "shop": "New China",
+    "datetime": "03/12/2016 02:00 PM",
+    "items": [
+        {
+            "name": "Beef with Broccoli",
+            "quantity": 1,
+            "unitprice": 8.25,
+            "amount": 8.25,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Chicken Fried Rice",
+            "quantity": 1,
+            "unitprice": 2.0,
+            "amount": 2.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Sweet and Sour Chicken",
+            "quantity": 1,
+            "unitprice": 7.95,
+            "amount": 7.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Chicken Chow Mein",
+            "quantity": 1,
+            "unitprice": 6.75,
+            "amount": 6.75,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 26.96,
+    "tax": 2.01
+}

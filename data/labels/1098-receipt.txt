@@ -1,0 +1,36 @@
+{
+    "location": "907 Victor V, Mineola, NY 11501",
+    "shop": "Nick's Tuscan Grill",
+    "datetime": "03/18/18 10:54AM",
+    "items": [
+        {
+            "name": "Fussilli SP",
+            "quantity": 1,
+            "unitprice": 22.0,
+            "amount": 22.0,
+            "category": "misc"
+        },
+        {
+            "name": "Ossobuco",
+            "quantity": 1,
+            "unitprice": 28.0,
+            "amount": 28.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Diet Coke",
+            "quantity": 1,
+            "unitprice": 2.5,
+            "amount": 2.5,
+            "category": "beverages"
+        },
+        {
+            "name": "14 Hands Cab",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": 67.89
+}

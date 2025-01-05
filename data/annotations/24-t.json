@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "text": "MIGROS TICARET A.S.",
+        "label": "shop_vendor",
+        "box": [
+            10,
+            10,
+            200,
+            30
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "25/10/24 20:24",
+        "label": "datetime",
+        "box": [
+            300,
+            10,
+            400,
+            30
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "MIGROS PLASTIK POSET x20 0.25 20.95",
+        "label": "item",
+        "box": [
+            10,
+            50,
+            330,
+            70
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "TOTAL 885.57",
+        "label": "total",
+        "box": [
+            10,
+            400,
+            100,
+            420
+        ],
+        "linking": []
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "location": "8030 Renaissance Parkway, Durham, NC 27713",
+    "shop": "Unknown",
+    "datetime": "05/18/2019 12:25 PM",
+    "items": [
+        {
+            "name": "Taco Salad",
+            "quantity": 1,
+            "unitprice": 15.49,
+            "amount": 15.49,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Ground Beef",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Add Chicken Fajita",
+            "quantity": 1,
+            "unitprice": 8.99,
+            "amount": 8.99,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Pechuga de Pollo",
+            "quantity": 1,
+            "unitprice": 18.99,
+            "amount": 18.99,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 46.73
+}

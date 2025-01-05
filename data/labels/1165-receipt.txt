@@ -1,0 +1,15 @@
+{
+    "items": [
+        {
+            "name": "Buritto",
+            "quantity": 1,
+            "unitprice": 64.0,
+            "amount": 64.0,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "total": 117.0,
+    "misc": {
+        "delivery_note": "Hone Delivery No:600561112"
+    }
+}

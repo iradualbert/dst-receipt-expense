@@ -1,0 +1,146 @@
+[
+    {
+        "id": 0,
+        "text": "MIGROS TICARET A.S.",
+        "label": "shop_vendor",
+        "box": [
+            100,
+            50,
+            300,
+            70
+        ],
+        "linking": []
+    },
+    {
+        "id": 1,
+        "text": "17/11/24 11:22",
+        "label": "datetime",
+        "box": [
+            200,
+            70,
+            350,
+            90
+        ],
+        "linking": []
+    },
+    {
+        "id": 2,
+        "text": "MIGROS PLASTIK POSET x20 0.25",
+        "label": "item",
+        "box": [
+            50,
+            110,
+            550,
+            130
+        ],
+        "linking": []
+    },
+    {
+        "id": 3,
+        "text": "PINAR SUT x1 47.95",
+        "label": "item",
+        "box": [
+            50,
+            130,
+            550,
+            150
+        ],
+        "linking": []
+    },
+    {
+        "id": 4,
+        "text": "ETI LIFALIF GRANOLA x1 40.45",
+        "label": "item",
+        "box": [
+            50,
+            150,
+            550,
+            170
+        ],
+        "linking": []
+    },
+    {
+        "id": 5,
+        "text": "L MILKA CHOCO MO2 x1 45.90",
+        "label": "item",
+        "box": [
+            50,
+            170,
+            550,
+            190
+        ],
+        "linking": []
+    },
+    {
+        "id": 6,
+        "text": "EMSAL CEVIZICI 150G x1 59.90",
+        "label": "item",
+        "box": [
+            50,
+            190,
+            550,
+            210
+        ],
+        "linking": []
+    },
+    {
+        "id": 7,
+        "text": "ARMUT SAN. MARIA x1 85.75",
+        "label": "item",
+        "box": [
+            50,
+            210,
+            550,
+            230
+        ],
+        "linking": []
+    },
+    {
+        "id": 8,
+        "text": "DIFIS AD BIO CARE TA x1 89.95",
+        "label": "item",
+        "box": [
+            50,
+            230,
+            550,
+            250
+        ],
+        "linking": []
+    },
+    {
+        "id": 9,
+        "text": "MUZ GAL KG x1 56.90",
+        "label": "item",
+        "box": [
+            50,
+            250,
+            550,
+            270
+        ],
+        "linking": []
+    },
+    {
+        "id": 10,
+        "text": "PORTAKAL KG x1 29.80",
+        "label": "item",
+        "box": [
+            50,
+            270,
+            550,
+            290
+        ],
+        "linking": []
+    },
+    {
+        "id": 11,
+        "text": "TOTAL 545.28",
+        "label": "total",
+        "box": [
+            500,
+            290,
+            600,
+            310
+        ],
+        "linking": []
+    }
+]

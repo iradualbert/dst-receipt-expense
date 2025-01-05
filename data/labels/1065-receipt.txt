@@ -1,0 +1,36 @@
+{
+    "location": "3 Hyland Ave. Ste C21, Costa Mesa, CA 92626",
+    "shop": "Taco Maria",
+    "datetime": "1/23/18 12:00",
+    "items": [
+        {
+            "name": "Pescado",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Arrachera solo",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": null,
+    "gratuity_suggestions": [
+        {
+            "percent": 18,
+            "amount": 7.65
+        },
+        {
+            "percent": 20,
+            "amount": 8.5
+        },
+        {
+            "percent": 22,
+            "amount": 9.35
+        }
+    ]
+}

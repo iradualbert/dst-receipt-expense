@@ -1,0 +1,15 @@
+{
+    "shop": "",
+    "datetime": "",
+    "items": [
+        {
+            "name": "whole pie",
+            "quantity": 1,
+            "unitprice": 19.19,
+            "amount": 19.19,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "total": 19.19,
+    "location": ""
+}

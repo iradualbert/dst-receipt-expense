@@ -1,0 +1,7 @@
+{
+    "location": "2023 South Pine Avenue, Ocala, Florida 34471",
+    "shop": "Ipanema Brazilian Steak House",
+    "datetime": "04/13/18 21:16",
+    "items": [],
+    "total": null
+}

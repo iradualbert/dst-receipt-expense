@@ -1,0 +1,22 @@
+{
+    "shop": "Kalooki's",
+    "datetime": "03/14/2015 8:12 PM",
+    "location": "Bey Read, Blue Hill, 01649 Providenciales",
+    "items": [
+        {
+            "name": "Bottled Water",
+            "quantity": 1,
+            "unitprice": 20.0,
+            "amount": 20.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Service Charge",
+            "quantity": 1,
+            "unitprice": 5.3,
+            "amount": 5.3,
+            "category": "misc"
+        }
+    ],
+    "total": 25.3
+}

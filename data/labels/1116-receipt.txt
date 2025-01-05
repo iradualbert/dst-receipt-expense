@@ -1,0 +1,46 @@
+{
+    "location": "4780 Wharf Parkway, Orange Beach, AL 36561",
+    "shop": "Villaggio Grille",
+    "phone": "251-224-6510",
+    "order": "9862",
+    "datetime": "06/08/19 11:45 AM",
+    "items": [
+        {
+            "name": "P-VILLAGIO BREEZE",
+            "quantity": 1,
+            "unitprice": 0.01,
+            "amount": 0.01,
+            "category": "beverages"
+        },
+        {
+            "name": "ADD SALAD",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "produce"
+        },
+        {
+            "name": "LUNCH SEAFOOD PASTA",
+            "quantity": 1,
+            "unitprice": 14.0,
+            "amount": 14.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "KID PEPERONI PIZZA",
+            "quantity": 1,
+            "unitprice": 7.0,
+            "amount": 7.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "ALFREDO",
+            "quantity": 1,
+            "unitprice": 7.0,
+            "amount": 7.0,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "sub_total": 31.01,
+    "total": 34.12
+}

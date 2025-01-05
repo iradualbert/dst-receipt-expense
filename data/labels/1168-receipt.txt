@@ -1,0 +1,50 @@
+{
+    "location": "11961 Beach Blvd., Stanton, CA 90680",
+    "shop": "CARL'S JR",
+    "datetime": "9/27/2017 12:13:06",
+    "items": [
+        {
+            "name": "All Star Meal #1",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "misc"
+        },
+        {
+            "name": "Db] Chbgr",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Hot Dog",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Baked Cookie",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Lg Fries",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Lg Bev Bar",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "beverages"
+        }
+    ],
+    "total": 6.0
+}

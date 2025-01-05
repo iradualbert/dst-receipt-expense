@@ -1,0 +1,29 @@
+{
+    "location": "7602 Sand Ave NH suite A, Stanwood, WA 98292",
+    "shop": "MOD Pizza",
+    "datetime": "5/19/2019 4:06:54 PM",
+    "items": [
+        {
+            "name": "Draft Beer",
+            "quantity": 2,
+            "unitprice": 4.97,
+            "amount": 9.94,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Fountain Drink",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "Pizza",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        }
+    ],
+    "total": null
+}

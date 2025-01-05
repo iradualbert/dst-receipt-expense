@@ -1,0 +1,18 @@
+{
+    "shop": "Tay Ho Oakland",
+    "datetime": "2/19/19, 1:20 PM",
+    "order_number": "142750",
+    "table": "Table - 7",
+    "items": [
+        {
+            "name": "Special Combo Pho",
+            "category": "misc"
+        }
+    ],
+    "subtotal": 16.77,
+    "total_tax": null,
+    "order_balance_due": null,
+    "suggested_gratuity": {
+        "18_percent": 2.33
+    }
+}

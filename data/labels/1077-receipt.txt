@@ -1,0 +1,53 @@
+{
+    "location": "103 MONTGOMERRY St, JERSEY CITY, NJ 07302",
+    "shop": "NAANCHING",
+    "datetime": "24-Mar-2019 19:14:55",
+    "items": [
+        {
+            "name": "Chicken Lollipop",
+            "quantity": 1,
+            "unitprice": 9.0,
+            "amount": 9.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Thai Fried Rice",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "quantity": 1,
+            "unitprice": 16.0,
+            "amount": 16.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Naan",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Vegetable Biryani",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Mango Lassi",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "beverages"
+        }
+    ],
+    "subtotal": 56.0,
+    "tax": 3.71,
+    "service_charge": 10.08,
+    "total": 69.79
+}

@@ -1,0 +1,38 @@
+{
+    "location": "37011 Cook Street",
+    "shop": "JT's Diner",
+    "datetime": "02/12/2016 10:28 AM",
+    "items": [
+        {
+            "name": "Coffee",
+            "quantity": 2,
+            "unitprice": 2.95,
+            "amount": 5.9,
+            "category": "beverages"
+        },
+        {
+            "name": "Two Eggs Any Style",
+            "quantity": 1,
+            "unitprice": 6.95,
+            "amount": 6.95,
+            "category": "misc"
+        },
+        {
+            "name": "Whole-Wheat Pancakes",
+            "quantity": 1,
+            "unitprice": 8.95,
+            "amount": 8.95,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Hawaiian Sausage",
+            "quantity": 1,
+            "unitprice": 4.5,
+            "amount": 4.5,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 26.3,
+    "tax": 2.1,
+    "total": 28.4
+}

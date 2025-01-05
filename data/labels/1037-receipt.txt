@@ -1,0 +1,66 @@
+{
+    "store_number": 1291,
+    "shop": "Panda Express",
+    "location": "Everett, WA",
+    "contact": "(425)710-",
+    "datetime": "3/16/2013 ; a PM",
+    "order_number": 177437,
+    "server": "Tameka J",
+    "items": [
+        {
+            "name": "PARTY PK 18-22",
+            "quantity": 1,
+            "unitprice": 139.0,
+            "amount": 139.0,
+            "category": "misc"
+        },
+        {
+            "name": "CHOW MEIN",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "FRIED RICE",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "FRIED/C MEIN",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "ORANGE CKN",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "GRILL TERIYAKI CKN",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "PEPPERCORN SHRIMP",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 151.0,
+    "tax": 13.89,
+    "total": 164.89,
+    "payment_method": "Cash",
+    "payment_amount": 200.0,
+    "change_given": 35.11
+}

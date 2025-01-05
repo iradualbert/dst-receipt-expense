@@ -1,0 +1,43 @@
+{
+    "location": "MTSANTEPE TA, BAVERA BR. 1 100-204-218",
+    "shop": "MIGROS",
+    "datetime": "11/17/24 11:24",
+    "items": [
+        {
+            "name": "emsal CEVIZICI",
+            "quantity": 1,
+            "unitprice": 79.95,
+            "amount": 79.95,
+            "category": "produce"
+        },
+        {
+            "name": "ARMUT SAN. MARTA",
+            "quantity": 0.75,
+            "unitprice": 24.95,
+            "amount": 18.71,
+            "category": "produce"
+        },
+        {
+            "name": "ELMA GALA",
+            "quantity": 0.995,
+            "unitprice": 29.95,
+            "amount": 29.75,
+            "category": "produce"
+        },
+        {
+            "name": "Miz ITHAL",
+            "quantity": 0.995,
+            "unitprice": 29.95,
+            "amount": 29.75,
+            "category": "produce"
+        },
+        {
+            "name": "PORTAKAL KG",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        }
+    ],
+    "total": 545.28
+}

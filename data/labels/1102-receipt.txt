@@ -1,0 +1,32 @@
+{
+    "location": "204 Spring St, New York, NY 10012",
+    "shop": "OM INDIAN FOOD",
+    "datetime": "5/16 12:03:14 PM",
+    "items": [
+        {
+            "name": "Vegetable Biryani",
+            "quantity": 1,
+            "unitprice": 12.95,
+            "amount": 12.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Malai Kofta",
+            "quantity": 1,
+            "unitprice": 12.95,
+            "amount": 12.95,
+            "category": "misc"
+        },
+        {
+            "name": "Onion Naan",
+            "quantity": 1,
+            "unitprice": 3.95,
+            "amount": 3.95,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "subtotal": 29.85,
+    "discount": 14.93,
+    "tax": 1.32,
+    "total": 16.24
+}

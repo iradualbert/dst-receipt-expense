@@ -1,0 +1,7 @@
+{
+    "location": "N/A",
+    "shop": "LACFORCE",
+    "datetime": "N/A",
+    "items": [],
+    "total": 0.0
+}

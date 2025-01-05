@@ -1,0 +1,59 @@
+{
+    "datetime": "12/07/2016 18:53",
+    "order_type": "Send",
+    "area": "Dining",
+    "items": [
+        {
+            "name": "Makers Mark",
+            "quantity": 2,
+            "unitprice": 11.5,
+            "amount": 23.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Side Caesar",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "misc"
+        },
+        {
+            "name": "Chicken & Rib Combo",
+            "quantity": 1,
+            "unitprice": 29.0,
+            "amount": 29.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Woodford Reserve",
+            "quantity": 2,
+            "unitprice": 12.0,
+            "amount": 24.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Frisee Salad",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "misc"
+        },
+        {
+            "name": "Poached Shrimp Cocktail",
+            "quantity": 1,
+            "unitprice": 17.5,
+            "amount": 17.5,
+            "category": "misc"
+        },
+        {
+            "name": "NY Strip 8oz",
+            "quantity": 1,
+            "unitprice": 28.0,
+            "amount": 28.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 137.5,
+    "total_tax": 5.43,
+    "total": 142.93
+}

@@ -1,0 +1,23 @@
+{
+    "location": "1125 QUEEN ST, ALEXANDRIA, VA 22314",
+    "shop": "HAWW/I ETHIOPIAN RESTAU",
+    "datetime": "13/07/2018 20:53:47",
+    "items": [
+        {
+            "name": "Fish Goulash",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Dullet",
+            "quantity": 7,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Vegetarian Dish",
+            "quantity": 1,
+            "category": "produce"
+        }
+    ],
+    "total": null
+}

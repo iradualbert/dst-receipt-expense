@@ -1,0 +1,25 @@
+{
+    "location": "Unknown",
+    "shop": "WALMART",
+    "datetime": "Unknown",
+    "items": [
+        {
+            "name": "bananas",
+            "quantity": 0.41,
+            "unitprice": 0.49,
+            "amount": 0.2,
+            "category": "produce"
+        },
+        {
+            "name": "frap",
+            "quantity": 1,
+            "unitprice": 5.48,
+            "amount": 5.48,
+            "category": "beverages"
+        }
+    ],
+    "discount": 0.57,
+    "total": 5,
+    "cash_tend": 11,
+    "change_due": 6
+}

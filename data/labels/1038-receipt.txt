@@ -1,0 +1,7 @@
+{
+    "location": "12502 North Kendall Drive, Miami, FL 33186",
+    "shop": "Yogurtland",
+    "datetime": "09/07/18 21:28",
+    "items": [],
+    "total": 17.5
+}

@@ -1,0 +1,29 @@
+{
+    "location": "GOKKAVA CD.CEKMEKOY TST MIGROS SATIS MGZ, NISANTEPE MH. MAVERA SK. NO: 19A-20A-21A, CEKMEKOY/ISTANBUL",
+    "shop": "MIGROS",
+    "datetime": "19/10/2024 15:50",
+    "items": [
+        {
+            "name": "MIGROS PLASTIK POSET",
+            "quantity": 1,
+            "unitprice": 0.25,
+            "amount": 0.25,
+            "category": "misc"
+        },
+        {
+            "name": "AMSTERDAM BIRA 50CL",
+            "quantity": 3,
+            "unitprice": 115,
+            "amount": 345,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "ULUDAG DOGAL M.SUYU",
+            "quantity": 2,
+            "unitprice": 44.9,
+            "amount": 89.8,
+            "category": "beverages"
+        }
+    ],
+    "total": 550.05
+}

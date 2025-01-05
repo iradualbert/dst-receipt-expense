@@ -1,0 +1,15 @@
+{
+    "shop": "Walmart",
+    "location": "2014 S IRBY ST",
+    "datetime": "02/03/21 19:19:31",
+    "items": [
+        {
+            "name": "Gift Card",
+            "quantity": 1,
+            "unitprice": 50.0,
+            "amount": 50.0,
+            "category": "misc"
+        }
+    ],
+    "total": 50.0
+}

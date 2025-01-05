@@ -1,0 +1,15 @@
+{
+    "location": "1344 Ocean Drive, Miami Beach Florida 33139",
+    "shop": "Finnegan's Way",
+    "datetime": "08/21/17 8:38 PM",
+    "items": [
+        {
+            "name": "SORE MOJITO\u2019S",
+            "quantity": 4,
+            "unitprice": 10.0,
+            "amount": 40.0,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": 43.6
+}

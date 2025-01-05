@@ -1,0 +1,39 @@
+{
+    "location": "8930 Mission Dr. #102, Rosemead, CA 91770",
+    "shop": "HP Pho Ga",
+    "phone": "(626) 288-9999",
+    "datetime": "04/01/2019 05:12PM",
+    "items": [
+        {
+            "name": "Pho Ga (Small)",
+            "quantity": 1,
+            "unitprice": 8.0,
+            "amount": 8.0,
+            "category": "misc"
+        },
+        {
+            "name": "Pho Ga (Large)",
+            "quantity": 1,
+            "unitprice": 9.0,
+            "amount": 9.0,
+            "category": "misc"
+        },
+        {
+            "name": "Goi Cuon",
+            "quantity": 1,
+            "unitprice": 5.25,
+            "amount": 5.25,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 22.25,
+    "tax": 2.11,
+    "total": 24.36,
+    "service_charge": 8.9,
+    "final_total": 33.26,
+    "suggested_tip": {
+        "15%": 3.65,
+        "18%": 4.38,
+        "20%": 4.87
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "location": "GOKKAVA.CO.CEKMEKAY 1ST Mi NESANTEDE HH, KMEKOY ISTANBUL",
+    "shop": "MIGROS",
+    "datetime": "01/11/24 20:18",
+    "items": [
+        {
+            "name": "MIGROS PLASTIK",
+            "quantity": 2,
+            "unitprice": 0.25,
+            "amount": 0.5,
+            "category": "misc"
+        },
+        {
+            "name": "AMSTERDAM BIRA",
+            "quantity": 1,
+            "unitprice": 115.0,
+            "amount": 115.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "PROPACK KAGIT BARDS",
+            "quantity": 1,
+            "unitprice": 139.95,
+            "amount": 139.95,
+            "category": "misc"
+        },
+        {
+            "name": "CARLSBERG SOCL KUT",
+            "quantity": 40,
+            "unitprice": 75.0,
+            "amount": 75.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "BECKS KUTU BIRA",
+            "quantity": 1,
+            "unitprice": 75.0,
+            "amount": 75.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "AMSTERDAM BIRA SOCL",
+            "quantity": 35,
+            "unitprice": 115.0,
+            "amount": 115.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "UNTAD BUYUK TOST EKM",
+            "quantity": 0.418,
+            "unitprice": 210.0,
+            "amount": 87.78,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "IMREN PILIC BUT",
+            "quantity": 0.418,
+            "unitprice": 210.0,
+            "amount": 487.78,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "AMSTERDAM BIRA SOCL",
+            "quantity": 9,
+            "unitprice": 115.0,
+            "amount": 115.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "MIGROS KRS.KURUVEMIS",
+            "quantity": 1,
+            "unitprice": 379.25,
+            "amount": 379.25,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "CAFE CROWN 2 SI 1AR",
+            "quantity": 3,
+            "unitprice": 8.5,
+            "amount": 25.5,
+            "category": "beverages"
+        },
+        {
+            "name": "ELMA GRANNY",
+            "quantity": 0.8,
+            "unitprice": 54.95,
+            "amount": 49.6,
+            "category": "produce"
+        },
+        {
+            "name": "BIBER CARLISTON",
+            "quantity": 0.18,
+            "unitprice": 89.95,
+            "amount": 16.19,
+            "category": "produce"
+        },
+        {
+            "name": "BIBER KIRMIZI",
+            "quantity": 0.18,
+            "unitprice": 89.95,
+            "amount": 16.19,
+            "category": "produce"
+        }
+    ],
+    "total": 871.82
+}

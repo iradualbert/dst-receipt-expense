@@ -1,0 +1,12 @@
+{
+    "location": "B-01, CENTRAL PLAZA, 94, JALAN SULTAN ISMAIL, 50250 KUALA LUMPUR",
+    "shop": "WITASU JAPANESE RESTAURANT SDN BHD",
+    "datetime": "29-06-2018 19:59:15",
+    "items": [],
+    "subtotal": 709.5,
+    "service_charge": 70.95,
+    "GST_payable": 0.0,
+    "total": 780.45,
+    "payment_method": "VISA",
+    "server": "AARON"
+}

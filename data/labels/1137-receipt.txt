@@ -1,0 +1,22 @@
+{
+    "location": "27000 Marine Ave #103, Redondo Beach, CA 90278",
+    "shop": "Navi Teriyaki",
+    "datetime": null,
+    "items": [
+        {
+            "name": "Salmon Plate",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Extra Shrimp",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": null
+}

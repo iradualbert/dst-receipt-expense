@@ -1,0 +1,24 @@
+{
+    "location": "LANDFALL RESTAURANT",
+    "datetime": "06/10/17 11:47 AM",
+    "table_number": 31,
+    "party_number": 3,
+    "server": "DWYER M",
+    "check_number": "6-of-6",
+    "items": [
+        {
+            "name": "CUP CHOWDER",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 6.0,
+    "tax": 0.4,
+    "gratuity": {
+        "percent": 18,
+        "amount": 1.08
+    },
+    "total": 7.48
+}

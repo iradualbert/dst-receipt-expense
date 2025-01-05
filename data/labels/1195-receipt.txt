@@ -1,0 +1,44 @@
+{
+    "location": "1805 Parker RD Suite 6110, 1805 Parker RD, GA",
+    "shop": "Amici Conyers",
+    "contact": "(678) 890-2005",
+    "datetime": "unknown",
+    "items": [
+        {
+            "name": "Boertte Calzone",
+            "quantity": 1,
+            "unitprice": 14.28,
+            "amount": 14.28,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Side Caesar",
+            "quantity": 1,
+            "unitprice": 4.99,
+            "amount": 4.99,
+            "category": "produce"
+        },
+        {
+            "name": "Coke",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "beverages"
+        },
+        {
+            "name": "Double Stack Cheeseburger",
+            "quantity": 1,
+            "unitprice": 8.99,
+            "amount": 8.99,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Bacon",
+            "quantity": 1,
+            "unitprice": 0.99,
+            "amount": 0.99,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 33.75
+}

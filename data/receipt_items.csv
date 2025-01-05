@@ -1,117 +1,767 @@
 item_name,quantity,unitprice,cost,category
-BANANAS,0.41,0.49,0.2,produce
-FRAP,1,5.48,5.48,beverages
-R-CARROTS SHREDDED 10 OZ,1,1.29,1.29,produce
-R-CUCUMBERS PERSIAN 1 LB,1,1.99,1.99,produce
-TOMATOES CRUSHED NO SALT,1,1.59,1.59,produce
-TOMATOES WHOLE NO SALT W/BASIL,1,1.59,1.59,produce
-ORGANIC OLD FASHIONED OATMEAL,1,2.29,2.29,grains_and_bakery
-MINI-PEARL TOMATOES,1,2.49,2.49,produce
-PKG SHREDDED MOZZARELLA LITE T,1,3.79,3.79,dairy
-SPROUTED BROWN BREAD,1,2.99,2.99,grains_and_bakery
-R-AVOCADOS HASS BAG 4CT,1,3.99,3.99,produce
-A-APPLE BAG JAZZ 2 LB,1,2.69,2.69,produce
-A-PEPPER BELL EACH XL RED,1,0.99,0.99,produce
-BANANAS ORGANIC,1,0.87,0.87,produce
-CREAMY SALTED PEANUT BUTTER,1,2.49,2.49,condiments_and_spices
-WHL WHT PITA BREAD,1,1.38,1.38,grains_and_bakery
-PL TORTILLA’S,1,6.99,6.99,grains_and_bakery
-CAGE FREE ALL WHIT,1,3.69,3.69,dairy
-BLACK BEANS,1,1.29,1.29,produce
-Frozen Mangoes 16o,1,2.99,2.99,produce
-Whole Strawberries,1,3.99,3.99,produce
-OG LF COTTAGE CHEE,1,3.49,3.49,dairy
-MAHI MAHI FILLETS,1,8.99,8.99,chicken_and_meat
-California Harvest,1,2.69,2.69,produce
-PLUMS BLACK CV,1,2.15,2.15,produce
-NHP SLICED OVEN RO,1,3.99,3.99,chicken_and_meat
-NHP SLICED HICKORY,1,3.99,3.99,chicken_and_meat
-GALA APPLES OG,1,3.26,3.26,produce
-DIABETES,1,12.58,12.58,misc
-6 WING PLATE,1.0,3.98,3.98,chicken_and_meat
-ASST 27,1.0,4.88,4.88,misc
-CUTIE CAR,1.0,12.88,12.88,misc
-GV WATER,1,0.8,0.8,beverages
-GREAT VALUE,1,2.88,2.88,misc
-GRAIN LIFE,1,3.88,3.88,misc
-GV VEG OIL,1,1.98,1.98,condiments_and_spices
-SNICKER FS,1,0.88,0.88,snacks_and_sweets
-COBBFR FS 6PK,1,2.97,2.97,snacks_and_sweets
-MIXED CHOC,1,5.0,5.0,snacks_and_sweets
-CHERRIES,1,2.97,2.97,produce
-GAIN,1,10.97,10.97,health_and_personal_care
-HY RSTILEG PM,1,19.97,19.97,health_and_personal_care
-BATTERIES,1,8.97,8.97,misc
-GV 202 MINI,1,1.98,1.98,misc
-CRNBRY SAUCE,1,0.94,0.94,condiments_and_spices
-CHERRIES,1,2.97,2.97,produce
-EGGS 6CT,1,1.94,1.94,dairy
-GRILL COVER,1,14.97,14.97,misc
-FIBER CHOICE,1,12.94,12.94,misc
-CELERY HEART,1,2.28,2.28,produce
-RED GRAPE,2.51,2.46,3.61,produce
-GV OATMEAL,1,1.76,1.76,grains_and_bakery
-OT 20OZ TUM,1,3.84,3.84,snacks_and_sweets
-M ATHLETICS,1,24.97,24.97,misc
-DEXAS 15X20,1,12.97,12.97,misc
-TATER TOTS,1,2.96,2.96,snacks_and_sweets
-SNACK BARS,1,5.98,5.98,snacks_and_sweets
-HRI CL CHS,1,5.98,5.98,dairy
-HRI CL CHS,1,5.88,5.88,dairy
-HRB GOU CHDDR,1,5.88,5.88,dairy
-SC BK THINBAR,1,5.88,5.88,snacks_and_sweets
-IBS CH DR P BUN,1,2.98,2.98,snacks_and_sweets
-APPLE 3 BAG,1,2.96,2.96,produce
-PEANUT BUTTR,1,5.48,5.48,condiments_and_spices
-ROLLS,1,1.28,1.28,grains_and_bakery
-BTS DRY BLON,1,1.0,1.0,misc
-GALE,1,32.0,32.0,misc
-TR HS FRM 4,1,2.94,2.94,snacks_and_sweets
-BAGELS,1,2.5,2.5,grains_and_bakery
-GV SLIDERS,1,2.98,2.98,snacks_and_sweets
-ACCESSORY,1,1.0,1.0,misc
-CHEEZE IT,1,4.0,4.0,snacks_and_sweets
-RITZ W5 4.54,1,2.78,2.78,snacks_and_sweets
-RUFFLES,1,2.78,2.78,snacks_and_sweets
-GV HNY GRMS,1,2.5,2.5,snacks_and_sweets
-ST# 01966 OP# 002033 TE# 20 TR# 05145,1,6.94,6.94,misc
-KTTL SEA SALT POT CHP,1,1.29,1.29,snacks_and_sweets
-BRAIDED BRIOCHE,1,6.99,6.99,grains_and_bakery
+bananas,0.41,0.49,0.2,produce
+frap,1,5.48,5.48,beverages
+R-CARROTS SHREDDED 10 OZ,1,0,0,produce
+R-CUCUMBERS PERSIAN 1 LB,1,0,0,produce
+TOMATOES CRUSHED NO SALT,1,0,0,produce
+TOMATOES WHOLE NO SALT W/BASIL,1,0,0,produce
+ORGANIC OLD FASHIONED OATMEAL,1,0,0,grains_and_bakery
+MINI-PEARL TOMATOES,1,0,0,produce
+PKG SHREDDED MOZZARELLA LITE T,1,0,0,dairy
+EGGS 1002 ORGANIC BROWN,1,0,0,dairy
+BEANS GARBANZO,1,0,0,produce
+SPROUTED CA STYLE,1,0,0,grains_and_bakery
+A-AVOCADOS HASS BAG ACT,1,0,0,produce
+A-APPLE BAG JAZZ 2 LB,1,0,0,produce
+A-PEPPER BELL EACH XL RED,1,0,0,produce
+BANANAS ORGANIC,2,0.49,0.98,produce
+CREAMY SALTED PEANUT BUTTER,1,0,0,condiments_and_spices
+WHL WHT PITA BREAD,1,0,0,grains_and_bakery
+Coffee,1,3.0,3.0,beverages
+Lunch,2,22.95,45.9,misc
+Coke,1,3.0,3.0,beverages
+8 Crsh Fe,1,5.98,5.98,beverages
+Organic Bananas,1,0.19,0.95,produce
+Almond Milk,1,2.79,2.79,dairy
+Frozen Pizza,1,4.99,4.99,grains_and_bakery
+Dark Chocolate,1,1.99,1.99,snacks_and_sweets
+Shampoo,1,3.49,3.49,health_and_personal_care
+#1 CHKN PLATE,1,8.39,8.39,chicken_and_meat
+AVOCADO,1,1.95,1.95,produce
+MD. DRINK,1,2.29,2.29,beverages
+Rye 10yr,2,20.0,40.0,alcholic_beverages
+Sirloin,1,34.0,34.0,chicken_and_meat
+Sp Tuna,1,5.5,5.5,misc
+Hamachi Collar,1,12.0,12.0,chicken_and_meat
+Mega Poke Bowl,1,17.0,17.0,misc
+Hamachi Sashimi,1,12.0,12.0,chicken_and_meat
+Maguro Sashimi,1,11.0,11.0,chicken_and_meat
+Salmon Sashimi,1,10.0,10.0,chicken_and_meat
+Sockeye Salmon Sashimi,3,12.0,36.0,chicken_and_meat
+Hamachi Japapeno,1,12.0,12.0,chicken_and_meat
+Salmon Collar,1,10.0,10.0,chicken_and_meat
+Escolar Sashimi,1,11.0,11.0,chicken_and_meat
+CHicharon,1,2.25,2.25,misc
+Pupusa Queso,3,2.25,6.75,misc
+Platanos Orden,1,7.75,7.75,misc
+Diet coke,1,1.5,1.5,beverages
+Quesadilla salvadorena,2,2.0,4.0,misc
+Steak Tip Skewers,1,UNKNOWN,UNKNOWN,chicken_and_meat
+Piatto Gorgonzola,1,UNKNOWN,3.0,dairy
+Root Beer,1,UNKNOWN,UNKNOWN,beverages
+Cadillac Margarita,2,14.0,28.0,alcholic_beverages
+Maryland Crab Cakes,1,14.0,14.0,chicken_and_meat
+Chicken Caprese,1,12.0,12.0,chicken_and_meat
+Chix Parm Sandwich,1,10.0,10.0,chicken_and_meat
+Bud Light,2,3.7,7.4,alcholic_beverages
+Pulled Pork Sand,1,8.5,8.5,chicken_and_meat
+Creamed Corn [Small],1,3.35,3.35,produce
+Mac & Cheese [sm],1,4.2,4.2,dairy
+Cake [Slice],1,3.95,3.95,snacks_and_sweets
+Pho Ga (Small),1,8.0,8.0,misc
+Pho Ga (Large),1,9.0,9.0,misc
+Goi Cuon,1,5.25,5.25,misc
+Shrimp Entree,1,,21.09,chicken_and_meat
+Mac n Cheese,1,,,dairy
+French Fries,1,,2.5,snacks_and_sweets
+Sprite,1,,,beverages
+Lobster Roll,1,,,chicken_and_meat
+Chz Chips,1,,,snacks_and_sweets
+Little Juicy Pork Buns,1,5.25,5.25,misc
+Beef w Bak Choy (L),1,9.95,9.95,misc
+Hunan Beef (1),1,8.75,8.75,misc
+red,1,2.0,2.0,misc
+Chang,1,3.5,3.5,alcholic_beverages
+Garlic Delight with Chicken and Small Brown Rice,1,10.0,10.0,chicken_and_meat
+Red Curry with Chicken and Small Brown Rice,1,0.0,0.0,chicken_and_meat
+Weekend Dinner,1,,31.12,misc
+Coke,1,,,beverages
+Dbl Qtr Cheese,1,6.64,6.64,misc
+Green Salad,1,8.0,8.0,produce
+Wagyu Cheeseburger,1,19.0,19.0,chicken_and_meat
+Garlic Fries,1,2.0,2.0,snacks_and_sweets
+Drink of the Day,1,9.75,9.75,beverages
+Tea,1,4.0,4.0,beverages
+american cheese burger,1,9.0,9.0,chicken_and_meat
+zucchini,1,2.49,2.49,produce
+coffee,1,0,0,beverages
+house wine,1,0,0,alcholic_beverages
+cocktail spray,1,0,0,alcholic_beverages
+escargot bourguignon,1,0,0,misc
+veal zingara,1,0,0,chicken_and_meat
+duckling al arancio,1,0,0,chicken_and_meat
+BIL BEER,1,0.0,0.0,alcoholic_beverages
+BRUSSELS SPROUTS,1,0.0,0.0,produce
+CANTONESE TENDERS,1,0.0,0.0,chicken_and_meat
+GRILLED CHEESE,1,0.0,0.0,dairy
+ADD GARLIC FRIES,1,0.5,0.5,snacks_and_sweets
+TMAC&CHZ - SMALL,1,1.19,1.19,misc
+COLL GRN - SMALL,1,1.19,1.19,produce
+CORN BREAD,1,0.62,0.62,grains_and_bakery
+TS WINGS,1,5.75,5.75,chicken_and_meat
+SPCY FRY,1,0,0,misc
+Taco Salad,1,15.49,15.49,chicken_and_meat
+Ground Beef,1,0,0,chicken_and_meat
+Add Chicken Fajita,1,8.99,8.99,chicken_and_meat
+Pechuga de Pollo,1,18.99,18.99,chicken_and_meat
+Coffee,1,1.45,1.45,beverages
+Tea,1,1.45,1.45,beverages
+Waffle,1,5.5,5.5,grains_and_bakery
+Old Fashion French Toast,1,4.5,4.5,grains_and_bakery
+Side Home Fries,1,2.95,2.95,misc
+Banana,1,2.95,2.95,produce
+Whipped Cream,1,2.5,2.5,misc
+W/ 2 EGGS,1,2.95,2.95,misc
+Lump Crab & Spinach Dip,1,15.99,15.99,chicken_and_meat
+Cajun Combo,1,18.95,18.95,chicken_and_meat
+Lunch Shrimp & Andouille,1,13.91,13.91,chicken_and_meat
+PARTY PK 18-22,1,139.0,139.0,misc
+CHOW MEIN,1,0.0,0.0,grains_and_bakery
+FRIED RICE,1,0.0,0.0,grains_and_bakery
+FRIED/C MEIN,1,0.0,0.0,grains_and_bakery
+ORANGE CKN,1,0.0,0.0,chicken_and_meat
+GRILL TERIYAKI CKN,1,0.0,0.0,chicken_and_meat
+PEPPERCORN SHRIMP,1,12.0,12.0,chicken_and_meat
+Unknown,1,0.0,0.0,misc
+Chicken Fried Rice And Egg Lunch,1,7.99,7.99,chicken_and_meat
+California Tropic And Miso Lunch,1,7.99,7.99,misc
+Add Two Tostones,1,1.0,1.0,misc
+Sprite,1,2.5,2.5,beverages
+Perrier Sparkling Water,1,3.5,3.5,beverages
+Guaca Chicharron,1,13.99,13.99,snacks_and_sweets
+EMPANADA,2,3.0,6.0,snacks_and_sweets
+PARGO FRITO,1,19.95,19.95,chicken_and_meat
+MAR Y CHICKEN,1,17.0,17.0,chicken_and_meat
+SALMON A LA PLANCHA,1,16.0,16.0,chicken_and_meat
+wings,6,12.5,12.5,chicken_and_meat
+MAC & CHEESE,1,4.0,4.0,dairy
+YAMS,1,4.0,4.0,produce
+SIDE (SM) - MAC & CHEESE,1,4.0,4.0,dairy
+SIDE (SM) - YAMS,1,4.0,4.0,produce
+SIDE (SM) - COLLARD GREENS,1,4.0,4.0,produce
+bananas 1.5 lb,1.5,0.5,0.75,produce
+milk gallon,1,3.5,3.5,dairy
+bread loaf,1,2.0,2.0,grains_and_bakery
+soap bar,2,1.25,2.5,health_and_personal_care
+Vanilla Bean,2,,,snacks_and_sweets
+Classic Burger,1,,,chicken_and_meat
+Route 66 Burger,1,,,chicken_and_meat
+Margarita,1,6.0,6.0,alcholic_beverages
+Add Tequila,1,4.0,4.0,alcholic_beverages
+Strawberry Daiquiri,1,6.0,6.0,alcholic_beverages
+Add Vodea,1,4.0,4.0,alcholic_beverages
+Snow Combo,1,54.0,54.0,misc
+Kickin Sauce,1,0.0,0.0,misc
+Mild,1,0.0,0.0,misc
+SODA,1,10.43,10.43,beverages
+CHEESE STEAK,1,16.49,16.49,chicken_and_meat
+AMERICAN CHS,1,1.0,1.0,dairy
+FRD ONION,1,0.0,0.0,produce
+Chix Cheesesteak,1,0.0,0.0,chicken_and_meat
+HB,1,4.0,4.0,chicken_and_meat
+French Fries,2,2.5,5.0,snacks_and_sweets
+Turkey Burger,1,8.85,8.85,chicken_and_meat
+Combo,1,8.35,8.35,misc
+Grilled Onion,1,0.75,0.75,produce
+CB,2,7.85,15.7,chicken_and_meat
+Combo,1,5.0,5.0,misc
+Grilled Onion,1,0.75,0.75,produce
+Chill Fries,1,4.35,4.35,snacks_and_sweets
+2PC R&B MEAL,1,5.99,5.99,chicken_and_meat
+Croissant aux Raisins,1,4.0,4.0,grains_and_bakery
+Cappucino,1,4.75,4.75,beverages
+CUP CHOWDER,1,6.0,6.0,misc
+Gl Karma Cab Sauy,1,12.0,12.0,alcholic_beverages
+Douglass Green SB,1,11.0,11.0,alcholic_beverages
+Green Curry Scallops,1,27.95,27.95,chicken_and_meat
+Piri Piri Chicken,1,21.75,21.75,chicken_and_meat
+TRIPLE DIPPER,1,,,misc
+CHICKEN WAFFLES,4,,,chicken_and_meat
+KH Peom,1,3.3,3.3,misc
+FF Animal,1,1.5,1.5,snacks_and_sweets
+Coke,1,1.7,1.7,beverages
+Pescado,1,,,chicken_and_meat
+Arrachera solo,1,,,chicken_and_meat
+Coperato,4,3,12,misc
+Acqua Nat,2,4,8,beverages
+Salmerino Piastra,1,18,18,chicken_and_meat
+Trenette al Pesto,1,13,13,grains_and_bakery
+Spaghetti Pom. Basilico,1,10,10,grains_and_bakery
+Fettuccine Ragu,1,15,15,grains_and_bakery
+Patatine Fritte,4,1.725,6.9,snacks_and_sweets
+Pork Pancakes,1,0,0,misc
+Side Bacon,1,0,0,chicken_and_meat
+Regular,2,3.0,6.0,beverages
+Apple French Toast,1,7.99,7.99,grains_and_bakery
+Coffee,1,0,0,beverages
+Ribeye Steak Lunch,1,10.0,10.0,chicken_and_meat
+Quesadilla,1,,,snacks_and_sweets
+Pot Roast,1,,,chicken_and_meat
+Fish An Chips,1,,,chicken_and_meat
+Side Salad,1,,,produce
+Dft Shock tor,1,,,alcholic_beverages
+Dft Gui,2,,,alcholic_beverages
+"1/2 AND 1/2 COMBO - FRIED SHRIMP, SHORT RIB",1,8.45,8.45,chicken_and_meat
+"1/2 AND 1/2 COMBO - BBQ BEEF, FRIED SHRIMP",1,1.95,1.95,chicken_and_meat
+FOUNTAIN MEDIUM,2,1.75,3.5,beverages
+Pron,1,196.0,196.0,misc
+eye 2Follow,1,11.99,11.99,misc
+Chicken Lollipop,1,9.0,9.0,chicken_and_meat
+Thai Fried Rice,1,12.0,12.0,grains_and_bakery
+Chicken Tikka Masala,1,16.0,16.0,chicken_and_meat
+Naan,1,3.0,3.0,grains_and_bakery
+Vegetable Biryani,1,12.0,12.0,grains_and_bakery
+Mango Lassi,1,4.0,4.0,beverages
+Oysters,6,3.17,19.0,chicken_and_meat
+Fish and Chips,1,22.0,22.0,chicken_and_meat
+MONSTAH roll,3,38.0,114.0,chicken_and_meat
+Chicken Wings,1,12.0,12.0,chicken_and_meat
+Patron,3,9.5,28.5,alcholic_beverages
+Sparkling Wine,2,11.0,22.0,alcholic_beverages
+Open Liquor,1,6.0,6.0,alcholic_beverages
+Weekend Dinner Buffet,2,19.39,38.78,misc
+Weekend Dinner Kids (3-5Y),1,7.99,7.99,misc
+Weekend Dinner Kids (6-10Y),1,10.0,10.0,misc
+Soda Drink,4,1.99,7.96,beverages
+Weekend Senior Dinner,1,18.09,18.09,misc
+Chicken Tort,1,6.5,6.5,chicken_and_meat
+Horchata,1,0.0,0.0,beverages
+Custom Item,1,50.5,50.5,misc
+Chole Samosa,1,5.99,5.99,snacks_and_sweets
+Stuffed Artichoke,1,18.0,18.0,misc
+Bk Fett Al Porcini,1,36.0,36.0,misc
+Costolette Alla Pap,1,42.0,42.0,misc
+Broccoli Rabe W/ Ga,1,10.5,10.5,produce
+Espresso,1,3.7,3.7,beverages
+Dbl Espresso,1,7.3,7.3,beverages
+Mixed Meat Lunch,20,180.0,180.0,chicken_and_meat
+Reg 12pc Falafel,1,6.5,6.5,misc
+Reg 12pc Falafel,1,6.5,6.5,misc
+Miscellaneous,1,20.0,20.0,misc
+Shrimp Scampi,1,27.0,27.0,chicken_and_meat
+Chicken Milanese,2,23.0,46.0,chicken_and_meat
+Veal Milanese,1,27.0,27.0,chicken_and_meat
+Grey Goose,3,10.0,30.0,alcholic_beverages
+Pineapple Juice,1,3.0,3.0,beverages
+Belvedere,1,12.0,12.0,alcholic_beverages
+Becks Non Alcoholic,1,6.0,6.0,beverages
+Corona,1,6.0,6.0,alcholic_beverages
+Comp Item,1,-12.0,-12.0,misc
+Makers Mark,2,11.5,23.0,alcholic_beverages
+Side Caesar,1,6.0,6.0,misc
+Chicken & Rib Combo,1,29.0,29.0,chicken_and_meat
+Woodford Reserve,2,12.0,24.0,alcholic_beverages
+Frisee Salad,1,10.0,10.0,misc
+Poached Shrimp Cocktail,1,17.5,17.5,misc
+NY Strip 8oz,1,28.0,28.0,chicken_and_meat
+Little Hamburger,1,6.19,6.19,snacks_and_sweets
+Lettuce,1,0.0,0.0,produce
+Pickles,1,0.0,0.0,produce
+Tomatoes,1,0.0,0.0,produce
+Grilled Onions,1,0.0,0.0,produce
+Grilled Mushrooms,1,0.0,0.0,produce
+Mustard,1,0.0,0.0,condiments_and_spices
+Ketchup,1,0.0,0.0,condiments_and_spices
+Jalapeno Peppers,1,0.0,0.0,produce
+Large Fry,1,5.79,5.79,snacks_and_sweets
+Large Soda,1,2.98,2.98,beverages
+Cheeseburger,1,7.6,7.6,snacks_and_sweets
+Regular Soda,1,0,0,beverages
+Philadelphia Tail,1,4.25,4.25,misc
+Shrimp Tempura Roll,1,4.85,4.85,misc
+Rich / Famous Roll,1,4.25,4.25,misc
+Spicy Salmon Roll,1,8.95,8.95,misc
+Veg / Tofu Pad Thai Spicy,1,27.15,27.15,misc
+Poke Box Regular,1,13.5,13.5,misc
+Avocado,1,1.0,1.0,produce
+Pit Lunch 2 Choices,1,9.79,9.79,misc
+Bohemia,1,16.0,16.0,alcholic_beverages
+Albondigas,1,9.95,9.95,chicken_and_meat
+Mole,1,16.95,16.95,chicken_and_meat
+Burrito Cmb,1,8.28,8.28,misc
+Chk Ranchero Bur,1,0,0,misc
+Avo Slcs,1,0,0,produce
+Ind Chips,1,0,0,snacks_and_sweets
+SM_DRINK Coke,1,0,0,beverages
+Bur-BRC,2,1.89,3.78,misc
+Fussilli SP,1,22.0,22.0,misc
+Ossobuco,1,28.0,28.0,chicken_and_meat
+Diet Coke,1,2.5,2.5,beverages
+14 Hands Cab,1,10.0,10.0,alcholic_beverages
+Unknown Item 1,1,3.25,3.25,misc
+Unknown Item 2,1,14.95,14.95,misc
+Unknown Item 3,1,5.95,5.95,misc
+Unknown Item 4,1,9.95,9.95,misc
+Unknown Item 5,1,15.95,15.95,misc
+Delivery,1,,,misc
+10 McNuggets EVM,1,,,snacks_and_sweets
+Barbeque Sauce,2,,,condiments_and_spices
+L Coke,1,,,beverages
+M French Fries,1,,,snacks_and_sweets
+HM GrChs S-Fry,1,,,snacks_and_sweets
+Snoopy,1,,,misc
+HM Apple Juice,1,,,beverages
+6 Cookies,1,,,snacks_and_sweets
+Choc Chip Cookie,6,,,snacks_and_sweets
+Baked Apple Pie,1,,,snacks_and_sweets
+L French Fries,1,,,snacks_and_sweets
+L Iced Tea,1,,,beverages
+Tonkotsu,1,9.5,9.5,misc
+Tofu,1,0.0,0.0,produce
+Egg,1,1.3,1.3,dairy
+Corn,1,0.5,0.5,produce
+Bamboo shoots,1,1.0,1.0,produce
+Naruto,1,0.75,0.75,misc
+Spicy,1,0.0,0.0,condiments_and_spices
+Vegetable Biryani,1,12.95,12.95,chicken_and_meat
+Malai Kofta,1,12.95,12.95,misc
+Onion Naan,1,3.95,3.95,grains_and_bakery
+Crisfield Special Platter,1,27.0,27.0,chicken_and_meat
+Pint Bisque,1,11.5,11.5,chicken_and_meat
+American Coffee,2,1.75,3.5,beverages: non-alcholic
+Nutella Coconut Pancakes,1,3.0,3.0,grains_and_bakery
+Cheddar Grits,1,36.0,36.0,grains_and_bakery
+Mojito Pitcher Original,1,18.0,18.0,alcholic_beverages
+Brussel Sprouts,1,6.5,6.5,produce
+Pepperfin,1,14.5,14.5,chicken_and_meat
+Spicy Drm 1 Red,1,14.5,14.5,chicken_and_meat
+Aerojet,1,14.95,14.95,alcholic_beverages
+Cou Toro,2,9.5,19.0,chicken_and_meat
+Daikon Hamachi,1,14.5,14.5,chicken_and_meat
+Garlic Salmon,1,14.0,14.0,chicken_and_meat
+Tea,1,,,beverages
+Fopcom Chicken,1,6.75,6.75,chicken_and_meat
+Eraisec Beef flee/Noodle,1,9.24,9.24,chicken_and_meat
+Cold Noodle With Chicken,1,7.95,7.95,chicken_and_meat
+Beef Noodles,1,6.25,6.25,chicken_and_meat
+Koobideh,7,16.5,115.5,chicken_and_meat
+Nan-O-Sabzi,1,8.95,8.95,grains_and_bakery
+FBD BLUE MARGARITA,2,55.0,110.0,alcholic_beverages
+CHEESE BURGER,1,4.4,4.4,chicken_and_meat
+CHICKEN MARSALA,4,8.1,32.4,chicken_and_meat
+Adult Dinner,2,11.99,23.98,misc
+Soda,2,1.69,3.38,beverages
+P-VILLAGIO BREEZE,1,0.01,0.01,beverages
+ADD SALAD,1,3.0,3.0,produce
+LUNCH SEAFOOD PASTA,1,14.0,14.0,chicken_and_meat
+KID PEPERONI PIZZA,1,7.0,7.0,grains_and_bakery
+ALFREDO,1,7.0,7.0,grains_and_bakery
+Plate with Chow Mein and Broccoli Beef,1,,,misc
+Beijing Beef,1,,,misc
+Chicken Egg Roll,1,,,snacks_and_sweets
+Pepsi 20 oz,1,,,beverages
+unknown item 1,1,20.95,20.95,misc
+unknown item 2,1,28.95,28.95,misc
+unknown item 3,1,16.0,16.0,misc
+SOPA DE TORTILA BOML,1,5.5,5.5,misc
+TACO SALAD,1,,,misc
+HOUSE MARGARITA JUMBO,1,,,alcholic_beverages
+Dr Pepper,1,,,beverages
+SIDE CHEESE,1,1.5,1.5,dairy
+HOUSE MARGARITA JUMBO,1,,,alcholic_beverages
+Fajita Vegetable TAS,1,0.0,0.0,produce
+Taco Shrimp Fresh Catch,1,12.0,12.0,chicken_and_meat
+Water,1,0.0,0.0,beverages: non-alcholic
+Malbec Leyte,1,,,alcholic_beverages
+Blood Orange Marg,1,,,alcholic_beverages
+Wedding Soup,1,2.95,2.95,misc
+Spaghetti Marinara,1,17.95,17.95,grains_and_bakery
+Add One Meatball,1,,,chicken_and_meat
+Add Two Meatballs,1,,,chicken_and_meat
+Fettuccine Alfredo,1,23.95,23.95,grains_and_bakery
+Add Steak,1,,,chicken_and_meat
+Small Wedge Salad (Dinner),1,4.95,4.95,produce
+Creme Brulee,1,4.0,4.0,snacks_and_sweets
+Baileys,1,7.0,7.0,alcholic_beverages
+Chicken Korma,1,11.95,11.95,chicken_and_meat
+Naan (Plain Naan),1,1.95,1.95,grains_and_bakery
+Kheer,1,3.95,3.95,snacks_and_sweets
+sau blanc,2,18.0,36.0,alcholic_beverages
+veggie sandwich,1,11.0,11.0,misc
+quiche loraine,4,12.0,48.0,misc
+Five-U,1,12.49,12.49,grains_and_bakery
+Five-Ll Bone OUT Garlic Parm,1,7.69,7.69,snacks_and_sweets
+Pitcher Dos Equis,1,13.5,13.5,alcholic_beverages
+Classic Michelada,1,12.0,12.0,alcholic_beverages
+Classic Michelada,1,12.0,12.0,alcholic_beverages
+Don Julio Anejo,1,15.0,15.0,alcholic_beverages
+Classic Michelada,1,12.0,12.0,alcholic_beverages
+Balam Madurado,1,12.0,12.0,alcholic_beverages
+CRAB CAKE,1,,,chicken_and_meat
+SKIRT STK LUNCH,1,,,chicken_and_meat
+B CHZ B SPC,1,,,misc
+F FRIES - LRG,1,,,snacks_and_sweets
+horchata,1,,,beverages
+HZ BURGER SPEC,1,,,misc
+Tagliatella al Ragu’,1,14.9,14.9,misc
+Cappellacci Di Zucca,1,18.9,18.9,misc
+Stufato Al Latte Di Ravenna,1,22.9,22.9,misc
+FRI-SUN DINNER,5,29.88,149.4,misc
+50% OFF BIRTHDAY,1,-0.5,-14.94,misc
+Iced Tea,1,4.5,4.5,beverages: non-alcholic
+Rombo Carciofi Fungh,1,48.0,48.0,misc
+Sparkling Water Large,1,8.5,8.5,beverages: non-alcholic
+Branzino Grigliato,1,40.0,40.0,misc
+Carpaccio Red Snap,1,33.0,33.0,misc
+Flame Broiled Chicken,1,11.99,11.99,chicken_and_meat
+Salmon Plate,1,,,chicken_and_meat
+Extra Shrimp,1,,,chicken_and_meat
+Wonton or Egg Drop Soup,1,3.75,3.75,misc
+Mixed Dinner,1,3.0,3.0,misc
+Egg Roll,1,8.99,8.99,misc
+Juice Tropical,2,2.5,5.0,beverages
+Tamal De Pollo,1,3.5,3.5,chicken_and_meat
+Tandoori Chicken,1,179.0,179.0,chicken_and_meat
+Mutton Rogan Josh,1,209.0,209.0,chicken_and_meat
+Fish Biriyani,1,229.0,229.0,chicken_and_meat
+ShackBurger,1,6.49,6.49,snacks_and_sweets
+Cheese Fries,1,4.0,4.0,snacks_and_sweets
+REG Soda,2,2.75,5.5,beverages
+REG Rootbeer,1,2.5,2.5,beverages
+REG Iced Tea,1,2.5,2.5,beverages
+Tender Branch Hibiscus,1,8.0,8.0,beverages
+Seafood Puff,1,10.8,10.8,misc
+Sesame Prawn Toast,1,11.8,11.8,snacks_and_sweets
+Beancurd Prawn Cheung Fun,1,10.8,10.8,misc
+X0 Scallop Dumpling,1,8.8,8.8,misc
+Poached Beijing Dumpling,1,5.8,5.8,misc
+Spinach Dumpling,1,6.8,6.8,produce
+Tea Smoked Pork Ribs,1,22.0,22.0,chicken_and_meat
+Crimint,1,,,misc
+Salami,1,,,produce
+Olives,1,,,produce
+Large Clams/Mussels,1,,,chicken_and_meat
+Regular Kete/One,4,,,misc
+House Cab,1,,,alcholic_beverages
+Arthur’s Burger *ChsBleu,1,13.95,13.95,misc
+Burger #*avocado,1,15.95,15.95,misc
+WATER,3,0.0,0.0,beverages
+GRAB SUIZA,1,18.25,18.25,misc
+SHRIMP VERACRUZ,1,14.95,14.95,chicken_and_meat
+ENCHILADA,1,4.95,4.95,misc
+FAJITA BF,1,13.95,13.95,misc
+TAKE OUT,1,0.25,0.25,misc
+MIGUEL'S MARGARIT,4,3.38,13.52,alcholic_beverages
+Curry Chicken,1,10.0,10.0,chicken_and_meat
+Beef Pattie,1,2.25,2.25,chicken_and_meat
+Combo,1,6.19,6.19,misc
+Milk Shake,1,3.99,3.99,beverages
+Twisted Rueben,1,11.69,11.69,misc
+Bottled Water,1,20.0,20.0,beverages
+Service Charge,1,5.3,5.3,misc
+Pinas Cup,1,14.0,14.0,beverages
+The Orifter,2,14.0,28.0,alcholic_beverages
+Kobe Beef Slider,1,18.0,18.0,chicken_and_meat
+New York,1,63.0,63.0,chicken_and_meat
+Aner Kobe Filet,1,79.0,79.0,chicken_and_meat
+Lobster Tail,1,38.0,38.0,misc
+Potato Puree,1,12.0,12.0,produce
+Grlld Asparagus,1,13.0,13.0,produce
+Peppercorn,1,6.0,6.0,condiments_and_spices
+Pepsi,1,6.0,6.0,beverages
+Choc Pot De Crem,1,13.0,13.0,snacks_and_sweets
+Gor Fi Beary,1,0,0,misc
+eae FI Au Po,1,0,0,misc
+Onion Ring,1,0,0,snacks_and_sweets
+Harfeots Vert,1,0,0,misc
+hoe Trut Cake,1,0,0,misc
+Nea,1,3.8,3.8,misc
+Fish & Chips Adult,1,4.95,4.95,misc
+Pain - White,1,0.5,0.5,grains_and_bakery
+Wine rose,1,2.8,2.8,alcholic_beverages
+Wine red,1,3.8,3.8,alcholic_beverages
+Sprite,1,2.55,2.55,beverages
+Chicken Caesar Salad,1,8.95,8.95,produce
+Chefs Special,1,19.95,19.95,misc
+BUCATINI,1,0,0,grains_and_bakery
+RAVIOLO,1,18.9,18.9,grains_and_bakery
+BT TURNBULL NAPA,1,90,90,alcholic_beverages
+HALIBUT,1,36,36,chicken_and_meat
+YODEL,1,12,12,misc
+MILK & HONEY,1,10,10,snacks_and_sweets
+COFFEE SM,1,6,6,beverages
+GL ROUND POND SB,1,13,13,alcholic_beverages
+OCTOPUS,1,16,16,chicken_and_meat
+BEEF TARTARE,1,42,42,chicken_and_meat
+FINLANDIA (WELL) MARTINI,1,11,11,alcholic_beverages
+HALIBUT,4,38,152,chicken_and_meat
+SNAPPER,1,0,0,chicken_and_meat
+Buritto,1,64.0,64.0,snacks_and_sweets
+Side Craw Etouffee 4oz,1,10.98,10.98,chicken_and_meat
+Pan Seared Tilapia,1,2.29,2.29,chicken_and_meat
+Tea,2,2.99,5.98,beverages
+Unknown Item,1,3.0,3.0,misc
+Unknown Item,1,51.0,51.0,misc
+Unknown Item,1,2.75,2.75,misc
+Unknown Item,1,33.75,33.75,misc
+All Star Meal #1,1,0.0,0.0,misc
+Db] Chbgr,1,0.0,0.0,chicken_and_meat
+Hot Dog,1,0.0,0.0,chicken_and_meat
+Baked Cookie,1,0.0,0.0,snacks_and_sweets
+Lg Fries,1,3.0,3.0,snacks_and_sweets
+Lg Bev Bar,1,3.0,3.0,beverages
+Unknown Item #70056,1,3.44,3.44,misc
+Iced Tea,1,,,beverages
+Sicilian Bread,1,,,grains_and_bakery
+Chianti,2,14.0,28.0,alcholic_beverages
+Antipasto Salad,1,,,produce
+Premium Pizza,1,,,grains_and_bakery
+Varuss by,,1.5,1.5,misc
+Carnitas Taco,1,12.4,12.4,chicken_and_meat
+Sour Cream,1,2.0,2.0,condiments_and_spices
+Chihuahua Cheese,1,2.0,2.0,dairy
+Whiskey,1,6.25,6.25,alcholic_beverages
+Coors Light,1,5.0,5.0,alcholic_beverages
+Ice Tea,1,3.5,3.5,beverages
+Shrimp Fajita,1,18.95,18.95,chicken_and_meat
+Stuffed Chicken,1,17.95,17.95,chicken_and_meat
+FREEBIRO,1,5.5,5.5,snacks_and_sweets
+ICE CREAM,1,2.0,2.0,snacks_and_sweets
+LONESTAR,1,3.5,3.5,alcholic_beverages
+Lamb Burger,1,13.0,13.0,chicken_and_meat
+Kids Grilled Cheese,1,5.0,5.0,dairy
+Kids Fries,1,3.0,3.0,snacks_and_sweets
+Sweet Potato Fries,1,8.0,8.0,snacks_and_sweets
+Kids Cheeseburger,1,7.0,7.0,chicken_and_meat
+Beef Burger,1,10.0,10.0,chicken_and_meat
+Sides - Bacon (2) Slices,1,3.5,3.5,chicken_and_meat
+WIOLENS,1,39.24,39.24,misc
+unknown item,1,9.0,9.0,misc
+unknown item,1,91.0,91.0,misc
+unknown item,1,4.4,4.4,misc
+02001 440A MAN,1,2.98,2.98,misc
+unknown item,1,5.0,5.0,misc
+SORE MOJITO’S,4,10.0,40.0,alcholic_beverages
+Prin,1,8.99,8.99,misc
+BEEFEATER-MARTINI,1,11.5,11.5,alcholic_beverages
+ROSEMARY CAIPIRINHA,1,13.0,13.0,alcholic_beverages
+CRABCAKES,1,17.0,17.0,misc
+BLACK PEPPER BACON,1,12.0,12.0,misc
+Millenium 2#,1,52.0,52.0,misc
+NY SIRLOIN,1,46.0,46.0,chicken_and_meat
+BRUSSEL SPROUTS,1,13.0,13.0,produce
+ESPRESSO,1,4.5,4.5,beverages
+LAUREN’S HAZELNUT TORTE,1,5.0,5.0,snacks_and_sweets
+Coffee,2,2.95,5.9,beverages
+Two Eggs Any Style,1,6.95,6.95,misc
+Whole-Wheat Pancakes,1,8.95,8.95,grains_and_bakery
+Hawaiian Sausage,1,4.5,4.5,chicken_and_meat
+Real Smooth,1,7.99,7.99,beverages: non-alcholic
+Short Stack,1,8.59,8.59,grains_and_bakery
+Coffee,1,2.99,2.99,beverages: non-alcholic
+Breakfast Quesadilla,1,13.99,13.99,grains_and_bakery
+Grilled Spinach,1,1.99,1.99,produce
+Beef with Broccoli,1,8.25,8.25,chicken_and_meat
+Chicken Fried Rice,1,2.0,2.0,grains_and_bakery
+Sweet and Sour Chicken,1,7.95,7.95,chicken_and_meat
+Chicken Chow Mein,1,6.75,6.75,chicken_and_meat
+Onion Bhajia,1,5.95,5.95,misc
+Lamb Vindaloo,1,14.95,14.95,chicken_and_meat
+Konkan Fish Curry,1,16.95,16.95,chicken_and_meat
+Shrimp Briyani,1,16.95,16.95,chicken_and_meat
+Garlic Naan,1,4.0,4.0,grains_and_bakery
+Hess Cabernet,1,50.0,50.0,alcholic_beverages
+Draft Beer,2,4.97,9.94,alcholic_beverages
+Fountain Drink,1,,,beverages
+Pizza,1,,,misc
+whole pie,1,19.19,19.19,grains_and_bakery
+Gran as,1,,,snacks_and_sweets
+Tart i. ser Sn,1,,,snacks_and_sweets
+Sut,1,,,snacks_and_sweets
+Fes,1,,,snacks_and_sweets
+SELLETS Po,1,,,snacks_and_sweets
+Boertte Calzone,1,14.28,14.28,grains_and_bakery
+Side Caesar,1,4.99,4.99,produce
+Coke,1,0,0,beverages
+Double Stack Cheeseburger,1,8.99,8.99,chicken_and_meat
+Bacon,1,0.99,0.99,chicken_and_meat
+Chicken (Murgh) Sal,1,20.0,20.0,chicken_and_meat
+Palak (Cheese),1,18.0,18.0,dairy
+Veg Bengan Bharatay,1,17.0,17.0,produce
+basso’ Stoviglie,2,0.5,1.0,misc
+Hacedonia,2,5.0,10.0,misc
+Insalata Negombo,1,10.0,10.0,produce
+Bufala,1,8.0,8.0,dairy
+Ponodorini,1,4.0,4.0,produce
+Nat 1/2 It,1,1.0,1.0,beverages
+Tavion Silver RX,1,16.0,16.0,alcholic_beverages
+Margarita RX,1,16.0,16.0,alcholic_beverages
+TDA Delsonico 14,1,62.0,62.0,chicken_and_meat
+Truffle Fries,1,13.0,13.0,snacks_and_sweets
+Mac/Cheese,1,12.0,12.0,dairy
+Asparagus,1,13.0,13.0,produce
+Baked Cookie,1,10.0,10.0,snacks_and_sweets
+FOOTHBRUSH,1,6.63,6.63,health_and_personal_care
+WOMEN SLIPPER,1,7.14,7.14,misc
+Gift Card,1,50.0,50.0,misc
+equate liner,1,,,health_and_personal_care
+wfus eng pom,1,,,beverages
+dawn orig,1,,,misc
+boyd pkg tape,2,,,misc
+lint roller,2,,,health_and_personal_care
+6 WING PLATE,1,3.98,3.98,chicken_and_meat
+ASST 27,1,4.88,4.88,snacks_and_sweets
+CUTIE CAR,1,12.88,12.88,misc
+bananas,1,0,0,produce
+beverage,1,0,0,beverages
+avocado,4,0.4,1.6,produce
+pills white,1,0,0,health_and_personal_care
+sh nylon col,1,0,0,misc
+hand cleaner,1,0,0,health_and_personal_care
+injectr clnr,1,0,0,health_and_personal_care
+Unknown Item 1,1,9.98,9.98,misc
+Unknown Item 2,1,2.84,2.84,misc
+Unknown Item 3,1,6.97,6.97,misc
+Unknown Item 4,1,4.94,4.94,misc
+Unknown Item 5,1,7.82,7.82,misc
+Unknown Item 6,1,3.78,3.78,misc
+Unknown Item 7,1,4.76,4.76,misc
+Unknown Item 8,1,13.24,13.24,misc
+Unknown Item 9,1,1.78,1.78,misc
+Unknown Item 10,1,1.97,1.97,misc
+Unknown Item 11 (BATTERY?),1,9.97,9.97,misc
+Unknown Item 12,1,10.97,10.97,misc
+Unknown Item 13,1,2.97,2.97,misc
+Sauce,1,11.58,11.58,condiments_and_spices
+Spreads,1,3.46,3.46,condiments_and_spices
+Unknown Item 16,1,0.9,0.9,misc
+GRILL Cover,1,,,misc
+FIBER CHOICE,1,12.94,12.94,health_and_personal_care
+CELERY HEART,1,2.48,2.48,produce
+GV Oatmeal,1,1.76,1.76,grains_and_bakery
+TUM,1,6.74,6.74,health_and_personal_care
+M Athletics,1,24.97,24.97,misc
+Dexas 15x20,1,12.97,12.97,misc
+MIGROS PLASTIK POSET,20,0.25,5.0,misc
+AMSTERDAM BIRA 50CL,20,115.0,2300.0,alcholic_beverages
+ETI BURCAK SUTLU,1,32.0,296.05,snacks_and_sweets
+BANVIT IZGARA TAVA,1,296.05,296.05,chicken_and_meat
+PINAR SUT 1 L,1,45.0,10.79,dairy
+SOGAN KURU DOKME,1,10.79,10.79,produce
+BIBER KIRMIZI,1,33.11,33.11,produce
+DOMATES SALKIM PKT,1,30.08,30.08,produce
+GROS PLASTIK POSET,20,0.51,10.25,misc
+ELMA,1,22.8,22.8,produce
+DIMES 7/24 ENR.KA,1,49.9,49.9,beverages
+VASA BONEN BUTT.,1,79.95,79.95,chicken_and_meat
+ELMA STARKING,0.52,44.95,23.37,produce
+ALISVERIS POSETI,1,0.25,0.25,misc
+ANADOLU MUTFAGI BASM,1,51.75,51.75,grains_and_bakery
+ETI LIFALIF YULAF,1,47.95,47.95,grains_and_bakery
+BADI BUT IZGARA TAVA,0.457,210.0,95.97,chicken_and_meat
+DEREN BARDAK POSET,1,18.75,18.75,misc
+ELMA STARKING,0.91,44.95,40.9,produce
+ELMA GRANNY,0.49,49.95,24.48,produce
+MAVDANOZ,1,14.95,14.95,produce
+HAVUC,0.485,29.95,14.53,produce
+KRUVASAN CIKOLATALI,1,19.9,19.9,snacks_and_sweets
+BADI BONFILE / FILET,0.655,210.0,137.55,chicken_and_meat
+ISPANAKLI RULO BOREK,1,13.0,13.0,grains_and_bakery
+DOMATES,0.95,42.75,40.61,produce
+MIS UHT KREMA,1,4.1,4.1,dairy
+MIGROS PLASTIC BAG,20,0,0,misc
+MALTANA ZERO ANAN,1,4.3,4.3,beverages
+BISCOLATA STARZ,1,20,20,snacks_and_sweets
+BLACK BRUIN ENERGY DRINK,10,9.5,95,beverages
+DOGUS BLACK LABEL,2,22.5,45,beverages
+SPANAK.PEYN.BORE,0.642,59.95,38.49,grains_and_bakery
+MUZ YERLI,1.155,79.95,92.38,produce
+PLASTIK PoseT,1,0.25,0.25,misc
+FEAST BEZELYE,450,1.15,115.0,produce
+FEAST BAMYA,450,1.15,115.0,produce
+BIBER DOLNA,0.5,99.95,49.98,produce
+DONATES,0.905,44.95,40.68,produce
+WUUZ TTHAL,1,209.98,209.98,produce
+ERIKLI SU 1.5 L,1,0,0,beverages
+ELMA GRANNY,0.53,59.95,31.73,produce
+MIGROS PLASTIK POSET,1,0.2,0.2,misc
+MUZ YERLI,0,79.95,42.37,produce
+"SAKA SU 0,5 L",2,9.75,19.5,beverages
+ULKER DORE KREM.BISK,1,18.5,18.5,snacks_and_sweets
+RICHLAND GRANOLA YU,1,84.95,84.95,snacks_and_sweets
+EKMEK EKSI_MAYALI,1,24.0,24.0,grains_and_bakery
+SEK QUARK YABAN MERS,1,29.95,29.95,dairy
+DOGADAN ZEN.LIM.CAY,1,59.5,59.5,beverages
+SEK QUARK ANANAS 140,1,29.95,29.95,dairy
+emsal CEVIZICI,1,79.95,79.95,produce
+ARMUT SAN. MARTA,0.75,24.95,18.71,produce
+ELMA GALA,0.995,29.95,29.75,produce
+Miz ITHAL,0.995,29.95,29.75,produce
+PORTAKAL KG,1,0,0,produce
+DANA BUT SOTELIK ET,0.366,619.95,226.9,chicken_and_meat
+IMREN PILIC BUT IZG.,0.532,210.0,111.72,chicken_and_meat
+KESKINOGLU 15°LE L,1,72.5,72.5,chicken_and_meat
+PINAR SUT 81 YAGLI,1,34.5,34.5,dairy
+ARMUT SAN. MARIA,0.83,56.9,47.23,produce
+ELMA STARKING,0.745,44.95,33.49,produce
+MUZ YERLI,0.5,59.95,29.98,produce
+BAGELS,1,2.0,2.0,grains_and_bakery
+GV SLIDERS,1,3.0,3.0,grains_and_bakery
+ACCESSORY,1,6.0,6.0,misc
+CHEEZE IT,1,4.54,4.54,snacks_and_sweets
+RUFFLES,1,4.0,4.0,snacks_and_sweets
+GV HNY GRHS OTGOTEES,1,4.0,4.0,snacks_and_sweets
+meat,0.7,25.9,18.13,chicken_and_meat
+salatalik,5,27.75,138.75,produce
+MIS UHT SUT YARIM YA,1,22.89,22.89,dairy
+BIZIM VATAN SOYA SOS,1,39.9,39.9,condiments_and_spices
+ANADOLU MUTFAGI KORI,1,12.29,12.29,condiments_and_spices
+ANADOLU MUTFAGI ZENC,1,15.3,15.3,condiments_and_spices
+ANADOLU MUTFAGI KIRM,1,22.25,22.25,condiments_and_spices
+ALISVERIS POSETI,1,0.25,0.25,misc
+ALISVERIS POSETI,1,0.23,0.23,misc
+MIGROS PLASTIK,2,0.25,0.5,misc
+AMSTERDAM BIRA,1,115.0,115.0,alcholic_beverages
+PROPACK KAGIT BARDS,1,139.95,139.95,misc
+CARLSBERG SOCL KUT,40,75.0,75.0,alcholic_beverages
+BECKS KUTU BIRA,1,75.0,75.0,alcholic_beverages
+AMSTERDAM BIRA SOCL,35,115.0,115.0,alcholic_beverages
+UNTAD BUYUK TOST EKM,0.418,210.0,87.78,grains_and_bakery
+IMREN PILIC BUT,0.418,210.0,487.78,chicken_and_meat
+AMSTERDAM BIRA SOCL,9,115.0,115.0,alcholic_beverages
+MIGROS KRS.KURUVEMIS,1,379.25,379.25,snacks_and_sweets
+CAFE CROWN 2 SI 1AR,3,8.5,25.5,beverages
+ELMA GRANNY,0.8,54.95,49.6,produce
+BIBER CARLISTON,0.18,89.95,16.19,produce
+BIBER KIRMIZI,0.18,89.95,16.19,produce
+MIGROS PLASTIK POSET,1,0.25,0.25,misc
+AMSTERDAM BIRA 50CL,3,115,345,alcholic_beverages
+ULUDAG DOGAL M.SUYU,2,44.9,89.8,beverages
+SW HRO FGHTR,1,6.94,6.94,misc
+SEA SALT POT CHP,1,1.29,1.29,snacks_and_sweets
+BRIOCHE,1,6.99,6.99,grains_and_bakery
 CHEF PLATE MEAL,2,10.0,20.0,misc
 Woman,1,0.0,0.0,misc
-Ham Cheese,2,74000.0,148000.0,chicken_and_meat
+Ham Cheese,2,37000.0,74000.0,grains_and_bakery
 Ice Java Tea,1,16000.0,16000.0,beverages
 Mineral Water,1,13000.0,13000.0,beverages
-Black & White,1,72000.0,72000.0,misc
+Black & White,1,72000.0,72000.0,snacks_and_sweets
 6 WING PLATE,1,3.98,3.98,chicken_and_meat
 ASST 27,1,4.88,4.88,misc
 CUTIE CAR,1,12.88,12.88,misc
-FF BS BREAST,2.0,23.99,23.99,chicken_and_meat
-KS DICED TOM,1.0,6.49,6.49,produce
-JACKORGSALSA,1.0,2.97,2.97,condiments_and_spices
-18CT EGGS,3.0,4.29,12.87,dairy
-GRAPE TOMATO,1.0,6.29,6.29,produce
-ECO HALF PAN,1.0,6.49,6.49,produce
-GRND TURKEY,1.0,18.47,18.47,chicken_and_meat
-CHPD ONION,1.0,3.59,3.59,produce
-MONT JACK 2#,1.0,4.45,4.45,dairy
-N/YORK TX GRLC,1,2.18,2.18,produce
-CHICKEN WINGS,2,5.94,11.88,chicken_and_meat
-PICSWEET BLEND,1,5.39,5.39,produce
-PICSWEET GREENS,2,2.56,5.12,produce
-DIET LN GRND B,2,5.96,11.92,beverages
-DRUMSTICKS,1,5.96,5.96,chicken_and_meat
-TENDERBRD CHIX BR,1,5.98,5.98,chicken_and_meat
-KRAFT DELUXE MAC,2,1.82,3.64,misc
-L/D NUTTY BARS,2,1.0,2.0,snacks_and_sweets
-L/D OATMEAL CRM,2,1.0,2.0,snacks_and_sweets
-KEEB TOWNHOUSE,1,2.56,2.56,snacks_and_sweets
-TURKEY FRANK,1,0.88,0.88,chicken_and_meat
-RESERS POT SLD,2,1.96,3.92,produce
-DM SPAG SAUCE,2,0.82,1.64,condiments_and_spices
-HUNTS MANWICH,2,0.82,1.64,snacks_and_sweets
-DM PNAPL CHNKY,2,0.98,1.96,misc
-SUNBEAN BUNS,1,1.98,1.98,grains_and_bakery
-WINCO SANDWICH WT,1,2.58,2.58,grains_and_bakery
-WINCO HOMO MILK,1,3.58,3.58,dairy
-EGGS,1,2.28,2.28,dairy
+BS Breast,1,,,chicken_and_meat
+KS Diced Tomato,1,,,produce
+Jack Org Salsa,3,4.29,12.87,condiments_and_spices
+18ct Eggs,1,,,dairy
+Grape Tomato,1,,,produce
+Eco Half Pan,1,,,misc
+Grnd Turkey,1,,,chicken_and_meat
+CHPD Onion,1,,,produce
+Mont Jack 2#,1,,,dairy
+BAR S MEAT FRNK,1,0.0,0.0,chicken_and_meat
+O/M HAM,1,0.0,0.0,chicken_and_meat
+WINCO NOODLES,1,0.0,0.0,grains_and_bakery
+TNDRBRD CHIX BR,1,0.0,0.0,chicken_and_meat
+KRFT DELUXE MAC,2,1.82,3.64,grains_and_bakery
+EGGO WAFFLE,1,0.0,0.0,grains_and_bakery
+L/D NUTTY BARS,1,0.0,0.0,snacks_and_sweets
+L/D OATMEAL CRM,1,0.0,0.0,snacks_and_sweets
+LINKS MILD,1,0.0,0.0,chicken_and_meat
+KEEB TOWNHOUSE,1,0.0,0.0,snacks_and_sweets
+TURKEY FRANK,1,0.0,0.0,chicken_and_meat
+RESERS POT SLD,1,0.0,0.0,produce
+DM SPAG SAl,1,0.0,0.0,misc
+HUNTS MANHICH,1,0.0,0.0,condiments_and_spices
+OM PNAPL CHNKY,1,0.0,0.0,produce
+WINCO HOMO MILK,1,0.0,0.0,dairy
+EGas,1,0.0,0.0,dairy

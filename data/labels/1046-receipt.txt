@@ -1,0 +1,29 @@
+{
+    "location": "17861 BISCAYNE BLYD, Aventura, FL 33160",
+    "shop": "Araxi Burger Aventura",
+    "datetime": null,
+    "items": [
+        {
+            "name": "Vanilla Bean",
+            "quantity": 2,
+            "unitprice": null,
+            "amount": null,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Classic Burger",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Route 66 Burger",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": null
+}

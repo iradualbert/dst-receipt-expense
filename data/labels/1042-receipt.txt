@@ -1,0 +1,49 @@
+{
+    "location": "caraviEw, NJ 07022",
+    "phone": "(201) 840-8428",
+    "datetime": "2/11/19 07:46pm",
+    "table": 23,
+    "server": "DANIELA",
+    "items": [
+        {
+            "name": "Guaca Chicharron",
+            "quantity": 1,
+            "unitprice": 13.99,
+            "amount": 13.99,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "EMPANADA",
+            "quantity": 2,
+            "unitprice": 3.0,
+            "amount": 6.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "PARGO FRITO",
+            "quantity": 1,
+            "unitprice": 19.95,
+            "amount": 19.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "MAR Y CHICKEN",
+            "quantity": 1,
+            "unitprice": 17.0,
+            "amount": 17.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "SALMON A LA PLANCHA",
+            "quantity": 1,
+            "unitprice": 16.0,
+            "amount": 16.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "subtotal": 69.9,
+    "void": -17.95,
+    "tax": 3.44,
+    "total_with_tax": 73.34,
+    "amount_due": 55.39
+}

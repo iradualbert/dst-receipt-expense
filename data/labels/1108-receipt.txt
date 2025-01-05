@@ -1,0 +1,15 @@
+{
+    "location": "4661 Stanford Ranch Rd, Rocklin, CA 95677",
+    "shop": "Monge",
+    "datetime": "01/28/10 5:48:07",
+    "items": [
+        {
+            "name": "Tea",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        }
+    ],
+    "total": null
+}

@@ -1,0 +1,32 @@
+{
+    "bill_number": "00027",
+    "bill_date": "06.07.2037",
+    "bill_time": "22:06",
+    "persons": 2,
+    "table_number": "F Wer",
+    "waiter_number": "SD",
+    "items": [
+        {
+            "name": "Tandoori Chicken",
+            "quantity": 1,
+            "unitprice": 179.0,
+            "amount": 179.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Mutton Rogan Josh",
+            "quantity": 1,
+            "unitprice": 209.0,
+            "amount": 209.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Fish Biriyani",
+            "quantity": 1,
+            "unitprice": 229.0,
+            "amount": 229.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 617.0
+}

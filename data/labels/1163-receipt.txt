@@ -1,0 +1,48 @@
+{
+    "location": "211-37 26th Avenue, Bayside, NY 11360",
+    "phone": "(718)229-2967",
+    "shop": "BEN\u2019S BAYSIDE",
+    "email": "BaysideBensDeli.net",
+    "datetime": "03/05 12:41",
+    "items": [
+        {
+            "name": "DOUBLE 0",
+            "quantity": 2,
+            "category": "misc"
+        },
+        {
+            "name": "past, bo",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "KNISH",
+            "quantity": 1,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "ROUND",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "KASHE SIDE",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "COFFEE",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "WATER",
+            "quantity": 2,
+            "category": "beverages"
+        }
+    ],
+    "suggested_gratuity": {
+        "15%": 5.69,
+        "12%": null
+    }
+}

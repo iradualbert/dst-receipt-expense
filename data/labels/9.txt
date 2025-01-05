@@ -1,0 +1,127 @@
+{
+    "location": "unknown",
+    "shop": "unknown",
+    "datetime": "9/08/14",
+    "items": [
+        {
+            "name": "BAR S MEAT FRNK",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "O/M HAM",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "WINCO NOODLES",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "TNDRBRD CHIX BR",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "KRFT DELUXE MAC",
+            "quantity": 2,
+            "unitprice": 1.82,
+            "amount": 3.64,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "EGGO WAFFLE",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "L/D NUTTY BARS",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "L/D OATMEAL CRM",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "LINKS MILD",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "KEEB TOWNHOUSE",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "TURKEY FRANK",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "RESERS POT SLD",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "DM SPAG SAl",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "misc"
+        },
+        {
+            "name": "HUNTS MANHICH",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "OM PNAPL CHNKY",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "produce"
+        },
+        {
+            "name": "WINCO HOMO MILK",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "dairy"
+        },
+        {
+            "name": "EGas",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "dairy"
+        }
+    ],
+    "total": 20.28
+}

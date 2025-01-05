@@ -1,0 +1,50 @@
+{
+    "location": "Unknown",
+    "shop": "Fiesta Mexican Restaurant",
+    "datetime": "Unknown",
+    "items": [
+        {
+            "name": "SOPA DE TORTILA BOML",
+            "quantity": 1,
+            "unitprice": 5.5,
+            "amount": 5.5,
+            "category": "misc"
+        },
+        {
+            "name": "TACO SALAD",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "HOUSE MARGARITA JUMBO",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Dr Pepper",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "SIDE CHEESE",
+            "quantity": 1,
+            "unitprice": 1.5,
+            "amount": 1.5,
+            "category": "dairy"
+        },
+        {
+            "name": "HOUSE MARGARITA JUMBO",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": null
+}

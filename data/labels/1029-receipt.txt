@@ -1,0 +1,53 @@
+{
+    "location": "99 BROADWAY, SOMERVILLE, MA 02145",
+    "shop": "RINCON MEXICANO",
+    "datetime": "2017-05-09T19:19:46",
+    "items": [
+        {
+            "name": "Arroz",
+            "quantity": 1,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Taco De Pescado",
+            "quantity": 2,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Taco Tuesday Pollo",
+            "quantity": 3,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Taco D Carne Asada",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Taco D Chorizo",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Taco Tuesday Pastor",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Horchata",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "Taco D Cochinita",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Taco D Carnitas",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": null
+}

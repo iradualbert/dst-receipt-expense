@@ -1,0 +1,31 @@
+{
+    "shop": "Gone RIFIENE",
+    "items": [
+        {
+            "name": "PREM RED 18",
+            "quantity": 1,
+            "amount": 18,
+            "category": "misc"
+        },
+        {
+            "name": "SCAMPI MILANZS LING YONG",
+            "quantity": 1,
+            "amount": 172,
+            "category": "misc"
+        },
+        {
+            "name": "PASTA SP16",
+            "quantity": 1,
+            "amount": 16,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "sustor",
+            "quantity": 1,
+            "amount": 132.25,
+            "category": "misc"
+        }
+    ],
+    "total": 338.25,
+    "tax": 9.276
+}

@@ -1,0 +1,8 @@
+{
+    "location": "",
+    "shop": "",
+    "datetime": "",
+    "items": [],
+    "total_items": 3,
+    "total": 0.0
+}

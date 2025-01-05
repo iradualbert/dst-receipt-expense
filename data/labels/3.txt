@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "name": "BAGELS",
+            "quantity": 1,
+            "unitprice": 2.0,
+            "amount": 2.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "GV SLIDERS",
+            "quantity": 1,
+            "unitprice": 3.0,
+            "amount": 3.0,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "ACCESSORY",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "misc"
+        },
+        {
+            "name": "CHEEZE IT",
+            "quantity": 1,
+            "unitprice": 4.54,
+            "amount": 4.54,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "RUFFLES",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "GV HNY GRHS OTGOTEES",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "subtotal": 23.54,
+    "tax": 1.0,
+    "total": 24.54
+}

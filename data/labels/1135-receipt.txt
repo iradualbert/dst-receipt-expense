@@ -1,0 +1,41 @@
+{
+    "location": "North Ca, Beverly Hills, CA 90210",
+    "datetime": "01/23/18",
+    "items": [
+        {
+            "name": "Iced Tea",
+            "quantity": 1,
+            "unitprice": 4.5,
+            "amount": 4.5,
+            "category": "beverages: non-alcholic"
+        },
+        {
+            "name": "Rombo Carciofi Fungh",
+            "quantity": 1,
+            "unitprice": 48.0,
+            "amount": 48.0,
+            "category": "misc"
+        },
+        {
+            "name": "Sparkling Water Large",
+            "quantity": 1,
+            "unitprice": 8.5,
+            "amount": 8.5,
+            "category": "beverages: non-alcholic"
+        },
+        {
+            "name": "Branzino Grigliato",
+            "quantity": 1,
+            "unitprice": 40.0,
+            "amount": 40.0,
+            "category": "misc"
+        },
+        {
+            "name": "Carpaccio Red Snap",
+            "quantity": 1,
+            "unitprice": 33.0,
+            "amount": 33.0,
+            "category": "misc"
+        }
+    ]
+}

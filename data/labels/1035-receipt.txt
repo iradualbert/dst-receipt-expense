@@ -1,0 +1,64 @@
+{
+    "location": "1084 Yonkers Avenue Yonkers, NY 10704",
+    "shop": "Argonaut Diner",
+    "datetime": "August 13, 2017",
+    "items": [
+        {
+            "name": "Coffee",
+            "quantity": 1,
+            "unitprice": 1.45,
+            "amount": 1.45,
+            "category": "beverages"
+        },
+        {
+            "name": "Tea",
+            "quantity": 1,
+            "unitprice": 1.45,
+            "amount": 1.45,
+            "category": "beverages"
+        },
+        {
+            "name": "Waffle",
+            "quantity": 1,
+            "unitprice": 5.5,
+            "amount": 5.5,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Old Fashion French Toast",
+            "quantity": 1,
+            "unitprice": 4.5,
+            "amount": 4.5,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Side Home Fries",
+            "quantity": 1,
+            "unitprice": 2.95,
+            "amount": 2.95,
+            "category": "misc"
+        },
+        {
+            "name": "Banana",
+            "quantity": 1,
+            "unitprice": 2.95,
+            "amount": 2.95,
+            "category": "produce"
+        },
+        {
+            "name": "Whipped Cream",
+            "quantity": 1,
+            "unitprice": 2.5,
+            "amount": 2.5,
+            "category": "misc"
+        },
+        {
+            "name": "W/ 2 EGGS",
+            "quantity": 1,
+            "unitprice": 2.95,
+            "amount": 2.95,
+            "category": "misc"
+        }
+    ],
+    "total": 24.25
+}

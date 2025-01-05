@@ -1,0 +1,18 @@
+{
+    "location": "IN-N-OUT BURGER SANTA CLARA",
+    "datetime": "2012-04-27 12:48 PM",
+    "cashier": "KEVIN DU",
+    "items": [
+        {
+            "name": "red",
+            "quantity": 1,
+            "unitprice": 2.0,
+            "amount": 2.0,
+            "category": "misc"
+        }
+    ],
+    "tax": 0.165,
+    "total": 2.165,
+    "cash_tendered": 3.0,
+    "change": 0.835
+}

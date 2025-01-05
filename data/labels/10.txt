@@ -1,0 +1,7 @@
+{
+    "location": "Bergyille",
+    "shop": "Unknown",
+    "datetime": null,
+    "items": [],
+    "total": 0.0
+}

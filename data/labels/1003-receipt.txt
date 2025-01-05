@@ -1,0 +1,43 @@
+{
+    "location": "4070 Middlefield Rd, Palo Alto, CA 94303",
+    "shop": "Trader Joe's",
+    "datetime": "09/14/23 19:42:55",
+    "items": [
+        {
+            "name": "Organic Bananas",
+            "quantity": 1,
+            "unitprice": 0.19,
+            "amount": 0.95,
+            "category": "produce"
+        },
+        {
+            "name": "Almond Milk",
+            "quantity": 1,
+            "unitprice": 2.79,
+            "amount": 2.79,
+            "category": "dairy"
+        },
+        {
+            "name": "Frozen Pizza",
+            "quantity": 1,
+            "unitprice": 4.99,
+            "amount": 4.99,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Dark Chocolate",
+            "quantity": 1,
+            "unitprice": 1.99,
+            "amount": 1.99,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "Shampoo",
+            "quantity": 1,
+            "unitprice": 3.49,
+            "amount": 3.49,
+            "category": "health_and_personal_care"
+        }
+    ],
+    "total": 14.21
+}

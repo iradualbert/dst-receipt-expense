@@ -1,0 +1,39 @@
+{
+    "shop": "Smoke City Market",
+    "location": "",
+    "datetime": "",
+    "items": [
+        {
+            "name": "Pulled Pork Sand",
+            "quantity": 1,
+            "unitprice": 8.5,
+            "amount": 8.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Creamed Corn [Small]",
+            "quantity": 1,
+            "unitprice": 3.35,
+            "amount": 3.35,
+            "category": "produce"
+        },
+        {
+            "name": "Mac & Cheese [sm]",
+            "quantity": 1,
+            "unitprice": 4.2,
+            "amount": 4.2,
+            "category": "dairy"
+        },
+        {
+            "name": "Cake [Slice]",
+            "quantity": 1,
+            "unitprice": 3.95,
+            "amount": 3.95,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "subtotal": 59.11,
+    "tax": 5.32,
+    "total": 64.43,
+    "payment_method": "Wells Fargo"
+}

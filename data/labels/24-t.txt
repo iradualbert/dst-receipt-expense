@@ -1,0 +1,50 @@
+{
+    "location": "MIGROS TIGARET A-S, GOKKAYA CD. CEKMEKOY, TST MIGROS, SATIS. MGZ, MOMANTEPE. HH. MAVERA. SK. NO: 19A-20A-21A, CEKMEKOY/ISTANBUL",
+    "shop": "MIGROS",
+    "datetime": "28/10/2024 20:24",
+    "items": [
+        {
+            "name": "PLASTIK PoseT",
+            "quantity": 1,
+            "unitprice": 0.25,
+            "amount": 0.25,
+            "category": "misc"
+        },
+        {
+            "name": "FEAST BEZELYE",
+            "quantity": 450,
+            "unitprice": 1.15,
+            "amount": 115.0,
+            "category": "produce"
+        },
+        {
+            "name": "FEAST BAMYA",
+            "quantity": 450,
+            "unitprice": 1.15,
+            "amount": 115.0,
+            "category": "produce"
+        },
+        {
+            "name": "BIBER DOLNA",
+            "quantity": 0.5,
+            "unitprice": 99.95,
+            "amount": 49.98,
+            "category": "produce"
+        },
+        {
+            "name": "DONATES",
+            "quantity": 0.905,
+            "unitprice": 44.95,
+            "amount": 40.68,
+            "category": "produce"
+        },
+        {
+            "name": "WUUZ TTHAL",
+            "quantity": 1,
+            "unitprice": 209.98,
+            "amount": 209.98,
+            "category": "produce"
+        }
+    ],
+    "total": 585.57
+}

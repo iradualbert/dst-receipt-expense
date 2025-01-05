@@ -1,0 +1,16 @@
+image_path,bbox_path,funsd_path,label_path
+./data/receipts/groceries\0.jpg,./data/bbox-data\0.json,./data/annotations\0.json,./data/labels\0.json
+./data/receipts/groceries\1.jpg,./data/bbox-data\1.json,./data/annotations\1.json,./data/labels\1.json
+./data/receipts/groceries\11.jpg,./data/bbox-data\11.json,./data/annotations\11.json,./data/labels\11.json
+./data/receipts/groceries\15.jpg,./data/bbox-data\15.json,./data/annotations\15.json,./data/labels\15.json
+./data/receipts/groceries\16.jpg,./data/bbox-data\16.json,./data/annotations\16.json,./data/labels\16.json
+./data/receipts/groceries\18.jpg,./data/bbox-data\18.json,./data/annotations\18.json,./data/labels\18.json
+./data/receipts/groceries\19.jpg,./data/bbox-data\19.json,./data/annotations\19.json,./data/labels\19.json
+./data/receipts/groceries\2.jpg,./data/bbox-data\2.json,./data/annotations\2.json,./data/labels\2.json
+./data/receipts/groceries\3.jpg,./data/bbox-data\3.json,./data/annotations\3.json,./data/labels\3.json
+./data/receipts/groceries\4.jpg,./data/bbox-data\4.json,./data/annotations\4.json,./data/labels\4.json
+./data/receipts/groceries\5.jpg,./data/bbox-data\5.json,./data/annotations\5.json,./data/labels\5.json
+./data/receipts/groceries\6.JPG,./data/bbox-data\6.json,./data/annotations\6.json,./data/labels\6.json
+./data/receipts/groceries\7.jpg,./data/bbox-data\7.json,./data/annotations\7.json,./data/labels\7.json
+./data/receipts/groceries\8.jpg,./data/bbox-data\8.json,./data/annotations\8.json,./data/labels\8.json
+./data/receipts/groceries\9.jpg,./data/bbox-data\9.json,./data/annotations\9.json,./data/labels\9.json

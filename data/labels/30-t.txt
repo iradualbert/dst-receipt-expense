@@ -1,0 +1,71 @@
+{
+    "location": "Is Bankasi",
+    "shop": "Istanbul Market",
+    "datetime": "07/10/2024 13:46",
+    "items": [
+        {
+            "name": "meat",
+            "quantity": 0.7,
+            "unitprice": 25.9,
+            "amount": 18.13,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "salatalik",
+            "quantity": 5,
+            "unitprice": 27.75,
+            "amount": 138.75,
+            "category": "produce"
+        },
+        {
+            "name": "MIS UHT SUT YARIM YA",
+            "quantity": 1,
+            "unitprice": 22.89,
+            "amount": 22.89,
+            "category": "dairy"
+        },
+        {
+            "name": "BIZIM VATAN SOYA SOS",
+            "quantity": 1,
+            "unitprice": 39.9,
+            "amount": 39.9,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "ANADOLU MUTFAGI KORI",
+            "quantity": 1,
+            "unitprice": 12.29,
+            "amount": 12.29,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "ANADOLU MUTFAGI ZENC",
+            "quantity": 1,
+            "unitprice": 15.3,
+            "amount": 15.3,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "ANADOLU MUTFAGI KIRM",
+            "quantity": 1,
+            "unitprice": 22.25,
+            "amount": 22.25,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "ALISVERIS POSETI",
+            "quantity": 1,
+            "unitprice": 0.25,
+            "amount": 0.25,
+            "category": "misc"
+        },
+        {
+            "name": "ALISVERIS POSETI",
+            "quantity": 1,
+            "unitprice": 0.23,
+            "amount": 0.23,
+            "category": "misc"
+        }
+    ],
+    "total": 174.52
+}

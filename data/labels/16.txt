@@ -1,0 +1,29 @@
+{
+    "location": "2717 ROCK ISLAND PL, BISMARCK ND 58504",
+    "shop": "Walmart",
+    "datetime": "11/13/17 12:34:04",
+    "items": [
+        {
+            "name": "6 WING PLATE",
+            "quantity": 1,
+            "unitprice": 3.98,
+            "amount": 3.98,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "ASST 27",
+            "quantity": 1,
+            "unitprice": 4.88,
+            "amount": 4.88,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "CUTIE CAR",
+            "quantity": 1,
+            "unitprice": 12.88,
+            "amount": 12.88,
+            "category": "misc"
+        }
+    ],
+    "total": 23.19
+}

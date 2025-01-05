@@ -1,0 +1,87 @@
+{
+    "location": "Paris Las Vegas",
+    "shop": "Gordon Ramsay Steak",
+    "datetime": null,
+    "items": [
+        {
+            "name": "Pinas Cup",
+            "quantity": 1,
+            "unitprice": 14.0,
+            "amount": 14.0,
+            "category": "beverages"
+        },
+        {
+            "name": "The Orifter",
+            "quantity": 2,
+            "unitprice": 14.0,
+            "amount": 28.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Kobe Beef Slider",
+            "quantity": 1,
+            "unitprice": 18.0,
+            "amount": 18.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "New York",
+            "quantity": 1,
+            "unitprice": 63.0,
+            "amount": 63.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Aner Kobe Filet",
+            "quantity": 1,
+            "unitprice": 79.0,
+            "amount": 79.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Lobster Tail",
+            "quantity": 1,
+            "unitprice": 38.0,
+            "amount": 38.0,
+            "category": "misc"
+        },
+        {
+            "name": "Potato Puree",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "produce"
+        },
+        {
+            "name": "Grlld Asparagus",
+            "quantity": 1,
+            "unitprice": 13.0,
+            "amount": 13.0,
+            "category": "produce"
+        },
+        {
+            "name": "Peppercorn",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "condiments_and_spices"
+        },
+        {
+            "name": "Pepsi",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Choc Pot De Crem",
+            "quantity": 1,
+            "unitprice": 13.0,
+            "amount": 13.0,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "subtotal": 230.0,
+    "tax": 23.49,
+    "total": 313.49
+}

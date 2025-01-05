@@ -1,0 +1,57 @@
+{
+    "location": "NISANTEPE MH. MAVERA. SK Mois 204-210, CEKMEKOY/ISTANBUL",
+    "shop": "MIGROS TICARET A.S",
+    "datetime": "19/12/24 10:33",
+    "items": [
+        {
+            "name": "MIGROS PLASTIC BAG",
+            "quantity": 20,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        },
+        {
+            "name": "MALTANA ZERO ANAN",
+            "quantity": 1,
+            "unitprice": 4.3,
+            "amount": 4.3,
+            "category": "beverages"
+        },
+        {
+            "name": "BISCOLATA STARZ",
+            "quantity": 1,
+            "unitprice": 20,
+            "amount": 20,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "BLACK BRUIN ENERGY DRINK",
+            "quantity": 10,
+            "unitprice": 9.5,
+            "amount": 95,
+            "category": "beverages"
+        },
+        {
+            "name": "DOGUS BLACK LABEL",
+            "quantity": 2,
+            "unitprice": 22.5,
+            "amount": 45,
+            "category": "beverages"
+        },
+        {
+            "name": "SPANAK.PEYN.BORE",
+            "quantity": 0.642,
+            "unitprice": 59.95,
+            "amount": 38.49,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "MUZ YERLI",
+            "quantity": 1.155,
+            "unitprice": 79.95,
+            "amount": 92.38,
+            "category": "produce"
+        }
+    ],
+    "total": 260.31
+}

@@ -1,0 +1,11 @@
+{
+    "shop": "Um's RESTAURANT",
+    "transaction_type": "Walk_in",
+    "total_before_tax": 20.78,
+    "tax": 0.0,
+    "service_fee": null,
+    "total": 22.03,
+    "amount_received": 22.03,
+    "change": 0.09,
+    "payment_method": "Cash"
+}

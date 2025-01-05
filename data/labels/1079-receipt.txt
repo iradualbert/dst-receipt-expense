@@ -1,0 +1,57 @@
+{
+    "location": "Falmouth, MA 0250",
+    "shop": "Falmouth Raw Bar",
+    "datetime": "07/02/23 6:20PM",
+    "items": [
+        {
+            "name": "Oysters",
+            "quantity": 6,
+            "unitprice": 3.17,
+            "amount": 19.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Fish and Chips",
+            "quantity": 1,
+            "unitprice": 22.0,
+            "amount": 22.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "MONSTAH roll",
+            "quantity": 3,
+            "unitprice": 38.0,
+            "amount": 114.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Chicken Wings",
+            "quantity": 1,
+            "unitprice": 12.0,
+            "amount": 12.0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Patron",
+            "quantity": 3,
+            "unitprice": 9.5,
+            "amount": 28.5,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Sparkling Wine",
+            "quantity": 2,
+            "unitprice": 11.0,
+            "amount": 22.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Open Liquor",
+            "quantity": 1,
+            "unitprice": 6.0,
+            "amount": 6.0,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": 235.19
+}

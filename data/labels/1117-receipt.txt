@@ -1,0 +1,7 @@
+{
+    "location": "33 HIGHWAY 111, RANCHO MIRAGE",
+    "shop": "JAPANESE STEAK",
+    "datetime": "2/13/22",
+    "items": [],
+    "total": 208.97
+}

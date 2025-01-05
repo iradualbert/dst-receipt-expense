@@ -1,0 +1,43 @@
+{
+    "location": "209 Palisade Ave, Wallington, NJ 07057",
+    "shop": "Lan Sheng",
+    "items": [
+        {
+            "name": "Spicy Chicken",
+            "quantity": 1,
+            "amount": 0,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Peking Duck",
+            "quantity": 1,
+            "amount": 18.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Stir Beef Fillet with Tofu",
+            "quantity": 1,
+            "amount": 12.95,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Pork with Spicy Capsicum",
+            "quantity": 1,
+            "amount": 10.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "White Rice (Small)",
+            "quantity": 1,
+            "amount": 1.95,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Pork with Spicy Tofu & Cayenne Chili",
+            "quantity": 1,
+            "amount": 12.0,
+            "category": "chicken_and_meat"
+        }
+    ],
+    "total": 56.35
+}

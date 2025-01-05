@@ -1,0 +1,15 @@
+{
+    "location": "GO'ELS",
+    "shop": "GO'ELS",
+    "datetime": "12/06/21",
+    "items": [
+        {
+            "name": "Unknown",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "misc"
+        }
+    ],
+    "total": 0.0
+}

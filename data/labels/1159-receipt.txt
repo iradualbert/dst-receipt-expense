@@ -1,0 +1,6 @@
+{
+    "shop": "Unknown",
+    "datetime": "Unknown",
+    "items": [],
+    "total": 0.0
+}

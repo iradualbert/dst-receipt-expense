@@ -1,0 +1,33 @@
+{
+    "shop": "Brasas Restaurant",
+    "cashier": "Tany",
+    "datetime": "02-Mar-2019",
+    "items": [
+        {
+            "name": "Chicken Tort",
+            "quantity": 1,
+            "unitprice": 6.5,
+            "amount": 6.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Horchata",
+            "quantity": 1,
+            "unitprice": 0.0,
+            "amount": 0.0,
+            "category": "beverages"
+        },
+        {
+            "name": "Custom Item",
+            "quantity": 1,
+            "unitprice": 50.5,
+            "amount": 50.5,
+            "category": "misc"
+        }
+    ],
+    "subtotal": 9.0,
+    "tax": 0.97,
+    "total": 9.97,
+    "order_number": "T237THOQOT7RC",
+    "online_order_link": "https://clover.com/1/T23:7THOQOT7RC"
+}

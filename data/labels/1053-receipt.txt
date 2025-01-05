@@ -1,0 +1,7 @@
+{
+    "location": null,
+    "shop": "Primo Family Restaurant",
+    "datetime": null,
+    "items": [],
+    "total": null
+}

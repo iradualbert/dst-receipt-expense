@@ -1,0 +1,57 @@
+{
+    "location": "1165 S CAMINO DEL RIO, DURANGO CO 81303",
+    "shop": "Walmart",
+    "datetime": "01/18/2021 14:26:03",
+    "items": [
+        {
+            "name": "bananas",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "produce"
+        },
+        {
+            "name": "beverage",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "beverages"
+        },
+        {
+            "name": "avocado",
+            "quantity": 4,
+            "unitprice": 0.4,
+            "amount": 1.6,
+            "category": "produce"
+        },
+        {
+            "name": "pills white",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "health_and_personal_care"
+        },
+        {
+            "name": "sh nylon col",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "misc"
+        },
+        {
+            "name": "hand cleaner",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "health_and_personal_care"
+        },
+        {
+            "name": "injectr clnr",
+            "quantity": 1,
+            "unitprice": 0,
+            "amount": 0,
+            "category": "health_and_personal_care"
+        }
+    ],
+    "total": 0
+}

@@ -1,0 +1,26 @@
+{
+    "location": "3007 NE 163RD STREET, North Miami Beach, FL 33160",
+    "shop": "HIRO JAPANESE RESTAURANT",
+    "phone": "(305) 948-3687",
+    "server": "HUGO",
+    "station": "2",
+    "order_number": "209744",
+    "guests": 2,
+    "items": [
+        {
+            "name": "Ton Katsu",
+            "quantity": 1,
+            "category": "misc"
+        },
+        {
+            "name": "Makimono",
+            "quantity": 1,
+            "category": "misc"
+        }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 17.18,
+    "ticket_number": "20",
+    "datetime": "2/13/2018 1:09:45 PM"
+}

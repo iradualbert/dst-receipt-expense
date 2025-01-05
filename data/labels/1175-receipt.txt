@@ -1,0 +1,22 @@
+{
+    "location": "365 The Bridge St., Suite 1, Huntsville, AL, 35866",
+    "shop": "Bar Louie Huntsville",
+    "datetime": "07/03/2015 4:42 PM",
+    "items": [
+        {
+            "name": "Whiskey",
+            "quantity": 1,
+            "unitprice": 6.25,
+            "amount": 6.25,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "subtotal": 6.25,
+    "tax": 1.31,
+    "total": 12.86,
+    "payment": {
+        "type": "CASH",
+        "amount": 10.0,
+        "change": 2.44
+    }
+}

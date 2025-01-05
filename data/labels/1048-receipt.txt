@@ -1,0 +1,41 @@
+{
+    "location": "2501 Colorado Ave, Santa Monica, CA 90404",
+    "shop": "Daily Gril",
+    "datetime": "11/01/2018 19:30",
+    "items": [
+        {
+            "name": "Coke",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "Short Rib",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Diet Coke",
+            "quantity": 1,
+            "category": "beverages"
+        },
+        {
+            "name": "Crispy Naked Wings",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Rib Eye Steak",
+            "quantity": 1,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Broccoli",
+            "quantity": 1,
+            "category": "produce"
+        }
+    ],
+    "subtotal": 82.95,
+    "tax": 8.5,
+    "total": 91.45,
+    "balance_due": 91.45
+}

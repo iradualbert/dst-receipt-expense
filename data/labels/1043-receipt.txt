@@ -1,0 +1,53 @@
+{
+    "location": "11318 YONKERS, NY",
+    "shop": "Bk sout FOOD",
+    "datetime": "06/23/19 14:00:00",
+    "items": [
+        {
+            "name": "wings",
+            "quantity": 6,
+            "unitprice": 12.5,
+            "amount": 12.5,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "MAC & CHEESE",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "dairy"
+        },
+        {
+            "name": "YAMS",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "produce"
+        },
+        {
+            "name": "SIDE (SM) - MAC & CHEESE",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "dairy"
+        },
+        {
+            "name": "SIDE (SM) - YAMS",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "produce"
+        },
+        {
+            "name": "SIDE (SM) - COLLARD GREENS",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "produce"
+        }
+    ],
+    "subtotal": 24.5,
+    "tax": 2.17,
+    "discount": 0.0,
+    "total": 26.87
+}

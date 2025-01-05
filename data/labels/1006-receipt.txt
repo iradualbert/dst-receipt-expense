@@ -1,0 +1,14 @@
+{
+    "location": "Glenmont Rot",
+    "shop": "Phity R",
+    "items": [
+        {
+            "name": "Sp Tuna",
+            "quantity": 1,
+            "unitprice": 5.5,
+            "amount": 5.5,
+            "category": "misc"
+        }
+    ],
+    "total": 5.5
+}

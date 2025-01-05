@@ -24,13 +24,15 @@ def extract_text_from_image(image_path):
 def extract_all_receipts(folder_path="./data/receipts", output_folder="./data/texts"):
     images = get_receipts(folder_path)
     for image_path in images:
-        img = Image.open(image_path)
-        plt.imshow(img)
-        plt.axis('off')
-        plt.show()
+        # img = Image.open(image_path)
+        # plt.imshow(img)
+        # plt.axis('off')
+        # plt.show()
         text = extract_text_from_image(image_path)
         image_file_name_with_extension = os.path.basename(image_path)
         text_file_name = os.path.splitext(image_file_name_with_extension)[0] + ".txt"
         text_path = os.path.join(output_folder, text_file_name)
         write_text_to_file(text_path, text)
 
+
+#extract_all_receipts("./data/receipts/restaurants", "./data/texts/restaurants")

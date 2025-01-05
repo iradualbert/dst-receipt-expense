@@ -1,0 +1,15 @@
+{
+    "location": "720 North Rush Street, Chicago, IL",
+    "shop": "ROSEBUD ON RUSH",
+    "datetime": "unknown",
+    "payment": {
+        "card_type": "Visa",
+        "entry_method": "SWIPED",
+        "transaction_type": "PURCHASE",
+        "authorization_code": "190275"
+    },
+    "check": 1738,
+    "table": "81/1",
+    "server": "Chelsea",
+    "total": "unknown"
+}

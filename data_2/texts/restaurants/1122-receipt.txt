@@ -1,0 +1,20 @@
+I, feson Mexican Restaurant
+
+Server: IGOR Station: 33
+
+Order #: 18539 Dine
+Table: Al Glests: 2
+1 SOPA DE TORTILA BOML 5.5
+1 TACO SALAD
+
+CHK
+1 HOUSE MARGARITA JUMBO 1
+1 Dr Pepper 6
+1 SIDE CHEESE 1.5
+1 HOUSE MARGARITA JUMBO
+
+SUB TOTAL: 4
+Tax 1;
+
+TO
+

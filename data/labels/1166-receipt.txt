@@ -1,0 +1,29 @@
+{
+    "location": "7800 Airport Blvd (HOU), Houston, TX 77061",
+    "shop": "Pappadeaux Seafood Kitchen",
+    "datetime": "01/07/17 12:46",
+    "items": [
+        {
+            "name": "Side Craw Etouffee 4oz",
+            "quantity": 1,
+            "unitprice": 10.98,
+            "amount": 10.98,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Pan Seared Tilapia",
+            "quantity": 1,
+            "unitprice": 2.29,
+            "amount": 2.29,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Tea",
+            "quantity": 2,
+            "unitprice": 2.99,
+            "amount": 5.98,
+            "category": "beverages"
+        }
+    ],
+    "total": 42.16
+}

@@ -1,0 +1,50 @@
+{
+    "location": "716 9 11th Street",
+    "shop": "Blue Bear Tavern",
+    "datetime": "01/13/2012 10:16 PM",
+    "items": [
+        {
+            "name": "Crimint",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "Salami",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "produce"
+        },
+        {
+            "name": "Olives",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "produce"
+        },
+        {
+            "name": "Large Clams/Mussels",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Regular Kete/One",
+            "quantity": 4,
+            "unitprice": null,
+            "amount": null,
+            "category": "misc"
+        },
+        {
+            "name": "House Cab",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "alcholic_beverages"
+        }
+    ],
+    "total": null
+}

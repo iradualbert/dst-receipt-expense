@@ -1,0 +1,14 @@
+{
+    "location": "94-450 Ukee St, Oahu, HI 96797",
+    "shop": "Golden Coin",
+    "items": [
+        {
+            "name": "Pit Lunch 2 Choices",
+            "quantity": 1,
+            "unitprice": 9.79,
+            "amount": 9.79,
+            "category": "misc"
+        }
+    ],
+    "total": 9.79
+}

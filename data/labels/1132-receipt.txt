@@ -1,0 +1,29 @@
+{
+    "location": "1120 15TH ST, MIAMI BEACH, FL 33139",
+    "shop": "VIA EMILIA 9",
+    "datetime": "27-Apr-2017 6:21:59P",
+    "items": [
+        {
+            "name": "Tagliatella al Ragu\u2019",
+            "quantity": 1,
+            "unitprice": 14.9,
+            "amount": 14.9,
+            "category": "misc"
+        },
+        {
+            "name": "Cappellacci Di Zucca",
+            "quantity": 1,
+            "unitprice": 18.9,
+            "amount": 18.9,
+            "category": "misc"
+        },
+        {
+            "name": "Stufato Al Latte Di Ravenna",
+            "quantity": 1,
+            "unitprice": 22.9,
+            "amount": 22.9,
+            "category": "misc"
+        }
+    ],
+    "total": 61.8
+}

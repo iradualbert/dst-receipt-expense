@@ -1,0 +1,21 @@
+{
+    "shop": "MOOYAH",
+    "items": [
+        {
+            "name": "Net Total",
+            "amount": 11.97,
+            "category": "misc"
+        },
+        {
+            "name": "Net Tote",
+            "amount": 1.05,
+            "category": "misc"
+        }
+    ],
+    "total": 13.03,
+    "promotion": "Get FREE Small French Fries!",
+    "survey": {
+        "url": "MOOYAH.com/survey",
+        "completion_time": "within 72 hours"
+    }
+}

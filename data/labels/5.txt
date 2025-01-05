@@ -1,0 +1,29 @@
+{
+    "location": "150 E Mc Kinley Ave, Sunnyvale, CA 94086",
+    "shop": "Whole Foods Market",
+    "datetime": "02/10/2021 07:10 PM",
+    "items": [
+        {
+            "name": "SEA SALT POT CHP",
+            "quantity": 1,
+            "unitprice": 1.29,
+            "amount": 1.29,
+            "category": "snacks_and_sweets"
+        },
+        {
+            "name": "BRIOCHE",
+            "quantity": 1,
+            "unitprice": 6.99,
+            "amount": 6.99,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "CHEF PLATE MEAL",
+            "quantity": 2,
+            "unitprice": 10.0,
+            "amount": 20.0,
+            "category": "misc"
+        }
+    ],
+    "total": 28.28
+}

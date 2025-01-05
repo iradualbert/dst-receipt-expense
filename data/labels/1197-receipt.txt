@@ -1,0 +1,50 @@
+{
+    "location": "BAR BISTORANTE, VIA S.MONTANO",
+    "shop": "STABILINENTO HARBIN E TERHALE",
+    "datetime": "28-08-2018 12:41",
+    "items": [
+        {
+            "name": "basso\u2019 Stoviglie",
+            "quantity": 2,
+            "unitprice": 0.5,
+            "amount": 1.0,
+            "category": "misc"
+        },
+        {
+            "name": "Hacedonia",
+            "quantity": 2,
+            "unitprice": 5.0,
+            "amount": 10.0,
+            "category": "misc"
+        },
+        {
+            "name": "Insalata Negombo",
+            "quantity": 1,
+            "unitprice": 10.0,
+            "amount": 10.0,
+            "category": "produce"
+        },
+        {
+            "name": "Bufala",
+            "quantity": 1,
+            "unitprice": 8.0,
+            "amount": 8.0,
+            "category": "dairy"
+        },
+        {
+            "name": "Ponodorini",
+            "quantity": 1,
+            "unitprice": 4.0,
+            "amount": 4.0,
+            "category": "produce"
+        },
+        {
+            "name": "Nat 1/2 It",
+            "quantity": 1,
+            "unitprice": 1.0,
+            "amount": 1.0,
+            "category": "beverages"
+        }
+    ],
+    "total": 34.0
+}

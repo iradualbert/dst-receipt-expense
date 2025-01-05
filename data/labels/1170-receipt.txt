@@ -1,0 +1,43 @@
+{
+    "location": "Universal City, CA 91608",
+    "shop": "Buca di Beppo",
+    "datetime": "07/15/2016 19:57",
+    "items": [
+        {
+            "name": "Iced Tea",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "beverages"
+        },
+        {
+            "name": "Sicilian Bread",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Chianti",
+            "quantity": 2,
+            "unitprice": 14.0,
+            "amount": 28.0,
+            "category": "alcholic_beverages"
+        },
+        {
+            "name": "Antipasto Salad",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "produce"
+        },
+        {
+            "name": "Premium Pizza",
+            "quantity": 1,
+            "unitprice": null,
+            "amount": null,
+            "category": "grains_and_bakery"
+        }
+    ],
+    "total": 109.28
+}

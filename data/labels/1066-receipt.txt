@@ -1,0 +1,58 @@
+{
+    "location": "Bellagio (CO), Italy",
+    "shop": "Ristorante Bellagio",
+    "datetime": "14/07/2019 16:23",
+    "items": [
+        {
+            "name": "Coperato",
+            "quantity": 4,
+            "unitprice": 3,
+            "amount": 12,
+            "category": "misc"
+        },
+        {
+            "name": "Acqua Nat",
+            "quantity": 2,
+            "unitprice": 4,
+            "amount": 8,
+            "category": "beverages"
+        },
+        {
+            "name": "Salmerino Piastra",
+            "quantity": 1,
+            "unitprice": 18,
+            "amount": 18,
+            "category": "chicken_and_meat"
+        },
+        {
+            "name": "Trenette al Pesto",
+            "quantity": 1,
+            "unitprice": 13,
+            "amount": 13,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Spaghetti Pom. Basilico",
+            "quantity": 1,
+            "unitprice": 10,
+            "amount": 10,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Fettuccine Ragu",
+            "quantity": 1,
+            "unitprice": 15,
+            "amount": 15,
+            "category": "grains_and_bakery"
+        },
+        {
+            "name": "Patatine Fritte",
+            "quantity": 4,
+            "unitprice": 1.725,
+            "amount": 6.9,
+            "category": "snacks_and_sweets"
+        }
+    ],
+    "total": 82.0,
+    "tip": 6.9
+}
