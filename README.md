@@ -1,3 +1,20 @@
 ## Project Description
 
-The rapid proliferation of digital devices and the widespread adoption of e-commerce platforms have resulted in an exponential increase in the creation of financial documents, such as receipts and invoices. These documents, integral to tracking and managing financial transactions, have traditionally required manual review for categorization and analysis. However, manually sorting through receipts and invoices to extract relevant data can be highly time-consuming, labor-intensive, and prone to human error. Consequently, there is a growing need for automated solutions that can streamline this process, providing more accurate and efficient methods of categorizing financial information. The primary objective of this project is to develop an intelligent, automated system capable of accurately classifying expenses using images of receipts and invoices, which will ultimately contribute to more effective financial management and decision-making.
+This project aims to automate the extraction, classification, and clustering of receipt data to reduce the time and human effort involved in processing receipt images. By leveraging machine learning techniques, the project enhances efficiency and accuracy in receipt data management. The key steps in the process include:
+
+### 1. **Data Extraction**
+Receipt images are processed using a pretrained Large Language Model (LLM) to extract relevant details such as:
+- Item names
+- Prices
+- Purchase dates
+- Store locations
+
+### 2. **Item Classification**
+The extracted items are classified into predefined categories (e.g., groceries, electronics, household items) using machine learning models, including:
+- K-Nearest Neighbors (KNN)
+- Logistic Regression
+
+### 3. **Clustering Items and Receipts**
+The system performs clustering of both items and receipts using the K-Means algorithm. This helps to:
+- Group similar items together (e.g., identifying frequently purchased items)
+- Cluster receipts based on textual similarities (e.g., receipts from the same store or with similar purchase content)
